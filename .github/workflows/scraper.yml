@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Set up Python 3.x
@@ -14,9 +14,8 @@ jobs:
         with:
           python-version: '3.6' 
       - name: Install requirements
-        run: |
-		pip install selenium webdriver_manager pyvirtualdisplay
-		sudo apt-get install xvfb
-
+        run: pip install selenium webdriver_manager pyvirtualdisplay
+      - name: Install requirements 2
+        run: sudo apt-get install xvfb 
       - name: Download reports 
         run: python source.py secrets.EM secrets.PA
