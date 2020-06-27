@@ -19,3 +19,15 @@ jobs:
         run: sudo apt-get install xvfb 
       - name: Download reports 
         run: python source.py secrets.EM secrets.PA
+      - name: Commit changes
+        run: |
+          git config --local user.name github-actions
+          git config --local user.email "action@github.com"
+          git add .
+          if [[ "$(git status --porcelain)" != "" ]]; then
+              git commit -m "Update data" -a
+              git push origin master
+          fi
+        env:
+          REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+          username: github-actions
