@@ -34,6 +34,7 @@ def scrape_data(email, password):
         # driver.save_screenshot("pass.png")
 
         time.sleep(5*M)
+        driver.save_screenshot("log aft.png")
         # download country-level dara
         driver.get('https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/bhuOB')
         time.sleep(3*M)
