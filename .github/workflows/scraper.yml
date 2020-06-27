@@ -18,7 +18,7 @@ jobs:
       - name: Install requirements 2
         run: sudo apt-get install xvfb 
       - name: Download reports 
-        run: python source.py secrets.EM secrets.PA
+        run: python source.py ${{secrets.EM}} ${{secrets.PA}}
       - name: Commit changes
         run: |
           git config --local user.name github-actions
