@@ -1,0 +1,19 @@
+name: Scrape Reports
+on:
+  push:
+  schedule:
+    - cron: '15 */3 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.6' 
+      - name: Install requirements
+        run: pip install -r selenium, webdriver_manager
+      - name: Download reports 
+        run: python source.py secrets.EM secrets.PA
