@@ -17,8 +17,11 @@ jobs:
         run: pip install selenium webdriver_manager pyvirtualdisplay
       - name: Install requirements 2
         run: sudo apt-get install xvfb 
-      - name: Download reports 
-        run: python source.py ${{secrets.EM}} ${{secrets.PA}}
+      - name: Download reports
+        env: 
+          EM: ${{secrets.EM}}
+          PA: ${{secrets.PA}}
+        run: python source.py "$EM" "$PA"
       - name: Commit changes
         run: |
           git config --local user.name github-actions
