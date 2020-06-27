@@ -1,8 +1,6 @@
 name: Scrape Reports
 on:
   push:
-  schedule:
-    - cron: '15 */3 * * *'
 
 jobs:
   build:
