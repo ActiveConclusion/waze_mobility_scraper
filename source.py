@@ -8,8 +8,11 @@ import time
 import sys
 import os
 from pathlib import Path
+from pyvirtualdisplay import Display
 
 def scrape_data(email, password):
+    display = Display(visible=0, size=(1000, 1000))  
+    display.start()
     driver = webdriver.Chrome(ChromeDriverManager().install())
 
     driver.get('https://stackoverflow.com/users/signup')
@@ -44,6 +47,7 @@ def scrape_data(email, password):
     driver.find_element_by_xpath("//*[contains(text(), 'Download CSV')]").click()
     time.sleep(5)
     driver.quit()
+    display.stop()
     print(os.listdir(os.path.join(Path.home(), "Downloads")))
 
 scrape_data(sys.argv[1], sys.argv[2])
