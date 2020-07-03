@@ -1,7 +1,8 @@
 name: Scrape Reports
 on:
   push:
-
+  schedule:
+    - cron: '10 */3 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,11 +16,8 @@ jobs:
         run: pip install selenium webdriver_manager pyvirtualdisplay
       - name: Install requirements 2
         run: sudo apt-get install xvfb 
-      - name: Download reports
-        env: 
-          EM: ${{secrets.EM}}
-          PA: ${{secrets.PA}}
-        run: python source.py "$EM" "$PA"
+      - name: Scrape reports
+        run: python source.py
       - name: Commit changes
         run: |
           git config --local user.name github-actions
