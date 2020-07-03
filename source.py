@@ -88,7 +88,6 @@ try:
             city_level_data[col].append(cell.text)
             cell_number += 1
         city_level_df = city_level_df.append(pd.DataFrame(city_level_data))
-        print(city_level_df)
         # check is it last page
         page_label = soup.find('div', {'class':'pageLabel'}).text
         cur_rows, all_rows = page_label.split(' / ')
