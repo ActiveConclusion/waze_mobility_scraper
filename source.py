@@ -8,71 +8,112 @@ import time
 import sys
 import os
 from pathlib import Path
+from bs4 import BeautifulSoup
+import pandas as pd
 from pyvirtualdisplay import Display
 
-M = 2
-def scrape_data(email, password):
-    try:
-        display = Display(visible=0, size=(1200, 1200))  
-        display.start()
-        
-        driver = webdriver.Chrome(ChromeDriverManager().install())
+try:
+    # selenium preparation process
+    display = Display(visible=0, size=(1200, 1200))  
+    display.start()
+    options = webdriver.ChromeOptions()
+    options.add_argument('--lang=en')
+    driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
+    # download country-level data
+    driver.get('https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/bhuOB')
+    time.sleep(3)
+    driver.find_element_by_xpath("//button[@class='lego-control md-button md-data-studio-theme md-ink-ripple']").click()
+    driver.find_element_by_xpath("//div[@class='md-label']").click()
+    time.sleep(3)
+    
+    driver.find_element_by_xpath("//*[contains(text(), 'Percent Change Driven Miles/Kilometers by Day')]").click()
+    for _ in range(10):
+        driver.find_element_by_tag_name('body').send_keys(Keys.ARROW_DOWN)
+    
+    country_level_df = pd.DataFrame()
+    all_scraped = False
+    while(not all_scraped): 
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        cells = soup.findAll('div', {'class':'cell'})
 
-        driver.get('https://stackoverflow.com/users/signup')
+        country_level_cols = ['Index', 'Date', 'Country', '% Change In Waze Driven Miles/KMs']
+        country_level_data = {col:[] for col in country_level_cols}
+        cell_number = 0
+        for cell in cells:
+            col = country_level_cols[cell_number%len(country_level_cols)]
+            country_level_data[col].append(cell.text)
+            cell_number += 1
+        country_level_df = country_level_df.append(pd.DataFrame(country_level_data))
+        # check is it last page
+        page_label = soup.find('div', {'class':'pageLabel'}).text
+        cur_rows, all_rows = page_label.split(' / ')
+        last_row = cur_rows.split(' - ')[1]
+        if int(last_row)==int(all_rows):
+            all_scraped = True
+        else:
+            driver.find_element_by_xpath("//div[@class='pageForward']").click()
+            time.sleep(1)
+            # check is page loaded
+            soup = BeautifulSoup(driver.page_source, "html.parser")
+            check = soup.find('div', {'class':'cell'}).text
+            if int(check[:-1]) != int(last_row) + 1:
+                time.sleep(5)
+                print('oops, delay')
+        print(page_label, last_row)
 
-        driver.find_element_by_xpath('//*[@id="openid-buttons"]/button[1]').click()
+    # download city-level data
+    driver.get('https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/epuOB')
+    time.sleep(3)
+    driver.find_element_by_xpath("//button[@class='lego-control md-button md-data-studio-theme md-ink-ripple']").click()
+    driver.find_element_by_xpath("//div[@class='md-label']").click()
+    time.sleep(3)
+    driver.find_element_by_xpath("//*[contains(text(), 'Percent Change Driven Miles/Kilometers by Day')]").click()
+    for _ in range(10):
+        driver.find_element_by_tag_name('body').send_keys(Keys.ARROW_DOWN)
+    
+    city_level_df = pd.DataFrame()
+    all_scraped = False
+    while(not all_scraped): 
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        cells = soup.findAll('div', {'class':'cell'})
 
-        driver.find_element_by_xpath('//*[@id="identifierId"]').send_keys(email)
-        driver.find_element_by_xpath('//*[@id="identifierId"]').send_keys(Keys.ENTER)
-        print('Log')
-        # driver.save_screenshot("log.png")
-        driver.implicitly_wait(8 * M)
+        city_level_cols = ['Index', 'Date', 'City', 'Country', '% Change In Waze Driven Miles/KMs']
+        city_level_data = {col:[] for col in city_level_cols}
+        cell_number = 0
+        for cell in cells:
+            col = city_level_cols[cell_number%len(city_level_cols)]
+            city_level_data[col].append(cell.text)
+            cell_number += 1
+        city_level_df = city_level_df.append(pd.DataFrame(city_level_data))
+        print(city_level_df)
+        # check is it last page
+        page_label = soup.find('div', {'class':'pageLabel'}).text
+        cur_rows, all_rows = page_label.split(' / ')
+        last_row = cur_rows.split(' - ')[1]
+        if int(last_row)==int(all_rows):
+            all_scraped = True
+        else:
+            # click button for next page
+            driver.find_element_by_xpath("//div[@class='pageForward']").click()
+            time.sleep(1)
+            # check is page loaded
+            soup = BeautifulSoup(driver.page_source, "html.parser")
+            check = soup.find('div', {'class':'cell'}).text
+            if int(check[:-1]) != int(last_row) + 1:
+                time.sleep(5)
+                print('oops, delay')
+        print(page_label)   
 
-        driver.find_element_by_xpath('//*[@id="password"]/div[1]/div/div[1]/input').send_keys(password)
-        driver.find_element_by_xpath('//*[@id="password"]/div[1]/div/div[1]/input').send_keys(Keys.ENTER)
-        print('Pass')
 
-        # driver.save_screenshot("pass.png")
+    driver.quit()
+    display.stop()
+except Exception as e:
+    print(e)
 
-        time.sleep(5*M)
-        driver.save_screenshot("log aft.png")
-        driver.find_element_by_xpath("//*[contains(text(), 'Try another way')]").click()
-        time.sleep(5*M)
-        driver.save_screenshot("another way.png")
-        # download country-level dara
-        driver.get('https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/bhuOB')
-        time.sleep(3*M)
-        driver.find_element_by_xpath("//button[@class='lego-control md-button md-data-studio-theme md-ink-ripple']").click()
-        driver.find_element_by_xpath("//div[@class='md-label']").click()
-        print('rep 1')
-        driver.save_screenshot("rep1.png")
-        time.sleep(5*M)
-        driver.find_elements_by_xpath("//div[@class='chart-menu-button header-menu-button']")[1].click()
-        print('rep 1 1')
-        driver.save_screenshot("rep 1 1.png")
-        driver.implicitly_wait(5 * M)
-        driver.find_element_by_xpath("//*[contains(text(), 'Download CSV')]").click()
-        time.sleep(5*M)
-        print('rep 1 2')
-        driver.save_screenshot("rep 1 2.png")
-        # download city-level data
-        driver.get('https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/epuOB')
-        time.sleep(3*M)
-        driver.find_element_by_xpath("//button[@class='lego-control md-button md-data-studio-theme md-ink-ripple']").click()
-        driver.find_element_by_xpath("//div[@class='md-label']").click()
-        print('rep 2')
-        driver.save_screenshot("rep2.png")
-        time.sleep(5*M)
-        driver.find_elements_by_xpath("//div[@class='chart-menu-button header-menu-button']")[1].click()
-        driver.implicitly_wait(5 * M)
-        driver.find_element_by_xpath("//*[contains(text(), 'Download CSV')]").click()
-        print('rep 2 2')
-        driver.save_screenshot("rep2 2.png")
-        time.sleep(5*M)
-        driver.quit()
-        display.stop()
-        print(os.listdir(os.path.join(Path.home(), "Downloads")))
-    except Exception:
-        print(Exception)
+country_level_df = country_level_df.drop(columns=['Index'])
+country_level_df['% Change In Waze Driven Miles/KMs'] = country_level_df['% Change In Waze Driven Miles/KMs'].str.rstrip('%').astype(float)/100
+country_level_df.to_csv("Waze_Country-Level_Data.csv", index=False)
 
-scrape_data(sys.argv[1], sys.argv[2])
+city_level_df = city_level_df.drop(columns=['Index'])
+city_level_df['% Change In Waze Driven Miles/KMs'] = city_level_df['% Change In Waze Driven Miles/KMs'].str.rstrip('%').astype(float)/100
+city_level_df.to_csv("Waze_City-Level_Data.csv", index=False)
