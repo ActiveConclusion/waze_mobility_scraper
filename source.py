@@ -54,11 +54,14 @@ try:
             driver.find_element_by_xpath("//div[@class='pageForward']").click()
             time.sleep(1)
             # check is page loaded
-            soup = BeautifulSoup(driver.page_source, "html.parser")
-            check = soup.find('div', {'class':'cell'}).text
-            if int(check[:-1]) != int(last_row) + 1:
-                time.sleep(5)
-                print('oops, delay')
+            loaded = False
+            while (not loaded):
+                soup = BeautifulSoup(driver.page_source, "html.parser")
+                check = soup.find('div', {'class':'cell'}).text
+                loaded = int(check[:-1]) == int(last_row) + 1
+                if not loaded:
+                    time.sleep(5)
+                    print('oops, delay')
         print(page_label, last_row)
 
     # download city-level data
@@ -97,11 +100,14 @@ try:
             driver.find_element_by_xpath("//div[@class='pageForward']").click()
             time.sleep(1)
             # check is page loaded
-            soup = BeautifulSoup(driver.page_source, "html.parser")
-            check = soup.find('div', {'class':'cell'}).text
-            if int(check[:-1]) != int(last_row) + 1:
-                time.sleep(5)
-                print('oops, delay')
+            loaded = False
+            while (not loaded):
+                soup = BeautifulSoup(driver.page_source, "html.parser")
+                check = soup.find('div', {'class':'cell'}).text
+                loaded = int(check[:-1]) == int(last_row) + 1
+                if not loaded:
+                    time.sleep(5)
+                    print('oops, delay')
         print(page_label)   
 
 
