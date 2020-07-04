@@ -116,9 +116,9 @@ except Exception as e:
     print(e)
 
 country_level_df = country_level_df.drop(columns=['Index'])
-country_level_df['% Change In Waze Driven Miles/KMs'] = country_level_df['% Change In Waze Driven Miles/KMs'].str.rstrip('%').astype(float)/100
+country_level_df['% Change In Waze Driven Miles/KMs'] = pd.to_numeric(country_level_df['% Change In Waze Driven Miles/KMs'].str.rstrip('%'))/100
 country_level_df.to_csv("Waze_Country-Level_Data.csv", index=False)
 
 city_level_df = city_level_df.drop(columns=['Index'])
-city_level_df['% Change In Waze Driven Miles/KMs'] = city_level_df['% Change In Waze Driven Miles/KMs'].str.rstrip('%').astype(float)/100
+city_level_df['% Change In Waze Driven Miles/KMs'] = pd.to_numeric(city_level_df['% Change In Waze Driven Miles/KMs'].str.rstrip('%'))/100
 city_level_df.to_csv("Waze_City-Level_Data.csv", index=False)
