@@ -14,8 +14,6 @@ jobs:
           python-version: '3.6' 
       - name: Install requirements
         run: pip install selenium webdriver_manager pyvirtualdisplay beautifulsoup4 pandas
-      - name: Install requirements 2
-        run: sudo apt-get install xvfb 
       - name: Scrape reports
         run: python source.py
       - name: Commit changes
