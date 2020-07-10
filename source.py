@@ -12,15 +12,22 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from pyvirtualdisplay import Display
 
-try:
-    # selenium preparation process
+
+def start_display():
     display = Display(visible=0, size=(1200, 1200))  
     display.start()
+    return display
+
+
+def start_driver():
     options = webdriver.ChromeOptions()
     options.add_argument('--lang=en')
     driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
-    # download country-level data
-    driver.get('https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/bhuOB')
+    return driver
+
+
+def scrape_data(level, url, driver):
+    driver.get(url)
     time.sleep(3)
     driver.find_element_by_xpath("//button[@class='lego-control md-button md-data-studio-theme md-ink-ripple']").click()
     driver.find_element_by_xpath("//div[@class='md-label']").click()
@@ -30,20 +37,23 @@ try:
     for _ in range(10):
         driver.find_element_by_tag_name('body').send_keys(Keys.ARROW_DOWN)
     
-    country_level_df = pd.DataFrame()
+    df = pd.DataFrame()
     all_scraped = False
     while(not all_scraped): 
         soup = BeautifulSoup(driver.page_source, "html.parser")
         cells = soup.findAll('div', {'class':'cell'})
-
-        country_level_cols = ['Index', 'Date', 'Country', '% Change In Waze Driven Miles/KMs']
-        country_level_data = {col:[] for col in country_level_cols}
+        cols = []
+        if level=='country':
+            cols = ['Index', 'Date', 'Country', '% Change In Waze Driven Miles/KMs']
+        elif level == 'city':
+            cols = ['Index', 'Date', 'City', 'Country', '% Change In Waze Driven Miles/KMs']
+        data = {col:[] for col in cols}
         cell_number = 0
         for cell in cells:
-            col = country_level_cols[cell_number%len(country_level_cols)]
-            country_level_data[col].append(cell.text)
+            col = cols[cell_number%len(cols)]
+            data[col].append(cell.text)
             cell_number += 1
-        country_level_df = country_level_df.append(pd.DataFrame(country_level_data))
+        df = df.append(pd.DataFrame(data), ignore_index=True)
         # check is it last page
         page_label = soup.find('div', {'class':'pageLabel'}).text
         cur_rows, all_rows = page_label.split(' / ')
@@ -62,63 +72,41 @@ try:
                 if not loaded:
                     time.sleep(5)
                     print('oops, delay')
-        print(page_label, last_row)
+        print(page_label)
+    return df
 
-    # download city-level data
-    driver.get('https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/epuOB')
-    time.sleep(3)
-    driver.find_element_by_xpath("//button[@class='lego-control md-button md-data-studio-theme md-ink-ripple']").click()
-    driver.find_element_by_xpath("//div[@class='md-label']").click()
-    time.sleep(3)
-    driver.find_element_by_xpath("//*[contains(text(), 'Percent Change Driven Miles/Kilometers by Day')]").click()
-    for _ in range(10):
-        driver.find_element_by_tag_name('body').send_keys(Keys.ARROW_DOWN)
+
+try:
+    display = start_display()
+    driver = start_driver()
     
-    city_level_df = pd.DataFrame()
-    all_scraped = False
-    while(not all_scraped): 
-        soup = BeautifulSoup(driver.page_source, "html.parser")
-        cells = soup.findAll('div', {'class':'cell'})
-
-        city_level_cols = ['Index', 'Date', 'City', 'Country', '% Change In Waze Driven Miles/KMs']
-        city_level_data = {col:[] for col in city_level_cols}
-        cell_number = 0
-        for cell in cells:
-            col = city_level_cols[cell_number%len(city_level_cols)]
-            city_level_data[col].append(cell.text)
-            cell_number += 1
-        city_level_df = city_level_df.append(pd.DataFrame(city_level_data))
-        # check is it last page
-        page_label = soup.find('div', {'class':'pageLabel'}).text
-        cur_rows, all_rows = page_label.split(' / ')
-        last_row = cur_rows.split(' - ')[1]
-        if int(last_row)==int(all_rows):
-            all_scraped = True
-        else:
-            # click button for next page
-            driver.find_element_by_xpath("//div[@class='pageForward']").click()
-            time.sleep(1)
-            # check is page loaded
-            loaded = False
-            while (not loaded):
-                soup = BeautifulSoup(driver.page_source, "html.parser")
-                check = soup.find('div', {'class':'cell'}).text
-                loaded = int(check[:-1]) == int(last_row) + 1
-                if not loaded:
-                    time.sleep(5)
-                    print('oops, delay')
-        print(page_label)   
-
+    # scrape country-level data
+    status = False
+    tries = 0
+    while (not status and tries < 3):
+        tries += 1
+        country_level_df = scrape_data('country', 'https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/bhuOB', driver)
+        country_level_df['Index'] = country_level_df['Index'].str.rstrip('.').astype(int)
+        if ((country_level_df.Index - country_level_df.index)==1).all():
+            status = True
+            country_level_df = country_level_df.drop(columns=['Index'])
+            country_level_df['% Change In Waze Driven Miles/KMs'] = pd.to_numeric(country_level_df['% Change In Waze Driven Miles/KMs'].str.rstrip('%'))/100
+            country_level_df.to_csv("Waze_Country-Level_Data.csv", index=False)
+    
+    # scrape city-level data
+    status = False
+    tries = 0
+    while (not status and tries < 3):
+        tries += 1
+        city_level_df = scrape_data('city', 'https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/epuOB', driver)
+        city_level_df['Index'] = city_level_df['Index'].str.rstrip('.').astype(int)
+        if ((city_level_df.Index - city_level_df.index)==1).all():
+            status = True
+            city_level_df = city_level_df.drop(columns=['Index'])
+            city_level_df['% Change In Waze Driven Miles/KMs'] = pd.to_numeric(city_level_df['% Change In Waze Driven Miles/KMs'].str.rstrip('%'))/100
+            city_level_df.to_csv("Waze_City-Level_Data.csv", index=False)
 
     driver.quit()
     display.stop()
 except Exception as e:
     print(e)
-
-country_level_df = country_level_df.drop(columns=['Index'])
-country_level_df['% Change In Waze Driven Miles/KMs'] = pd.to_numeric(country_level_df['% Change In Waze Driven Miles/KMs'].str.rstrip('%'))/100
-country_level_df.to_csv("Waze_Country-Level_Data.csv", index=False)
-
-city_level_df = city_level_df.drop(columns=['Index'])
-city_level_df['% Change In Waze Driven Miles/KMs'] = pd.to_numeric(city_level_df['% Change In Waze Driven Miles/KMs'].str.rstrip('%'))/100
-city_level_df.to_csv("Waze_City-Level_Data.csv", index=False)
