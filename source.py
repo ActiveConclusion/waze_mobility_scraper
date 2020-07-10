@@ -28,10 +28,10 @@ def start_driver():
 
 def scrape_data(level, url, driver):
     driver.get(url)
-    time.sleep(3)
+    time.sleep(10)
     driver.find_element_by_xpath("//button[@class='lego-control md-button md-data-studio-theme md-ink-ripple']").click()
     driver.find_element_by_xpath("//div[@class='md-label']").click()
-    time.sleep(3)
+    time.sleep(5)
     
     driver.find_element_by_xpath("//*[contains(text(), 'Percent Change Driven Miles/Kilometers by Day')]").click()
     for _ in range(10):
