@@ -14,6 +14,8 @@ jobs:
           python-version: '3.6' 
       - name: Install requirements
         run: pip install selenium webdriver_manager pyvirtualdisplay beautifulsoup4 pandas
+      - name: Set system locale
+        run: sudo update-locale LANG=LANG=en_US.UTF-8 LANGUAGE
       - name: Scrape reports
         run: python source.py
       - name: Commit changes
