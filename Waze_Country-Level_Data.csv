@@ -5630,23 +5630,23 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Mar 29, 2020",Russia,-0.2
 "Mar 28, 2020",Argentina,-0.96
 "Mar 28, 2020",Ecuador,-0.95
-"Mar 28, 2020",Italy,-0.94
-"Mar 28, 2020",Spain,-0.94
 "Mar 28, 2020",Austria,-0.94
-"Mar 28, 2020",Peru,-0.93
-"Mar 28, 2020",Luxembourg,-0.93
+"Mar 28, 2020",Spain,-0.94
+"Mar 28, 2020",Italy,-0.94
 "Mar 28, 2020",Morocco,-0.93
+"Mar 28, 2020",Luxembourg,-0.93
+"Mar 28, 2020",Peru,-0.93
 "Mar 28, 2020",France,-0.93
 "Mar 28, 2020",South Africa,-0.92
 "Mar 28, 2020",Philippines,-0.92
 "Mar 28, 2020",Colombia,-0.9
 "Mar 28, 2020",Portugal,-0.87
 "Mar 28, 2020",Switzerland,-0.86
-"Mar 28, 2020",Malaysia,-0.86
 "Mar 28, 2020",Israel,-0.86
-"Mar 28, 2020",Belgium,-0.85
-"Mar 28, 2020",Uruguay,-0.85
+"Mar 28, 2020",Malaysia,-0.86
 "Mar 28, 2020",United Arab Emirates,-0.85
+"Mar 28, 2020",Uruguay,-0.85
+"Mar 28, 2020",Belgium,-0.85
 "Mar 28, 2020",Chile,-0.84
 "Mar 28, 2020",Romania,-0.83
 "Mar 28, 2020",Puerto Rico,-0.83
@@ -5658,8 +5658,8 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Mar 28, 2020",Indonesia,-0.73
 "Mar 28, 2020",Canada,-0.72
 "Mar 28, 2020",Costa Rica,-0.71
-"Mar 28, 2020",Hungary,-0.7
 "Mar 28, 2020",Slovakia,-0.7
+"Mar 28, 2020",Hungary,-0.7
 "Mar 28, 2020",Netherlands,-0.66
 "Mar 28, 2020",United States,-0.66
 "Mar 28, 2020",Czechia,-0.65
@@ -5674,27 +5674,27 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Mar 28, 2020",Russia,-0.24
 "Mar 28, 2020",Latvia,-0.19
 "Mar 27, 2020",South Africa,-0.93
-"Mar 27, 2020",Ecuador,-0.92
 "Mar 27, 2020",Peru,-0.92
+"Mar 27, 2020",Ecuador,-0.92
+"Mar 27, 2020",Morocco,-0.91
 "Mar 27, 2020",Italy,-0.91
 "Mar 27, 2020",Argentina,-0.91
-"Mar 27, 2020",Morocco,-0.91
+"Mar 27, 2020",Spain,-0.9
 "Mar 27, 2020",Philippines,-0.9
 "Mar 27, 2020",United Arab Emirates,-0.9
-"Mar 27, 2020",Spain,-0.9
-"Mar 27, 2020",Colombia,-0.87
-"Mar 27, 2020",Austria,-0.87
 "Mar 27, 2020",France,-0.87
+"Mar 27, 2020",Austria,-0.87
+"Mar 27, 2020",Colombia,-0.87
 "Mar 27, 2020",Luxembourg,-0.86
 "Mar 27, 2020",Switzerland,-0.83
-"Mar 27, 2020",Portugal,-0.82
 "Mar 27, 2020",Malaysia,-0.82
+"Mar 27, 2020",Portugal,-0.82
 "Mar 27, 2020",Puerto Rico,-0.8
 "Mar 27, 2020",Belgium,-0.79
 "Mar 27, 2020",Israel,-0.77
 "Mar 27, 2020",Romania,-0.77
-"Mar 27, 2020",Chile,-0.75
 "Mar 27, 2020",Germany,-0.75
+"Mar 27, 2020",Chile,-0.75
 "Mar 27, 2020",Uruguay,-0.74
 "Mar 27, 2020",Guatemala,-0.73
 "Mar 27, 2020",United Kingdom,-0.71
@@ -6314,8 +6314,8 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Mar 13, 2020",Poland,-0.32
 "Mar 13, 2020",Qatar,-0.31
 "Mar 13, 2020",Chile,-0.29
-"Mar 13, 2020",Romania,-0.27
 "Mar 13, 2020",Netherlands,-0.27
+"Mar 13, 2020",Romania,-0.27
 "Mar 13, 2020",Argentina,-0.26
 "Mar 13, 2020",Belgium,-0.23
 "Mar 13, 2020",Uruguay,-0.21
@@ -6325,27 +6325,27 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Mar 13, 2020",Canada,-0.19
 "Mar 13, 2020",Philippines,-0.19
 "Mar 13, 2020",Ecuador,-0.18
-"Mar 13, 2020",Sweden,-0.18
 "Mar 13, 2020",Estonia,-0.18
+"Mar 13, 2020",Sweden,-0.18
 "Mar 13, 2020",France,-0.17
 "Mar 13, 2020",Russia,-0.17
 "Mar 13, 2020",Costa Rica,-0.16
 "Mar 13, 2020",Morocco,-0.15
-"Mar 13, 2020",Peru,-0.14
-"Mar 13, 2020",Latvia,-0.14
 "Mar 13, 2020",Lithuania,-0.14
+"Mar 13, 2020",Latvia,-0.14
+"Mar 13, 2020",Peru,-0.14
 "Mar 13, 2020",Hungary,-0.13
 "Mar 13, 2020",United States,-0.1
 "Mar 13, 2020",United Kingdom,-0.08
 "Mar 13, 2020",Brazil,-0.08
-"Mar 13, 2020",Puerto Rico,-0.06
 "Mar 13, 2020",Indonesia,-0.06
+"Mar 13, 2020",Puerto Rico,-0.06
 "Mar 13, 2020",Guatemala,-0.05
 "Mar 13, 2020",Colombia,-0.04
 "Mar 13, 2020",Australia,-0.03
 "Mar 13, 2020",Ukraine,0.01
-"Mar 13, 2020",South Africa,0.01
 "Mar 13, 2020",Singapore,0.01
+"Mar 13, 2020",South Africa,0.01
 "Mar 13, 2020",Malaysia,0.02
 "Mar 13, 2020",Mexico,0.03
 "Mar 12, 2020",Italy,-0.76
@@ -6353,39 +6353,39 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Mar 12, 2020",Chile,-0.28
 "Mar 12, 2020",Austria,-0.26
 "Mar 12, 2020",Qatar,-0.23
-"Mar 12, 2020",Portugal,-0.2
 "Mar 12, 2020",Spain,-0.2
+"Mar 12, 2020",Portugal,-0.2
 "Mar 12, 2020",Netherlands,-0.18
 "Mar 12, 2020",Switzerland,-0.16
 "Mar 12, 2020",Germany,-0.16
+"Mar 12, 2020",Argentina,-0.14
 "Mar 12, 2020",Israel,-0.14
 "Mar 12, 2020",Philippines,-0.14
-"Mar 12, 2020",Argentina,-0.14
+"Mar 12, 2020",Costa Rica,-0.13
 "Mar 12, 2020",Poland,-0.13
 "Mar 12, 2020",United Arab Emirates,-0.13
-"Mar 12, 2020",Costa Rica,-0.13
 "Mar 12, 2020",Romania,-0.11
 "Mar 12, 2020",Uruguay,-0.11
 "Mar 12, 2020",Belgium,-0.1
-"Mar 12, 2020",Czechia,-0.08
-"Mar 12, 2020",Peru,-0.08
 "Mar 12, 2020",Morocco,-0.08
+"Mar 12, 2020",Peru,-0.08
+"Mar 12, 2020",Czechia,-0.08
 "Mar 12, 2020",France,-0.07
-"Mar 12, 2020",Sweden,-0.06
 "Mar 12, 2020",United Kingdom,-0.06
+"Mar 12, 2020",Sweden,-0.06
 "Mar 12, 2020",Canada,-0.06
 "Mar 12, 2020",Indonesia,-0.05
 "Mar 12, 2020",Hungary,-0.05
+"Mar 12, 2020",Luxembourg,-0.04
+"Mar 12, 2020",Russia,-0.04
 "Mar 12, 2020",Estonia,-0.04
 "Mar 12, 2020",United States,-0.04
-"Mar 12, 2020",Russia,-0.04
-"Mar 12, 2020",Luxembourg,-0.04
 "Mar 12, 2020",Ecuador,-0.03
 "Mar 12, 2020",Guatemala,-0.03
-"Mar 12, 2020",Brazil,-0.02
-"Mar 12, 2020",Latvia,-0.02
-"Mar 12, 2020",Colombia,-0.02
 "Mar 12, 2020",Malaysia,-0.02
+"Mar 12, 2020",Colombia,-0.02
+"Mar 12, 2020",Latvia,-0.02
+"Mar 12, 2020",Brazil,-0.02
 "Mar 12, 2020",Lithuania,-0.01
 "Mar 12, 2020",Mexico,0.0
 "Mar 12, 2020",South Africa,0.0
@@ -6398,7 +6398,7 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Mar 11, 2020",Slovakia,-0.23
 "Mar 11, 2020",Lithuania,-0.22
 "Mar 11, 2020",Austria,-0.16
-"Mar 11, 2020",Germany,-0.13
+"Mar 11, 2020",Qatar,-0.13
 "Mar 11, 2020",Germany,-0.13
 "Mar 11, 2020",Netherlands,-0.12
 "Mar 11, 2020",Philippines,-0.11
