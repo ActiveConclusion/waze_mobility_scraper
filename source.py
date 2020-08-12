@@ -87,7 +87,7 @@ try:
         tries += 1
         country_level_df = scrape_data('country', 'https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/bhuOB', driver)
         country_level_df['Index'] = country_level_df['Index'].str.rstrip('.').astype(int)
-        if ((country_level_df.Index - country_level_df.index)==1).all():
+        if ((country_level_df.Index - country_level_df.index)==1).all() and not country_level_df.duplicated().any():
             status = True
             country_level_df = country_level_df.drop(columns=['Index'])
             country_level_df['% Change In Waze Driven Miles/KMs'] = pd.to_numeric(country_level_df['% Change In Waze Driven Miles/KMs'].str.rstrip('%'))/100
@@ -100,7 +100,7 @@ try:
         tries += 1
         city_level_df = scrape_data('city', 'https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/epuOB', driver)
         city_level_df['Index'] = city_level_df['Index'].str.rstrip('.').astype(int)
-        if ((city_level_df.Index - city_level_df.index)==1).all():
+        if ((city_level_df.Index - city_level_df.index)==1).all() and not city_level_df.duplicated().any():
             status = True
             city_level_df = city_level_df.drop(columns=['Index'])
             city_level_df['% Change In Waze Driven Miles/KMs'] = pd.to_numeric(city_level_df['% Change In Waze Driven Miles/KMs'].str.rstrip('%'))/100
