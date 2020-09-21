@@ -32,8 +32,12 @@ def scrape_data(level, url, driver):
     driver.find_element_by_xpath("//button[@class='lego-control md-button md-data-studio-theme md-ink-ripple']").click()
     driver.find_element_by_xpath("//div[@class='md-label']").click()
     time.sleep(5)
-    
-    driver.find_element_by_xpath("//*[contains(text(), 'Percent Change Driven Miles/Kilometers by Day')]").click()
+
+    action = webdriver.common.action_chains.ActionChains(driver)
+    action.move_to_element_with_offset(driver.find_element_by_xpath("//div[@class='md-label']"), 0, -5)
+    action.click().click()
+    action.perform()
+
     for _ in range(10):
         driver.find_element_by_tag_name('body').send_keys(Keys.ARROW_DOWN)
     
