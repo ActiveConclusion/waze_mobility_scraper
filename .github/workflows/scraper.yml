@@ -2,7 +2,7 @@ name: Scrape Reports
 on:
   push:
   schedule:
-    - cron: '10 */1 * * *'
+    - cron: '0 * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
