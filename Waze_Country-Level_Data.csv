@@ -24,10 +24,10 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Apr 4, 2021",Hungary,-0.16
 "Apr 4, 2021",Mexico,-0.12
 "Apr 4, 2021",Romania,-0.07
-"Apr 4, 2021",Argentina,-0.01
 "Apr 4, 2021",Malaysia,-0.01
-"Apr 4, 2021",Indonesia,0.0
+"Apr 4, 2021",Argentina,-0.01
 "Apr 4, 2021",United States,0.0
+"Apr 4, 2021",Indonesia,0.0
 "Apr 4, 2021",Lithuania,0.02
 "Apr 4, 2021",Sweden,0.06
 "Apr 4, 2021",Puerto Rico,0.1
@@ -65,10 +65,10 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Apr 3, 2021",Guatemala,-0.23
 "Apr 3, 2021",Spain,-0.21
 "Apr 3, 2021",Puerto Rico,-0.2
-"Apr 3, 2021",Colombia,-0.19
 "Apr 3, 2021",Sweden,-0.19
 "Apr 3, 2021",United Kingdom,-0.19
 "Apr 3, 2021",Indonesia,-0.19
+"Apr 3, 2021",Colombia,-0.19
 "Apr 3, 2021",France,-0.16
 "Apr 3, 2021",Hungary,-0.15
 "Apr 3, 2021",Belgium,-0.09
@@ -99,13 +99,13 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Apr 2, 2021",Germany,-0.38
 "Apr 2, 2021",Italy,-0.35
 "Apr 2, 2021",Uruguay,-0.35
-"Apr 2, 2021",Colombia,-0.34
 "Apr 2, 2021",Argentina,-0.34
+"Apr 2, 2021",Colombia,-0.34
 "Apr 2, 2021",Mexico,-0.33
 "Apr 2, 2021",Ecuador,-0.31
+"Apr 2, 2021",Netherlands,-0.28
 "Apr 2, 2021",Puerto Rico,-0.28
 "Apr 2, 2021",United Kingdom,-0.28
-"Apr 2, 2021",Netherlands,-0.28
 "Apr 2, 2021",Guatemala,-0.26
 "Apr 2, 2021",Canada,-0.22
 "Apr 2, 2021",Switzerland,-0.21
@@ -117,8 +117,8 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Apr 2, 2021",Indonesia,-0.06
 "Apr 2, 2021",Estonia,-0.06
 "Apr 2, 2021",Malaysia,-0.05
-"Apr 2, 2021",Sweden,-0.03
 "Apr 2, 2021",France,-0.03
+"Apr 2, 2021",Sweden,-0.03
 "Apr 2, 2021",Israel,0.01
 "Apr 2, 2021",United States,0.01
 "Apr 2, 2021",Romania,0.01
@@ -140,23 +140,23 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Apr 1, 2021",Belgium,-0.18
 "Apr 1, 2021",Ecuador,-0.15
 "Apr 1, 2021",Spain,-0.15
-"Apr 1, 2021",Uruguay,-0.13
 "Apr 1, 2021",Canada,-0.13
-"Apr 1, 2021",Brazil,-0.12
+"Apr 1, 2021",Uruguay,-0.13
 "Apr 1, 2021",Chile,-0.12
+"Apr 1, 2021",Brazil,-0.12
 "Apr 1, 2021",Indonesia,-0.09
 "Apr 1, 2021",United Kingdom,-0.08
 "Apr 1, 2021",Portugal,-0.07
 "Apr 1, 2021",Slovakia,-0.06
 "Apr 1, 2021",Mexico,-0.05
 "Apr 1, 2021",Luxembourg,-0.05
-"Apr 1, 2021",Czechia,-0.01
 "Apr 1, 2021",United States,-0.01
-"Apr 1, 2021",France,0.01
+"Apr 1, 2021",Czechia,-0.01
 "Apr 1, 2021",Malaysia,0.01
+"Apr 1, 2021",France,0.01
 "Apr 1, 2021",Puerto Rico,0.03
-"Apr 1, 2021",Poland,0.04
 "Apr 1, 2021",Germany,0.04
+"Apr 1, 2021",Poland,0.04
 "Apr 1, 2021",Romania,0.08
 "Apr 1, 2021",Switzerland,0.08
 "Apr 1, 2021",Guatemala,0.09
@@ -186,38 +186,38 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Mar 31, 2021",Ecuador,-0.18
 "Mar 31, 2021",Chile,-0.17
 "Mar 31, 2021",United Kingdom,-0.14
-"Mar 31, 2021",Mexico,-0.14
 "Mar 31, 2021",Belgium,-0.14
+"Mar 31, 2021",Mexico,-0.14
 "Mar 31, 2021",Portugal,-0.12
 "Mar 31, 2021",Luxembourg,-0.11
 "Mar 31, 2021",Peru,-0.1
 "Mar 31, 2021",United States,-0.08
 "Mar 31, 2021",Germany,-0.08
 "Mar 31, 2021",Czechia,-0.06
-"Mar 31, 2021",Uruguay,-0.05
 "Mar 31, 2021",Switzerland,-0.05
 "Mar 31, 2021",Puerto Rico,-0.05
+"Mar 31, 2021",Uruguay,-0.05
 "Mar 31, 2021",Hungary,-0.02
 "Mar 31, 2021",France,0.0
 "Mar 31, 2021",Poland,0.01
 "Mar 31, 2021",Malaysia,0.04
 "Mar 31, 2021",Estonia,0.04
-"Mar 31, 2021",Spain,0.06
 "Mar 31, 2021",Romania,0.06
-"Mar 31, 2021",Sweden,0.11
+"Mar 31, 2021",Spain,0.06
 "Mar 31, 2021",Singapore,0.11
 "Mar 31, 2021",Latvia,0.11
+"Mar 31, 2021",Sweden,0.11
 "Mar 31, 2021",Morocco,0.12
 "Mar 31, 2021",South Africa,0.13
 "Mar 31, 2021",Guatemala,0.2
 "Mar 31, 2021",Argentina,0.2
 "Mar 31, 2021",United Arab Emirates,0.21
-"Mar 31, 2021",Qatar,0.22
 "Mar 31, 2021",Colombia,0.22
 "Mar 31, 2021",Russia,0.22
+"Mar 31, 2021",Qatar,0.22
 "Mar 31, 2021",Australia,0.34
-"Mar 31, 2021",Costa Rica,0.38
 "Mar 31, 2021",Israel,0.38
+"Mar 31, 2021",Costa Rica,0.38
 "Mar 31, 2021",Lithuania,0.6
 "Mar 30, 2021",Philippines,-0.6
 "Mar 30, 2021",Netherlands,-0.35
@@ -227,21 +227,21 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Mar 30, 2021",Brazil,-0.26
 "Mar 30, 2021",Italy,-0.25
 "Mar 30, 2021",Indonesia,-0.24
-"Mar 30, 2021",Luxembourg,-0.23
 "Mar 30, 2021",Portugal,-0.23
+"Mar 30, 2021",Luxembourg,-0.23
 "Mar 30, 2021",Chile,-0.22
 "Mar 30, 2021",Slovakia,-0.21
-"Mar 30, 2021",Germany,-0.2
 "Mar 30, 2021",Canada,-0.2
 "Mar 30, 2021",Switzerland,-0.2
-"Mar 30, 2021",Mexico,-0.19
+"Mar 30, 2021",Germany,-0.2
 "Mar 30, 2021",Peru,-0.19
+"Mar 30, 2021",Mexico,-0.19
 "Mar 30, 2021",Ecuador,-0.18
 "Mar 30, 2021",Poland,-0.17
 "Mar 30, 2021",Belgium,-0.17
+"Mar 30, 2021",United Kingdom,-0.15
 "Mar 30, 2021",Hungary,-0.15
 "Mar 30, 2021",Sweden,-0.15
-"Mar 30, 2021",United Kingdom,-0.15
 "Mar 30, 2021",Czechia,-0.12
 "Mar 30, 2021",United States,-0.11
 "Mar 30, 2021",Spain,-0.09
@@ -276,15 +276,15 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Mar 29, 2021",Germany,-0.24
 "Mar 29, 2021",Canada,-0.24
 "Mar 29, 2021",Poland,-0.23
-"Mar 29, 2021",United Kingdom,-0.22
 "Mar 29, 2021",Brazil,-0.22
+"Mar 29, 2021",United Kingdom,-0.22
 "Mar 29, 2021",Mexico,-0.2
 "Mar 29, 2021",Portugal,-0.19
-"Mar 29, 2021",Spain,-0.16
 "Mar 29, 2021",Belgium,-0.16
+"Mar 29, 2021",Spain,-0.16
 "Mar 29, 2021",United States,-0.15
-"Mar 29, 2021",Ecuador,-0.14
 "Mar 29, 2021",Hungary,-0.14
+"Mar 29, 2021",Ecuador,-0.14
 "Mar 29, 2021",Czechia,-0.13
 "Mar 29, 2021",Sweden,-0.12
 "Mar 29, 2021",Luxembourg,-0.06
@@ -298,7 +298,7 @@ Date,Country,% Change In Waze Driven Miles/KMs
 "Mar 29, 2021",Estonia,0.03
 "Mar 29, 2021",Singapore,0.04
 "Mar 29, 2021",Costa Rica,0.06
-"Mar 29, 2021",Guatemala,0.09
+"Mar 29, 2021",Latvia,0.09
 "Mar 29, 2021",Guatemala,0.09
 "Mar 29, 2021",Morocco,0.12
 "Mar 29, 2021",United Arab Emirates,0.19
