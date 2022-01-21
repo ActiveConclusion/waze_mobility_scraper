@@ -1,454 +1,591 @@
 Date,City,Country,% Change In Waze Driven Miles/KMs
-"Jan 18, 2022",Belo Horizonte,Brazil,-0.99
-"Jan 18, 2022",Tel Aviv-Yafo,Israel,-0.99
-"Jan 18, 2022",Charlotte,United States,-0.99
-"Jan 18, 2022",Bristol,United Kingdom,-0.99
-"Jan 18, 2022",Raleigh,United States,-0.99
-"Jan 18, 2022",Manchester,United Kingdom,-0.98
-"Jan 18, 2022",Cape Town,South Africa,-0.98
-"Jan 18, 2022",Stamford,United States,-0.98
-"Jan 18, 2022",Salvador,Brazil,-0.98
-"Jan 18, 2022",Jakarta,Indonesia,-0.98
-"Jan 18, 2022",Rome,Italy,-0.98
-"Jan 18, 2022",Doha,Qatar,-0.98
-"Jan 18, 2022",Budapest,Hungary,-0.97
-"Jan 18, 2022",Sacramento,United States,-0.97
-"Jan 18, 2022",Philadelphia,United States,-0.97
-"Jan 18, 2022",Porto Alegre,Brazil,-0.97
-"Jan 18, 2022",Monterrey,Mexico,-0.96
-"Jan 18, 2022",Puebla City,Mexico,-0.93
-"Jan 18, 2022",Bordeaux,France,-0.93
-"Jan 18, 2022",Santiago De Queretaro,Mexico,-0.89
-"Jan 18, 2022",Denver,United States,-0.89
-"Jan 18, 2022",Vaughan,Canada,-0.89
-"Jan 18, 2022",Brno,Czechia,-0.88
-"Jan 18, 2022",Sydney,Australia,-0.85
-"Jan 18, 2022",Vilnius,Lithuania,-0.83
-"Jan 18, 2022",Bekasi,Indonesia,-0.6
-"Jan 18, 2022",Lviv,Ukraine,0.39
+"Jan 19, 2022",Be'er Sheva,Israel,-0.99
+"Jan 19, 2022",London,United Kingdom,-0.99
+"Jan 19, 2022",Birmingham,United Kingdom,-0.98
+"Jan 19, 2022",Amsterdam,Netherlands,-0.98
+"Jan 19, 2022",Raleigh,United States,-0.98
+"Jan 19, 2022",Brno,Czechia,-0.98
+"Jan 19, 2022",New Orleans,United States,-0.97
+"Jan 19, 2022",Doha,Qatar,-0.97
+"Jan 19, 2022",Irvine,United States,-0.96
+"Jan 19, 2022",Krakow,Poland,-0.96
+"Jan 19, 2022",San Jose,Costa Rica,-0.96
+"Jan 19, 2022",Fort Worth,United States,-0.95
+"Jan 19, 2022",Sydney,Australia,-0.94
+"Jan 19, 2022",Puebla City,Mexico,-0.93
+"Jan 19, 2022",Melbourne,Australia,-0.93
+"Jan 19, 2022",Hamilton,Canada,-0.93
+"Jan 19, 2022",Quezon City,Philippines,-0.91
+"Jan 19, 2022",Maipu,Chile,-0.89
+"Jan 19, 2022",Sacramento,United States,-0.89
+"Jan 19, 2022",Hartford,United States,-0.88
+"Jan 19, 2022",Oakland,United States,-0.87
+"Jan 19, 2022",Tangerang,Indonesia,-0.49
+"Jan 19, 2022",Vitoria,Brazil,-0.3
+"Jan 18, 2022",Vitoria,Brazil,-0.74
+"Jan 18, 2022",Irvine,United States,-0.61
+"Jan 18, 2022",Makati,Philippines,-0.54
+"Jan 18, 2022",Minneapolis,United States,-0.49
+"Jan 18, 2022",Seattle,United States,-0.49
+"Jan 18, 2022",Ottawa,Canada,-0.49
+"Jan 18, 2022",Quebec City,Canada,-0.48
+"Jan 18, 2022",Quezon City,Philippines,-0.48
+"Jan 18, 2022",Toronto,Canada,-0.47
+"Jan 18, 2022",Monterrey,Mexico,-0.47
+"Jan 18, 2022",Sacramento,United States,-0.45
+"Jan 18, 2022",Pittsburgh,United States,-0.45
+"Jan 18, 2022",Santiago De Queretaro,Mexico,-0.45
+"Jan 18, 2022",Manila,Philippines,-0.43
+"Jan 18, 2022",Charlotte,United States,-0.43
+"Jan 18, 2022",Austin,United States,-0.43
+"Jan 18, 2022",Los Angeles,United States,-0.41
+"Jan 18, 2022",San Jose,United States,-0.4
+"Jan 18, 2022",San Diego,United States,-0.4
+"Jan 18, 2022",Portland,United States,-0.39
+"Jan 18, 2022",Fort Lauderdale,United States,-0.39
+"Jan 18, 2022",Mexico City,Mexico,-0.37
+"Jan 18, 2022",Denver,United States,-0.36
+"Jan 18, 2022",Amsterdam,Netherlands,-0.36
+"Jan 18, 2022",Mississauga,Canada,-0.35
+"Jan 18, 2022",Washington,United States,-0.32
+"Jan 18, 2022",Cambridge,United States,-0.32
+"Jan 18, 2022",Dallas,United States,-0.31
+"Jan 18, 2022",Brasilia,Brazil,-0.31
+"Jan 18, 2022",Atlanta,United States,-0.31
+"Jan 18, 2022",Cincinnati,United States,-0.3
+"Jan 18, 2022",Houston,United States,-0.3
+"Jan 18, 2022",Phoenix,United States,-0.29
+"Jan 18, 2022",Boston,United States,-0.29
+"Jan 18, 2022",Baltimore,United States,-0.29
+"Jan 18, 2022",Oakland,United States,-0.28
+"Jan 18, 2022",San Francisco,United States,-0.27
+"Jan 18, 2022",Nashville,United States,-0.27
+"Jan 18, 2022",Chicago,United States,-0.26
+"Jan 18, 2022",Hartford,United States,-0.25
+"Jan 18, 2022",Miami,United States,-0.25
+"Jan 18, 2022",Orlando,United States,-0.25
+"Jan 18, 2022",New Orleans,United States,-0.24
+"Jan 18, 2022",Hamilton,Canada,-0.24
+"Jan 18, 2022",Raleigh,United States,-0.24
+"Jan 18, 2022",Zapopan,Mexico,-0.24
+"Jan 18, 2022",Tampa,United States,-0.24
+"Jan 18, 2022",Lima,Peru,-0.23
+"Jan 18, 2022",San Antonio,United States,-0.23
+"Jan 18, 2022",Philadelphia,United States,-0.23
+"Jan 18, 2022",Montreal,Canada,-0.23
+"Jan 18, 2022",Detroit,United States,-0.23
+"Jan 18, 2022",Brussels,Belgium,-0.21
+"Jan 18, 2022",Jakarta,Indonesia,-0.21
+"Jan 18, 2022",Belo Horizonte,Brazil,-0.21
+"Jan 18, 2022",Jersey City,United States,-0.2
+"Jan 18, 2022",Miami Beach,United States,-0.2
+"Jan 18, 2022",Buenos Aires,Argentina,-0.18
+"Jan 18, 2022",San Jose,Costa Rica,-0.18
+"Jan 18, 2022",Guadalajara,Mexico,-0.18
+"Jan 18, 2022",Vaughan,Canada,-0.18
+"Jan 18, 2022",Puebla City,Mexico,-0.17
+"Jan 18, 2022",Tel Aviv-Yafo,Israel,-0.17
+"Jan 18, 2022",Fort Worth,United States,-0.17
+"Jan 18, 2022",Stockholm,Sweden,-0.15
+"Jan 18, 2022",Madrid,Spain,-0.14
+"Jan 18, 2022",Petah Tikva,Israel,-0.14
+"Jan 18, 2022",Ramat Gan,Israel,-0.13
+"Jan 18, 2022",Stamford,United States,-0.12
+"Jan 18, 2022",Calgary,Canada,-0.12
+"Jan 18, 2022",Bekasi,Indonesia,-0.12
+"Jan 18, 2022",Sydney,Australia,-0.11
+"Jan 18, 2022",Sao Paulo,Brazil,-0.11
+"Jan 18, 2022",Lille,France,-0.1
+"Jan 18, 2022",Paris,France,-0.1
+"Jan 18, 2022",Antwerp,Belgium,-0.1
+"Jan 18, 2022",Tangerang,Indonesia,-0.09
+"Jan 18, 2022",Jerusalem,Israel,-0.08
+"Jan 18, 2022",Quito,Ecuador,-0.08
+"Jan 18, 2022",Be'er Sheva,Israel,-0.08
+"Jan 18, 2022",South Tangerang,Indonesia,-0.07
+"Jan 18, 2022",Kuala Lumpur,Malaysia,-0.07
+"Jan 18, 2022",Melbourne,Australia,-0.07
+"Jan 18, 2022",London,United Kingdom,-0.06
+"Jan 18, 2022",Manchester,United Kingdom,-0.06
+"Jan 18, 2022",Rio De Janeiro,Brazil,-0.05
+"Jan 18, 2022",Rome,Italy,-0.05
+"Jan 18, 2022",Petaling Jaya,Malaysia,-0.05
+"Jan 18, 2022",Milan,Italy,-0.05
+"Jan 18, 2022",Porto Alegre,Brazil,-0.05
+"Jan 18, 2022",Johor Bahru,Malaysia,-0.04
+"Jan 18, 2022",Budapest,Hungary,-0.04
+"Jan 18, 2022",Rotterdam,Netherlands,-0.04
+"Jan 18, 2022",Salvador,Brazil,-0.03
+"Jan 18, 2022",Rishon Letsiyon,Israel,-0.03
+"Jan 18, 2022",Barcelona,Spain,-0.03
+"Jan 18, 2022",New York,United States,-0.02
+"Jan 18, 2022",Yonkers,United States,-0.02
+"Jan 18, 2022",Bratislava,Slovakia,-0.02
+"Jan 18, 2022",Haifa,Israel,-0.01
+"Jan 18, 2022",Guarulhos,Brazil,-0.01
+"Jan 18, 2022",Bordeaux,France,0.0
+"Jan 18, 2022",Bogota,Colombia,0.0
+"Jan 18, 2022",Lisbon,Portugal,0.02
+"Jan 18, 2022",Shah Alam,Malaysia,0.02
+"Jan 18, 2022",Cape Town,South Africa,0.02
+"Jan 18, 2022",Riga,Latvia,0.03
+"Jan 18, 2022",Toulouse,France,0.03
+"Jan 18, 2022",Singapore,Singapore,0.03
+"Jan 18, 2022",Recife,Brazil,0.03
+"Jan 18, 2022",Luton,United Kingdom,0.04
+"Jan 18, 2022",Curitiba,Brazil,0.05
+"Jan 18, 2022",Prague,Czechia,0.05
+"Jan 18, 2022",Montevideo,Uruguay,0.06
+"Jan 18, 2022",Florianopolis,Brazil,0.07
+"Jan 18, 2022",Liverpool,United Kingdom,0.07
+"Jan 18, 2022",Lyon,France,0.08
+"Jan 18, 2022",Krakow,Poland,0.1
+"Jan 18, 2022",Warsaw,Poland,0.1
+"Jan 18, 2022",Fortaleza,Brazil,0.11
+"Jan 18, 2022",Bucharest,Romania,0.12
+"Jan 18, 2022",Ghent,Belgium,0.15
+"Jan 18, 2022",Puchong,Malaysia,0.17
+"Jan 18, 2022",Birmingham,United Kingdom,0.18
+"Jan 18, 2022",Santiago,Chile,0.18
+"Jan 18, 2022",Las Condes,Chile,0.19
+"Jan 18, 2022",Cali,Colombia,0.2
+"Jan 18, 2022",Marseille,France,0.27
+"Jan 18, 2022",Berlin,Germany,0.29
+"Jan 18, 2022",Brno,Czechia,0.33
+"Jan 18, 2022",Maipu,Chile,0.34
+"Jan 18, 2022",Medellin,Colombia,0.4
+"Jan 18, 2022",Bristol,United Kingdom,0.43
+"Jan 18, 2022",Doha,Qatar,0.43
+"Jan 18, 2022",Brisbane,Australia,0.47
+"Jan 18, 2022",Ipoh,Malaysia,0.52
+"Jan 18, 2022",Perth,Australia,0.55
+"Jan 18, 2022",Gold Coast,Australia,0.61
+"Jan 18, 2022",Vilnius,Lithuania,0.85
+"Jan 18, 2022",Kyiv,Ukraine,1.08
+"Jan 18, 2022",Kaunas,Lithuania,1.1
 "Jan 17, 2022",Pittsburgh,United States,-0.71
-"Jan 17, 2022",Detroit,United States,-0.71
-"Jan 17, 2022",Ottawa,Canada,-0.69
-"Jan 17, 2022",Charlotte,United States,-0.67
-"Jan 17, 2022",Mississauga,Canada,-0.62
-"Jan 17, 2022",Jersey City,United States,-0.61
-"Jan 17, 2022",Toronto,Canada,-0.6
-"Jan 17, 2022",Washington,United States,-0.58
-"Jan 17, 2022",Hamilton,Canada,-0.56
-"Jan 17, 2022",Minneapolis,United States,-0.56
+"Jan 17, 2022",Mississauga,Canada,-0.63
+"Jan 17, 2022",Makati,Philippines,-0.63
+"Jan 17, 2022",Charlotte,United States,-0.63
+"Jan 17, 2022",Hamilton,Canada,-0.62
+"Jan 17, 2022",Toronto,Canada,-0.62
+"Jan 17, 2022",Ottawa,Canada,-0.62
+"Jan 17, 2022",Monterrey,Mexico,-0.61
+"Jan 17, 2022",Washington,United States,-0.6
+"Jan 17, 2022",Quebec City,Canada,-0.57
+"Jan 17, 2022",Baltimore,United States,-0.57
+"Jan 17, 2022",Vaughan,Canada,-0.56
 "Jan 17, 2022",Nashville,United States,-0.55
-"Jan 17, 2022",Quezon City,Philippines,-0.53
-"Jan 17, 2022",Makati,Philippines,-0.53
-"Jan 17, 2022",Baltimore,United States,-0.52
-"Jan 17, 2022",Irvine,United States,-0.52
-"Jan 17, 2022",Montreal,Canada,-0.48
-"Jan 17, 2022",Seattle,United States,-0.48
-"Jan 17, 2022",Sacramento,United States,-0.48
-"Jan 17, 2022",Quebec City,Canada,-0.47
-"Jan 17, 2022",Raleigh,United States,-0.47
-"Jan 17, 2022",Cincinnati,United States,-0.46
-"Jan 17, 2022",Monterrey,Mexico,-0.46
-"Jan 17, 2022",Portland,United States,-0.46
-"Jan 17, 2022",Atlanta,United States,-0.46
-"Jan 17, 2022",Los Angeles,United States,-0.45
-"Jan 17, 2022",San Francisco,United States,-0.44
-"Jan 17, 2022",San Diego,United States,-0.43
-"Jan 17, 2022",Manila,Philippines,-0.42
+"Jan 17, 2022",Raleigh,United States,-0.53
+"Jan 17, 2022",Detroit,United States,-0.5
+"Jan 17, 2022",Montreal,Canada,-0.5
+"Jan 17, 2022",Portland,United States,-0.49
+"Jan 17, 2022",Atlanta,United States,-0.49
+"Jan 17, 2022",Liverpool,United Kingdom,-0.48
+"Jan 17, 2022",Cincinnati,United States,-0.48
+"Jan 17, 2022",Jersey City,United States,-0.48
+"Jan 17, 2022",Quezon City,Philippines,-0.48
+"Jan 17, 2022",San Francisco,United States,-0.47
+"Jan 17, 2022",Irvine,United States,-0.45
+"Jan 17, 2022",Oakland,United States,-0.45
+"Jan 17, 2022",Austin,United States,-0.44
+"Jan 17, 2022",Tangerang,Indonesia,-0.43
+"Jan 17, 2022",Los Angeles,United States,-0.43
+"Jan 17, 2022",San Jose,United States,-0.43
+"Jan 17, 2022",San Diego,United States,-0.42
 "Jan 17, 2022",Philadelphia,United States,-0.42
-"Jan 17, 2022",Austin,United States,-0.4
-"Jan 17, 2022",San Jose,United States,-0.4
-"Jan 17, 2022",Hartford,United States,-0.38
+"Jan 17, 2022",Cambridge,United States,-0.42
+"Jan 17, 2022",Minneapolis,United States,-0.41
+"Jan 17, 2022",Seattle,United States,-0.39
+"Jan 17, 2022",Manila,Philippines,-0.39
+"Jan 17, 2022",Bekasi,Indonesia,-0.37
 "Jan 17, 2022",Mexico City,Mexico,-0.37
-"Jan 17, 2022",Oakland,United States,-0.36
-"Jan 17, 2022",Brussels,Belgium,-0.35
-"Jan 17, 2022",Dallas,United States,-0.35
+"Jan 17, 2022",Fort Lauderdale,United States,-0.36
+"Jan 17, 2022",Sacramento,United States,-0.35
 "Jan 17, 2022",Jakarta,Indonesia,-0.35
 "Jan 17, 2022",Houston,United States,-0.34
-"Jan 17, 2022",New Orleans,United States,-0.34
+"Jan 17, 2022",Bristol,United Kingdom,-0.34
+"Jan 17, 2022",Dallas,United States,-0.33
 "Jan 17, 2022",San Antonio,United States,-0.32
-"Jan 17, 2022",Boston,United States,-0.32
-"Jan 17, 2022",Chicago,United States,-0.32
-"Jan 17, 2022",Vitoria,Brazil,-0.31
-"Jan 17, 2022",Vaughan,Canada,-0.31
-"Jan 17, 2022",Denver,United States,-0.27
-"Jan 17, 2022",Miami Beach,United States,-0.27
-"Jan 17, 2022",Sydney,Australia,-0.27
-"Jan 17, 2022",Fort Worth,United States,-0.27
-"Jan 17, 2022",Phoenix,United States,-0.26
-"Jan 17, 2022",Puebla City,Mexico,-0.26
-"Jan 17, 2022",Bekasi,Indonesia,-0.25
-"Jan 17, 2022",Miami,United States,-0.25
-"Jan 17, 2022",Amsterdam,Netherlands,-0.25
-"Jan 17, 2022",Rotterdam,Netherlands,-0.23
-"Jan 17, 2022",Tampa,United States,-0.23
-"Jan 17, 2022",Guadalajara,Mexico,-0.22
+"Jan 17, 2022",Phoenix,United States,-0.32
+"Jan 17, 2022",Boston,United States,-0.31
+"Jan 17, 2022",New Orleans,United States,-0.31
+"Jan 17, 2022",Denver,United States,-0.31
+"Jan 17, 2022",Miami,United States,-0.31
+"Jan 17, 2022",Chicago,United States,-0.31
+"Jan 17, 2022",Fort Worth,United States,-0.26
+"Jan 17, 2022",Tampa,United States,-0.26
+"Jan 17, 2022",Puebla City,Mexico,-0.24
+"Jan 17, 2022",Krakow,Poland,-0.24
+"Jan 17, 2022",Stockholm,Sweden,-0.24
+"Jan 17, 2022",Santiago De Queretaro,Mexico,-0.23
 "Jan 17, 2022",Lima,Peru,-0.22
-"Jan 17, 2022",Cambridge,United States,-0.22
-"Jan 17, 2022",Fort Lauderdale,United States,-0.21
-"Jan 17, 2022",Melbourne,Australia,-0.2
-"Jan 17, 2022",Santiago De Queretaro,Mexico,-0.19
+"Jan 17, 2022",Orlando,United States,-0.21
+"Jan 17, 2022",Yonkers,United States,-0.2
+"Jan 17, 2022",Amsterdam,Netherlands,-0.2
+"Jan 17, 2022",Brasilia,Brazil,-0.19
+"Jan 17, 2022",Guadalajara,Mexico,-0.19
+"Jan 17, 2022",Tel Aviv-Yafo,Israel,-0.18
+"Jan 17, 2022",Zapopan,Mexico,-0.18
 "Jan 17, 2022",New York,United States,-0.18
-"Jan 17, 2022",Orlando,United States,-0.18
-"Jan 17, 2022",Tel Aviv-Yafo,Israel,-0.15
-"Jan 17, 2022",Petah Tikva,Israel,-0.15
-"Jan 17, 2022",Zapopan,Mexico,-0.15
-"Jan 17, 2022",Brasilia,Brazil,-0.15
+"Jan 17, 2022",Miami Beach,United States,-0.16
+"Jan 17, 2022",Melbourne,Australia,-0.15
+"Jan 17, 2022",Belo Horizonte,Brazil,-0.14
+"Jan 17, 2022",Petah Tikva,Israel,-0.14
 "Jan 17, 2022",Madrid,Spain,-0.14
-"Jan 17, 2022",San Jose,Costa Rica,-0.13
-"Jan 17, 2022",Stamford,United States,-0.13
-"Jan 17, 2022",Stockholm,Sweden,-0.13
-"Jan 17, 2022",Paris,France,-0.12
-"Jan 17, 2022",Belo Horizonte,Brazil,-0.12
-"Jan 17, 2022",Yonkers,United States,-0.12
+"Jan 17, 2022",Rotterdam,Netherlands,-0.13
+"Jan 17, 2022",Sydney,Australia,-0.12
 "Jan 17, 2022",Jerusalem,Israel,-0.11
-"Jan 17, 2022",Calgary,Canada,-0.11
-"Jan 17, 2022",Rome,Italy,-0.11
-"Jan 17, 2022",South Tangerang,Indonesia,-0.1
-"Jan 17, 2022",Ramat Gan,Israel,-0.1
-"Jan 17, 2022",London,United Kingdom,-0.09
-"Jan 17, 2022",Buenos Aires,Argentina,-0.07
-"Jan 17, 2022",Barcelona,Spain,-0.07
-"Jan 17, 2022",Budapest,Hungary,-0.04
-"Jan 17, 2022",Milan,Italy,-0.04
-"Jan 17, 2022",Maipu,Chile,-0.04
-"Jan 17, 2022",Haifa,Israel,-0.04
-"Jan 17, 2022",Bratislava,Slovakia,-0.03
-"Jan 17, 2022",Luton,United Kingdom,-0.03
-"Jan 17, 2022",Florianopolis,Brazil,-0.02
-"Jan 17, 2022",Antwerp,Belgium,-0.02
-"Jan 17, 2022",Riga,Latvia,-0.01
-"Jan 17, 2022",Rio De Janeiro,Brazil,0.0
+"Jan 17, 2022",Ramat Gan,Israel,-0.11
+"Jan 17, 2022",Paris,France,-0.11
+"Jan 17, 2022",Haifa,Israel,-0.11
+"Jan 17, 2022",Barcelona,Spain,-0.09
+"Jan 17, 2022",Rome,Italy,-0.08
+"Jan 17, 2022",Buenos Aires,Argentina,-0.08
+"Jan 17, 2022",Ghent,Belgium,-0.06
+"Jan 17, 2022",London,United Kingdom,-0.06
+"Jan 17, 2022",Manchester,United Kingdom,-0.06
+"Jan 17, 2022",Milan,Italy,-0.05
+"Jan 17, 2022",Rishon Letsiyon,Israel,-0.05
+"Jan 17, 2022",Budapest,Hungary,-0.05
+"Jan 17, 2022",Lisbon,Portugal,-0.01
+"Jan 17, 2022",Lyon,France,-0.01
+"Jan 17, 2022",Florianopolis,Brazil,0.0
 "Jan 17, 2022",Singapore,Singapore,0.01
-"Jan 17, 2022",Tangerang,Indonesia,0.02
-"Jan 17, 2022",Liverpool,United Kingdom,0.02
+"Jan 17, 2022",San Jose,Costa Rica,0.01
+"Jan 17, 2022",Rio De Janeiro,Brazil,0.01
+"Jan 17, 2022",Riga,Latvia,0.02
 "Jan 17, 2022",Bogota,Colombia,0.02
-"Jan 17, 2022",Lisbon,Portugal,0.03
+"Jan 17, 2022",Brussels,Belgium,0.02
+"Jan 17, 2022",Hartford,United States,0.02
+"Jan 17, 2022",Luton,United Kingdom,0.03
 "Jan 17, 2022",Sao Paulo,Brazil,0.03
-"Jan 17, 2022",Ghent,Belgium,0.04
-"Jan 17, 2022",Salvador,Brazil,0.05
-"Jan 17, 2022",Toulouse,France,0.06
-"Jan 17, 2022",Bristol,United Kingdom,0.06
-"Jan 17, 2022",Manchester,United Kingdom,0.06
-"Jan 17, 2022",Brno,Czechia,0.08
-"Jan 17, 2022",Cape Town,South Africa,0.08
-"Jan 17, 2022",Bordeaux,France,0.08
-"Jan 17, 2022",Johor Bahru,Malaysia,0.09
+"Jan 17, 2022",Cape Town,South Africa,0.05
+"Jan 17, 2022",Birmingham,United Kingdom,0.05
+"Jan 17, 2022",Bratislava,Slovakia,0.05
+"Jan 17, 2022",Johor Bahru,Malaysia,0.05
+"Jan 17, 2022",Salvador,Brazil,0.06
+"Jan 17, 2022",Prague,Czechia,0.06
+"Jan 17, 2022",Bordeaux,France,0.07
+"Jan 17, 2022",Lille,France,0.07
 "Jan 17, 2022",Kuala Lumpur,Malaysia,0.09
-"Jan 17, 2022",Prague,Czechia,0.09
-"Jan 17, 2022",Santiago,Chile,0.1
+"Jan 17, 2022",Toulouse,France,0.09
+"Jan 17, 2022",Las Condes,Chile,0.09
+"Jan 17, 2022",Santiago,Chile,0.09
 "Jan 17, 2022",Bucharest,Romania,0.1
-"Jan 17, 2022",Rishon Letsiyon,Israel,0.1
-"Jan 17, 2022",Birmingham,United Kingdom,0.1
-"Jan 17, 2022",Lyon,France,0.1
 "Jan 17, 2022",Petaling Jaya,Malaysia,0.11
-"Jan 17, 2022",Lille,France,0.12
-"Jan 17, 2022",Medellin,Colombia,0.16
-"Jan 17, 2022",Recife,Brazil,0.17
-"Jan 17, 2022",Shah Alam,Malaysia,0.17
-"Jan 17, 2022",Fortaleza,Brazil,0.17
+"Jan 17, 2022",Stamford,United States,0.13
+"Jan 17, 2022",Recife,Brazil,0.15
+"Jan 17, 2022",Cali,Colombia,0.16
+"Jan 17, 2022",Be'er Sheva,Israel,0.17
 "Jan 17, 2022",Guarulhos,Brazil,0.19
-"Jan 17, 2022",Be'er Sheva,Israel,0.19
-"Jan 17, 2022",Quito,Ecuador,0.2
-"Jan 17, 2022",Las Condes,Chile,0.2
-"Jan 17, 2022",Warsaw,Poland,0.21
+"Jan 17, 2022",Brno,Czechia,0.21
+"Jan 17, 2022",Fortaleza,Brazil,0.21
 "Jan 17, 2022",Curitiba,Brazil,0.22
-"Jan 17, 2022",Cali,Colombia,0.26
-"Jan 17, 2022",Porto Alegre,Brazil,0.28
-"Jan 17, 2022",Montevideo,Uruguay,0.31
-"Jan 17, 2022",Doha,Qatar,0.34
-"Jan 17, 2022",Puchong,Malaysia,0.36
-"Jan 17, 2022",Krakow,Poland,0.37
-"Jan 17, 2022",Brisbane,Australia,0.39
-"Jan 17, 2022",Berlin,Germany,0.4
-"Jan 17, 2022",Marseille,France,0.4
-"Jan 17, 2022",Ipoh,Malaysia,0.6
-"Jan 17, 2022",Gold Coast,Australia,0.72
-"Jan 17, 2022",Perth,Australia,0.74
-"Jan 17, 2022",Vilnius,Lithuania,0.75
-"Jan 17, 2022",Kaunas,Lithuania,0.96
-"Jan 17, 2022",Kyiv,Ukraine,1.15
-"Jan 16, 2022",Oakland,United States,-0.72
-"Jan 16, 2022",Makati,Philippines,-0.67
-"Jan 16, 2022",Charlotte,United States,-0.6
-"Jan 16, 2022",Raleigh,United States,-0.58
-"Jan 16, 2022",Manila,Philippines,-0.57
-"Jan 16, 2022",Nashville,United States,-0.54
-"Jan 16, 2022",Atlanta,United States,-0.54
+"Jan 17, 2022",Antwerp,Belgium,0.23
+"Jan 17, 2022",South Tangerang,Indonesia,0.23
+"Jan 17, 2022",Shah Alam,Malaysia,0.24
+"Jan 17, 2022",Medellin,Colombia,0.27
+"Jan 17, 2022",Puchong,Malaysia,0.27
+"Jan 17, 2022",Porto Alegre,Brazil,0.27
+"Jan 17, 2022",Quito,Ecuador,0.28
+"Jan 17, 2022",Montevideo,Uruguay,0.28
+"Jan 17, 2022",Doha,Qatar,0.31
+"Jan 17, 2022",Calgary,Canada,0.33
+"Jan 17, 2022",Maipu,Chile,0.34
+"Jan 17, 2022",Vitoria,Brazil,0.35
+"Jan 17, 2022",Marseille,France,0.38
+"Jan 17, 2022",Warsaw,Poland,0.43
+"Jan 17, 2022",Brisbane,Australia,0.47
+"Jan 17, 2022",Perth,Australia,0.68
+"Jan 17, 2022",Berlin,Germany,0.7
+"Jan 17, 2022",Ipoh,Malaysia,0.71
+"Jan 17, 2022",Vilnius,Lithuania,0.94
+"Jan 17, 2022",Gold Coast,Australia,1.12
+"Jan 17, 2022",Kyiv,Ukraine,1.16
+"Jan 17, 2022",Kaunas,Lithuania,1.24
+"Jan 16, 2022",Charlotte,United States,-0.67
+"Jan 16, 2022",Manila,Philippines,-0.61
+"Jan 16, 2022",Raleigh,United States,-0.6
+"Jan 16, 2022",Atlanta,United States,-0.57
+"Jan 16, 2022",Makati,Philippines,-0.56
 "Jan 16, 2022",Quezon City,Philippines,-0.53
-"Jan 16, 2022",Bekasi,Indonesia,-0.51
+"Jan 16, 2022",New Orleans,United States,-0.53
+"Jan 16, 2022",Nashville,United States,-0.5
 "Jan 16, 2022",Portland,United States,-0.49
-"Jan 16, 2022",Los Angeles,United States,-0.44
-"Jan 16, 2022",Washington,United States,-0.43
-"Jan 16, 2022",Monterrey,Mexico,-0.43
+"Jan 16, 2022",San Francisco,United States,-0.49
+"Jan 16, 2022",Hartford,United States,-0.46
+"Jan 16, 2022",Minneapolis,United States,-0.46
+"Jan 16, 2022",San Jose,United States,-0.46
+"Jan 16, 2022",Washington,United States,-0.45
+"Jan 16, 2022",Brasilia,Brazil,-0.43
+"Jan 16, 2022",Los Angeles,United States,-0.43
+"Jan 16, 2022",Austin,United States,-0.42
 "Jan 16, 2022",Mexico City,Mexico,-0.42
-"Jan 16, 2022",Quebec City,Canada,-0.41
-"Jan 16, 2022",San Francisco,United States,-0.41
-"Jan 16, 2022",New Orleans,United States,-0.39
-"Jan 16, 2022",Austin,United States,-0.39
-"Jan 16, 2022",Cambridge,United States,-0.38
-"Jan 16, 2022",San Diego,United States,-0.38
-"Jan 16, 2022",San Jose,United States,-0.38
-"Jan 16, 2022",Philadelphia,United States,-0.37
-"Jan 16, 2022",Detroit,United States,-0.37
-"Jan 16, 2022",Irvine,United States,-0.34
-"Jan 16, 2022",Amsterdam,Netherlands,-0.34
+"Jan 16, 2022",Sacramento,United States,-0.42
+"Jan 16, 2022",Monterrey,Mexico,-0.4
+"Jan 16, 2022",Oakland,United States,-0.39
+"Jan 16, 2022",San Diego,United States,-0.36
+"Jan 16, 2022",Baltimore,United States,-0.35
 "Jan 16, 2022",Pittsburgh,United States,-0.34
-"Jan 16, 2022",Miami Beach,United States,-0.34
-"Jan 16, 2022",Seattle,United States,-0.33
-"Jan 16, 2022",Baltimore,United States,-0.33
-"Jan 16, 2022",Guadalajara,Mexico,-0.33
-"Jan 16, 2022",Brasilia,Brazil,-0.32
-"Jan 16, 2022",Montreal,Canada,-0.31
-"Jan 16, 2022",Denver,United States,-0.31
-"Jan 16, 2022",Lima,Peru,-0.3
-"Jan 16, 2022",Dallas,United States,-0.3
-"Jan 16, 2022",Chicago,United States,-0.3
+"Jan 16, 2022",Jakarta,Indonesia,-0.33
+"Jan 16, 2022",Montreal,Canada,-0.33
+"Jan 16, 2022",Philadelphia,United States,-0.32
+"Jan 16, 2022",Lima,Peru,-0.31
+"Jan 16, 2022",Dallas,United States,-0.31
+"Jan 16, 2022",Santiago De Queretaro,Mexico,-0.3
+"Jan 16, 2022",Miami,United States,-0.3
+"Jan 16, 2022",Mississauga,Canada,-0.3
 "Jan 16, 2022",Puebla City,Mexico,-0.29
-"Jan 16, 2022",Miami,United States,-0.29
-"Jan 16, 2022",San Jose,Costa Rica,-0.29
-"Jan 16, 2022",Ottawa,Canada,-0.28
-"Jan 16, 2022",Mississauga,Canada,-0.28
-"Jan 16, 2022",Rotterdam,Netherlands,-0.27
+"Jan 16, 2022",Denver,United States,-0.29
+"Jan 16, 2022",San Antonio,United States,-0.29
+"Jan 16, 2022",Hamilton,Canada,-0.29
+"Jan 16, 2022",Amsterdam,Netherlands,-0.28
 "Jan 16, 2022",Belo Horizonte,Brazil,-0.27
-"Jan 16, 2022",Santiago De Queretaro,Mexico,-0.26
-"Jan 16, 2022",Fort Worth,United States,-0.26
-"Jan 16, 2022",San Antonio,United States,-0.26
-"Jan 16, 2022",Zapopan,Mexico,-0.25
+"Jan 16, 2022",Quebec City,Canada,-0.27
+"Jan 16, 2022",Detroit,United States,-0.27
+"Jan 16, 2022",Bekasi,Indonesia,-0.27
+"Jan 16, 2022",Guadalajara,Mexico,-0.26
 "Jan 16, 2022",Houston,United States,-0.25
-"Jan 16, 2022",Cincinnati,United States,-0.25
-"Jan 16, 2022",Krakow,Poland,-0.24
-"Jan 16, 2022",Boston,United States,-0.23
-"Jan 16, 2022",Tangerang,Indonesia,-0.22
-"Jan 16, 2022",Orlando,United States,-0.21
-"Jan 16, 2022",Toronto,Canada,-0.2
-"Jan 16, 2022",Jakarta,Indonesia,-0.2
-"Jan 16, 2022",Jersey City,United States,-0.2
-"Jan 16, 2022",Liverpool,United Kingdom,-0.18
+"Jan 16, 2022",Chicago,United States,-0.25
+"Jan 16, 2022",Seattle,United States,-0.25
+"Jan 16, 2022",Zapopan,Mexico,-0.23
+"Jan 16, 2022",Boston,United States,-0.22
+"Jan 16, 2022",Toronto,Canada,-0.22
+"Jan 16, 2022",Tangerang,Indonesia,-0.21
+"Jan 16, 2022",Miami Beach,United States,-0.19
+"Jan 16, 2022",Fort Worth,United States,-0.19
+"Jan 16, 2022",Jersey City,United States,-0.19
+"Jan 16, 2022",Orlando,United States,-0.19
+"Jan 16, 2022",San Jose,Costa Rica,-0.19
+"Jan 16, 2022",Cincinnati,United States,-0.18
+"Jan 16, 2022",Ottawa,Canada,-0.18
 "Jan 16, 2022",Paris,France,-0.18
-"Jan 16, 2022",Madrid,Spain,-0.17
-"Jan 16, 2022",Fort Lauderdale,United States,-0.17
+"Jan 16, 2022",Phoenix,United States,-0.17
 "Jan 16, 2022",Tel Aviv-Yafo,Israel,-0.16
-"Jan 16, 2022",Vaughan,Canada,-0.16
 "Jan 16, 2022",Buenos Aires,Argentina,-0.16
-"Jan 16, 2022",Manchester,United Kingdom,-0.15
-"Jan 16, 2022",Melbourne,Australia,-0.15
-"Jan 16, 2022",Sacramento,United States,-0.15
-"Jan 16, 2022",Hartford,United States,-0.14
-"Jan 16, 2022",Bratislava,Slovakia,-0.14
-"Jan 16, 2022",Minneapolis,United States,-0.14
-"Jan 16, 2022",Budapest,Hungary,-0.14
 "Jan 16, 2022",New York,United States,-0.14
-"Jan 16, 2022",Rome,Italy,-0.13
-"Jan 16, 2022",Fortaleza,Brazil,-0.13
-"Jan 16, 2022",Brno,Czechia,-0.13
-"Jan 16, 2022",South Tangerang,Indonesia,-0.12
-"Jan 16, 2022",Jerusalem,Israel,-0.11
+"Jan 16, 2022",Fort Lauderdale,United States,-0.14
+"Jan 16, 2022",Madrid,Spain,-0.14
+"Jan 16, 2022",Petah Tikva,Israel,-0.12
+"Jan 16, 2022",Budapest,Hungary,-0.12
+"Jan 16, 2022",Rome,Italy,-0.11
+"Jan 16, 2022",Lisbon,Portugal,-0.11
+"Jan 16, 2022",Bratislava,Slovakia,-0.1
+"Jan 16, 2022",Haifa,Israel,-0.1
+"Jan 16, 2022",Stamford,United States,-0.1
 "Jan 16, 2022",Rio De Janeiro,Brazil,-0.1
-"Jan 16, 2022",Yonkers,United States,-0.1
-"Jan 16, 2022",Brussels,Belgium,-0.1
-"Jan 16, 2022",Hamilton,Canada,-0.1
-"Jan 16, 2022",Phoenix,United States,-0.09
+"Jan 16, 2022",Jerusalem,Israel,-0.1
+"Jan 16, 2022",Yonkers,United States,-0.09
 "Jan 16, 2022",London,United Kingdom,-0.08
-"Jan 16, 2022",Petah Tikva,Israel,-0.08
-"Jan 16, 2022",Bucharest,Romania,-0.08
-"Jan 16, 2022",Stockholm,Sweden,-0.07
-"Jan 16, 2022",Stamford,United States,-0.07
-"Jan 16, 2022",Ramat Gan,Israel,-0.06
+"Jan 16, 2022",Lille,France,-0.08
+"Jan 16, 2022",Bucharest,Romania,-0.07
+"Jan 16, 2022",Riga,Latvia,-0.07
+"Jan 16, 2022",Johor Bahru,Malaysia,-0.07
+"Jan 16, 2022",Irvine,United States,-0.06
+"Jan 16, 2022",Rotterdam,Netherlands,-0.06
+"Jan 16, 2022",Fortaleza,Brazil,-0.06
+"Jan 16, 2022",Melbourne,Australia,-0.05
 "Jan 16, 2022",Sao Paulo,Brazil,-0.05
-"Jan 16, 2022",Riga,Latvia,-0.04
-"Jan 16, 2022",Salvador,Brazil,-0.04
-"Jan 16, 2022",Barcelona,Spain,-0.03
-"Jan 16, 2022",Curitiba,Brazil,-0.03
-"Jan 16, 2022",Johor Bahru,Malaysia,-0.02
-"Jan 16, 2022",Maipu,Chile,-0.01
+"Jan 16, 2022",Rishon Letsiyon,Israel,-0.03
+"Jan 16, 2022",Salvador,Brazil,-0.03
+"Jan 16, 2022",Curitiba,Brazil,-0.02
+"Jan 16, 2022",Puchong,Malaysia,-0.02
+"Jan 16, 2022",Bogota,Colombia,-0.02
+"Jan 16, 2022",Tampa,United States,0.0
 "Jan 16, 2022",Recife,Brazil,0.0
-"Jan 16, 2022",Lisbon,Portugal,0.0
+"Jan 16, 2022",Brussels,Belgium,0.0
 "Jan 16, 2022",Florianopolis,Brazil,0.0
-"Jan 16, 2022",Bogota,Colombia,0.0
-"Jan 16, 2022",Haifa,Israel,0.0
-"Jan 16, 2022",Las Condes,Chile,0.02
-"Jan 16, 2022",Tampa,United States,0.02
-"Jan 16, 2022",Toulouse,France,0.03
-"Jan 16, 2022",Antwerp,Belgium,0.03
-"Jan 16, 2022",Warsaw,Poland,0.03
-"Jan 16, 2022",Montevideo,Uruguay,0.04
-"Jan 16, 2022",Petaling Jaya,Malaysia,0.05
-"Jan 16, 2022",Ghent,Belgium,0.05
-"Jan 16, 2022",Santiago,Chile,0.05
-"Jan 16, 2022",Rishon Letsiyon,Israel,0.05
-"Jan 16, 2022",Sydney,Australia,0.06
+"Jan 16, 2022",Ramat Gan,Israel,0.01
+"Jan 16, 2022",Warsaw,Poland,0.01
+"Jan 16, 2022",Toulouse,France,0.01
+"Jan 16, 2022",Ghent,Belgium,0.01
+"Jan 16, 2022",Stockholm,Sweden,0.02
+"Jan 16, 2022",Santiago,Chile,0.03
+"Jan 16, 2022",Shah Alam,Malaysia,0.03
+"Jan 16, 2022",Quito,Ecuador,0.04
+"Jan 16, 2022",South Tangerang,Indonesia,0.04
+"Jan 16, 2022",Manchester,United Kingdom,0.05
+"Jan 16, 2022",Antwerp,Belgium,0.05
+"Jan 16, 2022",Milan,Italy,0.05
+"Jan 16, 2022",Cambridge,United States,0.06
 "Jan 16, 2022",Kuala Lumpur,Malaysia,0.06
-"Jan 16, 2022",Milan,Italy,0.07
-"Jan 16, 2022",Berlin,Germany,0.07
-"Jan 16, 2022",Vitoria,Brazil,0.07
-"Jan 16, 2022",Quito,Ecuador,0.08
-"Jan 16, 2022",Be'er Sheva,Israel,0.09
-"Jan 16, 2022",Shah Alam,Malaysia,0.1
-"Jan 16, 2022",Prague,Czechia,0.11
-"Jan 16, 2022",Singapore,Singapore,0.11
-"Jan 16, 2022",Guarulhos,Brazil,0.11
-"Jan 16, 2022",Cali,Colombia,0.12
-"Jan 16, 2022",Puchong,Malaysia,0.14
-"Jan 16, 2022",Porto Alegre,Brazil,0.14
-"Jan 16, 2022",Bordeaux,France,0.17
-"Jan 16, 2022",Bristol,United Kingdom,0.19
-"Jan 16, 2022",Lyon,France,0.2
-"Jan 16, 2022",Cape Town,South Africa,0.21
-"Jan 16, 2022",Lille,France,0.23
-"Jan 16, 2022",Calgary,Canada,0.25
-"Jan 16, 2022",Birmingham,United Kingdom,0.26
-"Jan 16, 2022",Perth,Australia,0.27
-"Jan 16, 2022",Doha,Qatar,0.32
-"Jan 16, 2022",Ipoh,Malaysia,0.39
-"Jan 16, 2022",Vilnius,Lithuania,0.44
-"Jan 16, 2022",Brisbane,Australia,0.46
-"Jan 16, 2022",Luton,United Kingdom,0.47
-"Jan 16, 2022",Marseille,France,0.52
-"Jan 16, 2022",Medellin,Colombia,0.55
-"Jan 16, 2022",Kaunas,Lithuania,0.73
-"Jan 16, 2022",Gold Coast,Australia,0.74
-"Jan 16, 2022",Kyiv,Ukraine,1.36
-"Jan 15, 2022",Makati,Philippines,-0.64
-"Jan 15, 2022",Manila,Philippines,-0.57
-"Jan 15, 2022",Quezon City,Philippines,-0.56
-"Jan 15, 2022",Tangerang,Indonesia,-0.53
+"Jan 16, 2022",Be'er Sheva,Israel,0.07
+"Jan 16, 2022",Montevideo,Uruguay,0.07
+"Jan 16, 2022",Barcelona,Spain,0.09
+"Jan 16, 2022",Berlin,Germany,0.09
+"Jan 16, 2022",Singapore,Singapore,0.1
+"Jan 16, 2022",Liverpool,United Kingdom,0.12
+"Jan 16, 2022",Bristol,United Kingdom,0.13
+"Jan 16, 2022",Petaling Jaya,Malaysia,0.13
+"Jan 16, 2022",Prague,Czechia,0.13
+"Jan 16, 2022",Brno,Czechia,0.13
+"Jan 16, 2022",Birmingham,United Kingdom,0.14
+"Jan 16, 2022",Cali,Colombia,0.15
+"Jan 16, 2022",Las Condes,Chile,0.16
+"Jan 16, 2022",Porto Alegre,Brazil,0.16
+"Jan 16, 2022",Lyon,France,0.19
+"Jan 16, 2022",Bordeaux,France,0.2
+"Jan 16, 2022",Guarulhos,Brazil,0.22
+"Jan 16, 2022",Perth,Australia,0.23
+"Jan 16, 2022",Cape Town,South Africa,0.23
+"Jan 16, 2022",Luton,United Kingdom,0.23
+"Jan 16, 2022",Vaughan,Canada,0.25
+"Jan 16, 2022",Vitoria,Brazil,0.29
+"Jan 16, 2022",Maipu,Chile,0.3
+"Jan 16, 2022",Krakow,Poland,0.33
+"Jan 16, 2022",Doha,Qatar,0.34
+"Jan 16, 2022",Calgary,Canada,0.36
+"Jan 16, 2022",Medellin,Colombia,0.38
+"Jan 16, 2022",Ipoh,Malaysia,0.4
+"Jan 16, 2022",Sydney,Australia,0.41
+"Jan 16, 2022",Brisbane,Australia,0.51
+"Jan 16, 2022",Marseille,France,0.53
+"Jan 16, 2022",Gold Coast,Australia,0.71
+"Jan 16, 2022",Vilnius,Lithuania,0.73
+"Jan 16, 2022",Kaunas,Lithuania,0.83
+"Jan 16, 2022",Kyiv,Ukraine,1.35
+"Jan 15, 2022",Quezon City,Philippines,-0.6
+"Jan 15, 2022",Cambridge,United States,-0.58
+"Jan 15, 2022",Manila,Philippines,-0.56
+"Jan 15, 2022",San Francisco,United States,-0.53
+"Jan 15, 2022",Minneapolis,United States,-0.51
 "Jan 15, 2022",New Orleans,United States,-0.51
-"Jan 15, 2022",San Francisco,United States,-0.5
-"Jan 15, 2022",Brasilia,Brazil,-0.5
-"Jan 15, 2022",Detroit,United States,-0.49
-"Jan 15, 2022",Mississauga,Canada,-0.48
-"Jan 15, 2022",Portland,United States,-0.48
-"Jan 15, 2022",San Jose,United States,-0.47
-"Jan 15, 2022",Monterrey,Mexico,-0.46
-"Jan 15, 2022",Pittsburgh,United States,-0.44
-"Jan 15, 2022",Los Angeles,United States,-0.43
-"Jan 15, 2022",Amsterdam,Netherlands,-0.42
+"Jan 15, 2022",Makati,Philippines,-0.47
+"Jan 15, 2022",Monterrey,Mexico,-0.44
+"Jan 15, 2022",Los Angeles,United States,-0.44
+"Jan 15, 2022",San Jose,United States,-0.42
+"Jan 15, 2022",Portland,United States,-0.41
+"Jan 15, 2022",Seattle,United States,-0.41
+"Jan 15, 2022",Denver,United States,-0.41
+"Jan 15, 2022",Austin,United States,-0.41
 "Jan 15, 2022",Mexico City,Mexico,-0.41
+"Jan 15, 2022",Amsterdam,Netherlands,-0.4
 "Jan 15, 2022",Ottawa,Canada,-0.4
-"Jan 15, 2022",Austin,United States,-0.4
 "Jan 15, 2022",San Diego,United States,-0.4
-"Jan 15, 2022",Rotterdam,Netherlands,-0.39
-"Jan 15, 2022",Baltimore,United States,-0.38
-"Jan 15, 2022",Puebla City,Mexico,-0.36
-"Jan 15, 2022",Jakarta,Indonesia,-0.34
-"Jan 15, 2022",Santiago De Queretaro,Mexico,-0.33
-"Jan 15, 2022",Bekasi,Indonesia,-0.32
-"Jan 15, 2022",Belo Horizonte,Brazil,-0.32
-"Jan 15, 2022",Quito,Ecuador,-0.31
-"Jan 15, 2022",Guadalajara,Mexico,-0.3
-"Jan 15, 2022",Quebec City,Canada,-0.3
-"Jan 15, 2022",Irvine,United States,-0.3
-"Jan 15, 2022",Seattle,United States,-0.3
-"Jan 15, 2022",Washington,United States,-0.3
-"Jan 15, 2022",Denver,United States,-0.3
-"Jan 15, 2022",Boston,United States,-0.29
-"Jan 15, 2022",Oakland,United States,-0.29
+"Jan 15, 2022",Zapopan,Mexico,-0.39
+"Jan 15, 2022",Rotterdam,Netherlands,-0.37
+"Jan 15, 2022",Puebla City,Mexico,-0.37
+"Jan 15, 2022",Santiago De Queretaro,Mexico,-0.36
+"Jan 15, 2022",Jakarta,Indonesia,-0.36
+"Jan 15, 2022",Washington,United States,-0.34
+"Jan 15, 2022",Oakland,United States,-0.34
+"Jan 15, 2022",Bekasi,Indonesia,-0.33
+"Jan 15, 2022",Guadalajara,Mexico,-0.32
+"Jan 15, 2022",Detroit,United States,-0.32
+"Jan 15, 2022",Quebec City,Canada,-0.32
+"Jan 15, 2022",Boston,United States,-0.31
+"Jan 15, 2022",Irvine,United States,-0.31
+"Jan 15, 2022",Dallas,United States,-0.3
+"Jan 15, 2022",Mississauga,Canada,-0.3
+"Jan 15, 2022",Toronto,Canada,-0.29
 "Jan 15, 2022",Chicago,United States,-0.29
+"Jan 15, 2022",Recife,Brazil,-0.29
+"Jan 15, 2022",Belo Horizonte,Brazil,-0.29
+"Jan 15, 2022",Montreal,Canada,-0.29
+"Jan 15, 2022",San Antonio,United States,-0.28
 "Jan 15, 2022",Philadelphia,United States,-0.27
-"Jan 15, 2022",Vaughan,Canada,-0.27
-"Jan 15, 2022",Tampa,United States,-0.27
-"Jan 15, 2022",San Jose,Costa Rica,-0.27
-"Jan 15, 2022",Atlanta,United States,-0.27
-"Jan 15, 2022",Dallas,United States,-0.27
-"Jan 15, 2022",Montreal,Canada,-0.27
-"Jan 15, 2022",Toronto,Canada,-0.27
-"Jan 15, 2022",Rishon Letsiyon,Israel,-0.26
-"Jan 15, 2022",Zapopan,Mexico,-0.26
-"Jan 15, 2022",Miami,United States,-0.26
-"Jan 15, 2022",San Antonio,United States,-0.25
-"Jan 15, 2022",Houston,United States,-0.24
-"Jan 15, 2022",Recife,Brazil,-0.24
-"Jan 15, 2022",Lima,Peru,-0.24
-"Jan 15, 2022",Minneapolis,United States,-0.23
-"Jan 15, 2022",Miami Beach,United States,-0.23
-"Jan 15, 2022",Petah Tikva,Israel,-0.21
+"Jan 15, 2022",Ramat Gan,Israel,-0.26
+"Jan 15, 2022",Lima,Peru,-0.25
+"Jan 15, 2022",Atlanta,United States,-0.25
+"Jan 15, 2022",Tampa,United States,-0.25
+"Jan 15, 2022",Houston,United States,-0.25
+"Jan 15, 2022",Stockholm,Sweden,-0.25
+"Jan 15, 2022",Sacramento,United States,-0.23
+"Jan 15, 2022",Fort Worth,United States,-0.22
+"Jan 15, 2022",Miami,United States,-0.22
+"Jan 15, 2022",Tangerang,Indonesia,-0.22
+"Jan 15, 2022",Brasilia,Brazil,-0.21
 "Jan 15, 2022",Tel Aviv-Yafo,Israel,-0.21
-"Jan 15, 2022",Sacramento,United States,-0.2
-"Jan 15, 2022",Stockholm,Sweden,-0.19
-"Jan 15, 2022",Paris,France,-0.19
-"Jan 15, 2022",Jersey City,United States,-0.18
-"Jan 15, 2022",Ramat Gan,Israel,-0.18
-"Jan 15, 2022",Rio De Janeiro,Brazil,-0.18
+"Jan 15, 2022",Rishon Letsiyon,Israel,-0.2
+"Jan 15, 2022",Pittsburgh,United States,-0.2
 "Jan 15, 2022",Buenos Aires,Argentina,-0.18
-"Jan 15, 2022",Cambridge,United States,-0.16
-"Jan 15, 2022",Fort Lauderdale,United States,-0.16
-"Jan 15, 2022",Brussels,Belgium,-0.15
-"Jan 15, 2022",Calgary,Canada,-0.15
-"Jan 15, 2022",Rome,Italy,-0.15
-"Jan 15, 2022",Phoenix,United States,-0.15
-"Jan 15, 2022",Fort Worth,United States,-0.15
-"Jan 15, 2022",Haifa,Israel,-0.14
-"Jan 15, 2022",Orlando,United States,-0.14
-"Jan 15, 2022",New York,United States,-0.13
-"Jan 15, 2022",Sao Paulo,Brazil,-0.13
-"Jan 15, 2022",Raleigh,United States,-0.12
-"Jan 15, 2022",Curitiba,Brazil,-0.1
-"Jan 15, 2022",Florianopolis,Brazil,-0.1
+"Jan 15, 2022",Rio De Janeiro,Brazil,-0.18
+"Jan 15, 2022",Baltimore,United States,-0.18
+"Jan 15, 2022",Florianopolis,Brazil,-0.17
+"Jan 15, 2022",San Jose,Costa Rica,-0.17
+"Jan 15, 2022",Paris,France,-0.17
+"Jan 15, 2022",Petah Tikva,Israel,-0.15
+"Jan 15, 2022",Be'er Sheva,Israel,-0.14
+"Jan 15, 2022",Sao Paulo,Brazil,-0.14
+"Jan 15, 2022",New York,United States,-0.14
+"Jan 15, 2022",Jersey City,United States,-0.13
+"Jan 15, 2022",Melbourne,Australia,-0.12
+"Jan 15, 2022",Yonkers,United States,-0.12
+"Jan 15, 2022",Bratislava,Slovakia,-0.11
+"Jan 15, 2022",Haifa,Israel,-0.11
+"Jan 15, 2022",Charlotte,United States,-0.11
 "Jan 15, 2022",Jerusalem,Israel,-0.1
-"Jan 15, 2022",Be'er Sheva,Israel,-0.09
-"Jan 15, 2022",Charlotte,United States,-0.09
-"Jan 15, 2022",Nashville,United States,-0.09
-"Jan 15, 2022",Johor Bahru,Malaysia,-0.08
-"Jan 15, 2022",Guarulhos,Brazil,-0.08
-"Jan 15, 2022",Stamford,United States,-0.08
-"Jan 15, 2022",Hamilton,Canada,-0.08
-"Jan 15, 2022",Lyon,France,-0.08
+"Jan 15, 2022",Phoenix,United States,-0.1
+"Jan 15, 2022",Raleigh,United States,-0.1
+"Jan 15, 2022",South Tangerang,Indonesia,-0.1
+"Jan 15, 2022",Fort Lauderdale,United States,-0.09
+"Jan 15, 2022",Hamilton,Canada,-0.09
+"Jan 15, 2022",Milan,Italy,-0.09
+"Jan 15, 2022",Berlin,Germany,-0.09
+"Jan 15, 2022",Brussels,Belgium,-0.08
+"Jan 15, 2022",Orlando,United States,-0.08
+"Jan 15, 2022",Guarulhos,Brazil,-0.07
+"Jan 15, 2022",Lyon,France,-0.07
 "Jan 15, 2022",Bogota,Colombia,-0.07
-"Jan 15, 2022",Riga,Latvia,-0.07
-"Jan 15, 2022",South Tangerang,Indonesia,-0.06
+"Jan 15, 2022",Nashville,United States,-0.06
+"Jan 15, 2022",Curitiba,Brazil,-0.06
+"Jan 15, 2022",Quito,Ecuador,-0.06
 "Jan 15, 2022",Salvador,Brazil,-0.06
-"Jan 15, 2022",Fortaleza,Brazil,-0.05
-"Jan 15, 2022",Melbourne,Australia,-0.05
-"Jan 15, 2022",Lisbon,Portugal,-0.03
-"Jan 15, 2022",London,United Kingdom,-0.03
-"Jan 15, 2022",Hartford,United States,-0.02
-"Jan 15, 2022",Milan,Italy,-0.02
-"Jan 15, 2022",Budapest,Hungary,-0.01
-"Jan 15, 2022",Montevideo,Uruguay,0.0
-"Jan 15, 2022",Sydney,Australia,0.01
-"Jan 15, 2022",Prague,Czechia,0.01
-"Jan 15, 2022",Madrid,Spain,0.02
+"Jan 15, 2022",Vaughan,Canada,-0.06
+"Jan 15, 2022",Johor Bahru,Malaysia,-0.06
+"Jan 15, 2022",Riga,Latvia,-0.05
+"Jan 15, 2022",London,United Kingdom,-0.05
+"Jan 15, 2022",Budapest,Hungary,-0.04
+"Jan 15, 2022",Fortaleza,Brazil,-0.04
+"Jan 15, 2022",Rome,Italy,-0.03
+"Jan 15, 2022",Barcelona,Spain,-0.02
+"Jan 15, 2022",Sydney,Australia,-0.01
+"Jan 15, 2022",Porto Alegre,Brazil,-0.01
+"Jan 15, 2022",Prague,Czechia,0.0
+"Jan 15, 2022",Lisbon,Portugal,0.0
+"Jan 15, 2022",Madrid,Spain,0.0
+"Jan 15, 2022",Stamford,United States,0.02
+"Jan 15, 2022",Kuala Lumpur,Malaysia,0.02
 "Jan 15, 2022",Toulouse,France,0.02
-"Jan 15, 2022",Porto Alegre,Brazil,0.02
-"Jan 15, 2022",Kuala Lumpur,Malaysia,0.03
-"Jan 15, 2022",Bordeaux,France,0.03
-"Jan 15, 2022",Barcelona,Spain,0.05
-"Jan 15, 2022",Luton,United Kingdom,0.07
-"Jan 15, 2022",Cali,Colombia,0.07
-"Jan 15, 2022",Vitoria,Brazil,0.09
-"Jan 15, 2022",Singapore,Singapore,0.1
-"Jan 15, 2022",Bucharest,Romania,0.11
-"Jan 15, 2022",Manchester,United Kingdom,0.12
-"Jan 15, 2022",Yonkers,United States,0.12
-"Jan 15, 2022",Lille,France,0.13
+"Jan 15, 2022",Birmingham,United Kingdom,0.04
+"Jan 15, 2022",Calgary,Canada,0.05
+"Jan 15, 2022",Petaling Jaya,Malaysia,0.05
+"Jan 15, 2022",Vitoria,Brazil,0.06
+"Jan 15, 2022",Las Condes,Chile,0.06
+"Jan 15, 2022",Ghent,Belgium,0.07
+"Jan 15, 2022",Hartford,United States,0.09
+"Jan 15, 2022",Montevideo,Uruguay,0.09
+"Jan 15, 2022",Cali,Colombia,0.09
+"Jan 15, 2022",Bucharest,Romania,0.09
+"Jan 15, 2022",Shah Alam,Malaysia,0.1
+"Jan 15, 2022",Bordeaux,France,0.1
+"Jan 15, 2022",Singapore,Singapore,0.11
 "Jan 15, 2022",Cincinnati,United States,0.13
-"Jan 15, 2022",Petaling Jaya,Malaysia,0.13
-"Jan 15, 2022",Antwerp,Belgium,0.13
+"Jan 15, 2022",Brno,Czechia,0.14
 "Jan 15, 2022",Santiago,Chile,0.14
-"Jan 15, 2022",Shah Alam,Malaysia,0.15
-"Jan 15, 2022",Ghent,Belgium,0.17
-"Jan 15, 2022",Marseille,France,0.2
-"Jan 15, 2022",Warsaw,Poland,0.21
-"Jan 15, 2022",Medellin,Colombia,0.21
-"Jan 15, 2022",Cape Town,South Africa,0.22
-"Jan 15, 2022",Ipoh,Malaysia,0.22
-"Jan 15, 2022",Puchong,Malaysia,0.23
-"Jan 15, 2022",Bratislava,Slovakia,0.25
-"Jan 15, 2022",Birmingham,United Kingdom,0.3
-"Jan 15, 2022",Brno,Czechia,0.3
-"Jan 15, 2022",Krakow,Poland,0.31
-"Jan 15, 2022",Liverpool,United Kingdom,0.33
+"Jan 15, 2022",Marseille,France,0.18
+"Jan 15, 2022",Cape Town,South Africa,0.19
+"Jan 15, 2022",Miami Beach,United States,0.19
+"Jan 15, 2022",Luton,United Kingdom,0.2
+"Jan 15, 2022",Antwerp,Belgium,0.2
+"Jan 15, 2022",Manchester,United Kingdom,0.21
+"Jan 15, 2022",Warsaw,Poland,0.22
+"Jan 15, 2022",Lille,France,0.23
+"Jan 15, 2022",Medellin,Colombia,0.25
+"Jan 15, 2022",Puchong,Malaysia,0.25
+"Jan 15, 2022",Ipoh,Malaysia,0.3
+"Jan 15, 2022",Maipu,Chile,0.3
 "Jan 15, 2022",Doha,Qatar,0.34
-"Jan 15, 2022",Maipu,Chile,0.34
-"Jan 15, 2022",Bristol,United Kingdom,0.41
-"Jan 15, 2022",Las Condes,Chile,0.46
-"Jan 15, 2022",Brisbane,Australia,0.47
-"Jan 15, 2022",Berlin,Germany,0.53
+"Jan 15, 2022",Krakow,Poland,0.44
+"Jan 15, 2022",Brisbane,Australia,0.53
+"Jan 15, 2022",Perth,Australia,0.54
 "Jan 15, 2022",Gold Coast,Australia,0.55
-"Jan 15, 2022",Perth,Australia,0.64
-"Jan 15, 2022",Vilnius,Lithuania,0.69
-"Jan 15, 2022",Kaunas,Lithuania,0.97
-"Jan 15, 2022",Kyiv,Ukraine,1.12
+"Jan 15, 2022",Vilnius,Lithuania,0.74
+"Jan 15, 2022",Liverpool,United Kingdom,0.81
+"Jan 15, 2022",Kaunas,Lithuania,0.94
+"Jan 15, 2022",Bristol,United Kingdom,0.97
+"Jan 15, 2022",Kyiv,Ukraine,1.08
 "Jan 14, 2022",Makati,Philippines,-0.69
 "Jan 14, 2022",Quezon City,Philippines,-0.57
 "Jan 14, 2022",Portland,United States,-0.56
@@ -458,93 +595,93 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 14, 2022",San Diego,United States,-0.49
 "Jan 14, 2022",Sacramento,United States,-0.48
 "Jan 14, 2022",Monterrey,Mexico,-0.48
-"Jan 14, 2022",Seattle,United States,-0.46
 "Jan 14, 2022",Mississauga,Canada,-0.46
-"Jan 14, 2022",Los Angeles,United States,-0.45
-"Jan 14, 2022",New Orleans,United States,-0.45
-"Jan 14, 2022",Austin,United States,-0.45
+"Jan 14, 2022",Seattle,United States,-0.46
 "Jan 14, 2022",Bekasi,Indonesia,-0.45
 "Jan 14, 2022",Denver,United States,-0.45
-"Jan 14, 2022",Quebec City,Canada,-0.44
+"Jan 14, 2022",Austin,United States,-0.45
+"Jan 14, 2022",New Orleans,United States,-0.45
+"Jan 14, 2022",Los Angeles,United States,-0.45
 "Jan 14, 2022",Pittsburgh,United States,-0.44
-"Jan 14, 2022",Miami,United States,-0.42
+"Jan 14, 2022",Quebec City,Canada,-0.44
 "Jan 14, 2022",Mexico City,Mexico,-0.42
+"Jan 14, 2022",Miami,United States,-0.42
 "Jan 14, 2022",Amsterdam,Netherlands,-0.41
 "Jan 14, 2022",Oakland,United States,-0.41
-"Jan 14, 2022",Brasilia,Brazil,-0.38
 "Jan 14, 2022",Miami Beach,United States,-0.38
-"Jan 14, 2022",Washington,United States,-0.36
+"Jan 14, 2022",Brasilia,Brazil,-0.38
 "Jan 14, 2022",Luton,United Kingdom,-0.36
+"Jan 14, 2022",Washington,United States,-0.36
 "Jan 14, 2022",Jakarta,Indonesia,-0.36
+"Jan 14, 2022",Toronto,Canada,-0.35
 "Jan 14, 2022",Boston,United States,-0.35
 "Jan 14, 2022",Dallas,United States,-0.35
-"Jan 14, 2022",Toronto,Canada,-0.35
-"Jan 14, 2022",Baltimore,United States,-0.34
 "Jan 14, 2022",Irvine,United States,-0.34
+"Jan 14, 2022",Baltimore,United States,-0.34
 "Jan 14, 2022",San Jose,United States,-0.33
 "Jan 14, 2022",Detroit,United States,-0.33
-"Jan 14, 2022",Houston,United States,-0.32
-"Jan 14, 2022",Puebla City,Mexico,-0.32
 "Jan 14, 2022",Montreal,Canada,-0.32
+"Jan 14, 2022",Puebla City,Mexico,-0.32
+"Jan 14, 2022",Houston,United States,-0.32
 "Jan 14, 2022",San Antonio,United States,-0.31
 "Jan 14, 2022",Ottawa,Canada,-0.31
 "Jan 14, 2022",Brussels,Belgium,-0.3
 "Jan 14, 2022",Lima,Peru,-0.3
 "Jan 14, 2022",Chicago,United States,-0.3
 "Jan 14, 2022",Jersey City,United States,-0.29
-"Jan 14, 2022",Cincinnati,United States,-0.29
 "Jan 14, 2022",Atlanta,United States,-0.29
+"Jan 14, 2022",Cincinnati,United States,-0.29
 "Jan 14, 2022",Belo Horizonte,Brazil,-0.27
 "Jan 14, 2022",Guadalajara,Mexico,-0.27
 "Jan 14, 2022",Stockholm,Sweden,-0.26
-"Jan 14, 2022",Philadelphia,United States,-0.26
 "Jan 14, 2022",Buenos Aires,Argentina,-0.26
+"Jan 14, 2022",Philadelphia,United States,-0.26
 "Jan 14, 2022",Tampa,United States,-0.26
 "Jan 14, 2022",Tel Aviv-Yafo,Israel,-0.25
+"Jan 14, 2022",Vaughan,Canada,-0.25
 "Jan 14, 2022",Zapopan,Mexico,-0.25
 "Jan 14, 2022",Petah Tikva,Israel,-0.25
-"Jan 14, 2022",Vaughan,Canada,-0.25
-"Jan 14, 2022",Tangerang,Indonesia,-0.24
 "Jan 14, 2022",Phoenix,United States,-0.24
 "Jan 14, 2022",Santiago De Queretaro,Mexico,-0.24
+"Jan 14, 2022",Tangerang,Indonesia,-0.24
 "Jan 14, 2022",Lyon,France,-0.23
 "Jan 14, 2022",Nashville,United States,-0.22
 "Jan 14, 2022",Sao Paulo,Brazil,-0.21
 "Jan 14, 2022",Fort Lauderdale,United States,-0.2
 "Jan 14, 2022",San Jose,Costa Rica,-0.2
-"Jan 14, 2022",Orlando,United States,-0.19
 "Jan 14, 2022",Melbourne,Australia,-0.19
+"Jan 14, 2022",Orlando,United States,-0.19
 "Jan 14, 2022",Rio De Janeiro,Brazil,-0.18
 "Jan 14, 2022",Recife,Brazil,-0.18
 "Jan 14, 2022",Raleigh,United States,-0.17
 "Jan 14, 2022",Rome,Italy,-0.17
 "Jan 14, 2022",Milan,Italy,-0.16
-"Jan 14, 2022",Charlotte,United States,-0.15
 "Jan 14, 2022",Paris,France,-0.15
-"Jan 14, 2022",Barcelona,Spain,-0.14
-"Jan 14, 2022",Madrid,Spain,-0.14
-"Jan 14, 2022",Fort Worth,United States,-0.14
+"Jan 14, 2022",Charlotte,United States,-0.15
 "Jan 14, 2022",Hamilton,Canada,-0.14
+"Jan 14, 2022",Madrid,Spain,-0.14
+"Jan 14, 2022",Barcelona,Spain,-0.14
+"Jan 14, 2022",Fort Worth,United States,-0.14
 "Jan 14, 2022",Montevideo,Uruguay,-0.13
-"Jan 14, 2022",Haifa,Israel,-0.12
-"Jan 14, 2022",Curitiba,Brazil,-0.12
-"Jan 14, 2022",Guarulhos,Brazil,-0.12
 "Jan 14, 2022",Lisbon,Portugal,-0.12
+"Jan 14, 2022",Guarulhos,Brazil,-0.12
+"Jan 14, 2022",Curitiba,Brazil,-0.12
+"Jan 14, 2022",Haifa,Israel,-0.12
 "Jan 14, 2022",Cambridge,United States,-0.12
-"Jan 14, 2022",Yonkers,United States,-0.11
-"Jan 14, 2022",Fortaleza,Brazil,-0.11
-"Jan 14, 2022",Cali,Colombia,-0.11
 "Jan 14, 2022",Quito,Ecuador,-0.11
+"Jan 14, 2022",Cali,Colombia,-0.11
+"Jan 14, 2022",Fortaleza,Brazil,-0.11
+"Jan 14, 2022",Yonkers,United States,-0.11
 "Jan 14, 2022",Ramat Gan,Israel,-0.1
 "Jan 14, 2022",Stamford,United States,-0.09
 "Jan 14, 2022",Rishon Letsiyon,Israel,-0.09
-"Jan 14, 2022",New York,United States,-0.08
 "Jan 14, 2022",Hartford,United States,-0.08
 "Jan 14, 2022",Be'er Sheva,Israel,-0.08
-"Jan 14, 2022",Antwerp,Belgium,-0.08
-"Jan 14, 2022",London,United Kingdom,-0.08
 "Jan 14, 2022",Ghent,Belgium,-0.08
+"Jan 14, 2022",London,United Kingdom,-0.08
 "Jan 14, 2022",Bogota,Colombia,-0.08
+"Jan 14, 2022",New York,United States,-0.08
+"Jan 14, 2022",Antwerp,Belgium,-0.08
 "Jan 14, 2022",Porto Alegre,Brazil,-0.07
 "Jan 14, 2022",Johor Bahru,Malaysia,-0.06
 "Jan 14, 2022",Vitoria,Brazil,-0.06
@@ -554,8 +691,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 14, 2022",Budapest,Hungary,-0.04
 "Jan 14, 2022",Jerusalem,Israel,-0.04
 "Jan 14, 2022",Minneapolis,United States,-0.03
-"Jan 14, 2022",Kuala Lumpur,Malaysia,-0.02
 "Jan 14, 2022",Riga,Latvia,-0.02
+"Jan 14, 2022",Kuala Lumpur,Malaysia,-0.02
 "Jan 14, 2022",Singapore,Singapore,-0.01
 "Jan 14, 2022",Bratislava,Slovakia,-0.01
 "Jan 14, 2022",Manchester,United Kingdom,0.0
@@ -565,19 +702,19 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 14, 2022",Florianopolis,Brazil,0.02
 "Jan 14, 2022",Toulouse,France,0.04
 "Jan 14, 2022",Prague,Czechia,0.04
-"Jan 14, 2022",Calgary,Canada,0.05
 "Jan 14, 2022",Krakow,Poland,0.05
+"Jan 14, 2022",Calgary,Canada,0.05
 "Jan 14, 2022",Bucharest,Romania,0.06
 "Jan 14, 2022",Birmingham,United Kingdom,0.08
 "Jan 14, 2022",Petaling Jaya,Malaysia,0.09
 "Jan 14, 2022",Ipoh,Malaysia,0.12
-"Jan 14, 2022",Brno,Czechia,0.13
 "Jan 14, 2022",Bristol,United Kingdom,0.13
-"Jan 14, 2022",Shah Alam,Malaysia,0.14
+"Jan 14, 2022",Brno,Czechia,0.13
 "Jan 14, 2022",Maipu,Chile,0.14
+"Jan 14, 2022",Shah Alam,Malaysia,0.14
 "Jan 14, 2022",Marseille,France,0.15
-"Jan 14, 2022",Santiago,Chile,0.17
 "Jan 14, 2022",Gold Coast,Australia,0.17
+"Jan 14, 2022",Santiago,Chile,0.17
 "Jan 14, 2022",Medellin,Colombia,0.18
 "Jan 14, 2022",Warsaw,Poland,0.22
 "Jan 14, 2022",Puchong,Malaysia,0.23
@@ -604,103 +741,103 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 13, 2022",San Diego,United States,-0.49
 "Jan 13, 2022",Los Angeles,United States,-0.48
 "Jan 13, 2022",Bekasi,Indonesia,-0.48
-"Jan 13, 2022",Manila,Philippines,-0.47
 "Jan 13, 2022",Austin,United States,-0.47
+"Jan 13, 2022",Manila,Philippines,-0.47
 "Jan 13, 2022",Pittsburgh,United States,-0.46
-"Jan 13, 2022",Amsterdam,Netherlands,-0.46
 "Jan 13, 2022",Sacramento,United States,-0.46
+"Jan 13, 2022",Amsterdam,Netherlands,-0.46
 "Jan 13, 2022",Mississauga,Canada,-0.44
 "Jan 13, 2022",Cincinnati,United States,-0.42
 "Jan 13, 2022",Luton,United Kingdom,-0.41
-"Jan 13, 2022",Ottawa,Canada,-0.4
-"Jan 13, 2022",Oakland,United States,-0.4
 "Jan 13, 2022",Seattle,United States,-0.4
+"Jan 13, 2022",Oakland,United States,-0.4
+"Jan 13, 2022",Ottawa,Canada,-0.4
 "Jan 13, 2022",Mexico City,Mexico,-0.39
 "Jan 13, 2022",Hartford,United States,-0.38
-"Jan 13, 2022",San Antonio,United States,-0.37
 "Jan 13, 2022",Toronto,Canada,-0.37
+"Jan 13, 2022",San Antonio,United States,-0.37
 "Jan 13, 2022",Quebec City,Canada,-0.37
-"Jan 13, 2022",Dallas,United States,-0.36
-"Jan 13, 2022",Detroit,United States,-0.36
-"Jan 13, 2022",Chicago,United States,-0.36
 "Jan 13, 2022",Tangerang,Indonesia,-0.36
-"Jan 13, 2022",Zapopan,Mexico,-0.35
-"Jan 13, 2022",Santiago De Queretaro,Mexico,-0.35
+"Jan 13, 2022",Detroit,United States,-0.36
+"Jan 13, 2022",Dallas,United States,-0.36
+"Jan 13, 2022",Chicago,United States,-0.36
 "Jan 13, 2022",Houston,United States,-0.35
-"Jan 13, 2022",Montreal,Canada,-0.35
 "Jan 13, 2022",New Orleans,United States,-0.35
+"Jan 13, 2022",Montreal,Canada,-0.35
+"Jan 13, 2022",Santiago De Queretaro,Mexico,-0.35
+"Jan 13, 2022",Zapopan,Mexico,-0.35
 "Jan 13, 2022",Boston,United States,-0.34
 "Jan 13, 2022",Jakarta,Indonesia,-0.34
 "Jan 13, 2022",Phoenix,United States,-0.34
 "Jan 13, 2022",Miami,United States,-0.33
-"Jan 13, 2022",Denver,United States,-0.32
 "Jan 13, 2022",Baltimore,United States,-0.32
+"Jan 13, 2022",Denver,United States,-0.32
 "Jan 13, 2022",Guadalajara,Mexico,-0.32
 "Jan 13, 2022",Charlotte,United States,-0.31
-"Jan 13, 2022",Washington,United States,-0.3
 "Jan 13, 2022",Atlanta,United States,-0.3
+"Jan 13, 2022",Washington,United States,-0.3
 "Jan 13, 2022",Fort Lauderdale,United States,-0.28
 "Jan 13, 2022",Stamford,United States,-0.27
 "Jan 13, 2022",Belo Horizonte,Brazil,-0.27
 "Jan 13, 2022",Hamilton,Canada,-0.27
-"Jan 13, 2022",Lima,Peru,-0.26
 "Jan 13, 2022",Stockholm,Sweden,-0.26
-"Jan 13, 2022",Orlando,United States,-0.25
+"Jan 13, 2022",Lima,Peru,-0.26
 "Jan 13, 2022",Nashville,United States,-0.25
+"Jan 13, 2022",Orlando,United States,-0.25
 "Jan 13, 2022",Raleigh,United States,-0.24
-"Jan 13, 2022",Rotterdam,Netherlands,-0.24
 "Jan 13, 2022",Philadelphia,United States,-0.24
+"Jan 13, 2022",Rotterdam,Netherlands,-0.24
 "Jan 13, 2022",Sao Paulo,Brazil,-0.23
 "Jan 13, 2022",Buenos Aires,Argentina,-0.22
 "Jan 13, 2022",Tampa,United States,-0.22
 "Jan 13, 2022",Calgary,Canada,-0.21
 "Jan 13, 2022",Milan,Italy,-0.21
-"Jan 13, 2022",Rio De Janeiro,Brazil,-0.2
-"Jan 13, 2022",Antwerp,Belgium,-0.2
 "Jan 13, 2022",San Jose,Costa Rica,-0.2
 "Jan 13, 2022",Puebla City,Mexico,-0.2
+"Jan 13, 2022",Antwerp,Belgium,-0.2
+"Jan 13, 2022",Rio De Janeiro,Brazil,-0.2
 "Jan 13, 2022",Jersey City,United States,-0.19
-"Jan 13, 2022",Lisbon,Portugal,-0.18
-"Jan 13, 2022",Fort Worth,United States,-0.18
 "Jan 13, 2022",Madrid,Spain,-0.18
+"Jan 13, 2022",Fort Worth,United States,-0.18
 "Jan 13, 2022",Miami Beach,United States,-0.18
+"Jan 13, 2022",Lisbon,Portugal,-0.18
 "Jan 13, 2022",Vaughan,Canada,-0.17
 "Jan 13, 2022",Tel Aviv-Yafo,Israel,-0.16
-"Jan 13, 2022",Brussels,Belgium,-0.15
 "Jan 13, 2022",Sydney,Australia,-0.15
+"Jan 13, 2022",Brussels,Belgium,-0.15
 "Jan 13, 2022",Curitiba,Brazil,-0.13
-"Jan 13, 2022",Paris,France,-0.12
 "Jan 13, 2022",Fortaleza,Brazil,-0.12
-"Jan 13, 2022",Rome,Italy,-0.11
+"Jan 13, 2022",Paris,France,-0.12
 "Jan 13, 2022",Recife,Brazil,-0.11
 "Jan 13, 2022",London,United Kingdom,-0.11
+"Jan 13, 2022",Rome,Italy,-0.11
 "Jan 13, 2022",Barcelona,Spain,-0.1
 "Jan 13, 2022",Guarulhos,Brazil,-0.1
 "Jan 13, 2022",Melbourne,Australia,-0.1
 "Jan 13, 2022",Jerusalem,Israel,-0.09
 "Jan 13, 2022",Ghent,Belgium,-0.09
-"Jan 13, 2022",Porto Alegre,Brazil,-0.09
 "Jan 13, 2022",New York,United States,-0.09
+"Jan 13, 2022",Porto Alegre,Brazil,-0.09
 "Jan 13, 2022",Ramat Gan,Israel,-0.07
 "Jan 13, 2022",Bratislava,Slovakia,-0.07
 "Jan 13, 2022",Budapest,Hungary,-0.06
 "Jan 13, 2022",Quito,Ecuador,-0.06
-"Jan 13, 2022",Cape Town,South Africa,-0.05
 "Jan 13, 2022",Bogota,Colombia,-0.05
 "Jan 13, 2022",Petah Tikva,Israel,-0.05
 "Jan 13, 2022",Salvador,Brazil,-0.05
+"Jan 13, 2022",Cape Town,South Africa,-0.05
 "Jan 13, 2022",Haifa,Israel,-0.04
 "Jan 13, 2022",Rishon Letsiyon,Israel,-0.04
-"Jan 13, 2022",Lyon,France,-0.03
 "Jan 13, 2022",Bordeaux,France,-0.03
-"Jan 13, 2022",Florianopolis,Brazil,-0.02
-"Jan 13, 2022",Bristol,United Kingdom,-0.02
+"Jan 13, 2022",Lyon,France,-0.03
 "Jan 13, 2022",Berlin,Germany,-0.02
 "Jan 13, 2022",Be'er Sheva,Israel,-0.02
+"Jan 13, 2022",Bristol,United Kingdom,-0.02
+"Jan 13, 2022",Florianopolis,Brazil,-0.02
 "Jan 13, 2022",Kuala Lumpur,Malaysia,-0.01
 "Jan 13, 2022",Manchester,United Kingdom,0.0
-"Jan 13, 2022",Prague,Czechia,0.02
 "Jan 13, 2022",Singapore,Singapore,0.02
+"Jan 13, 2022",Prague,Czechia,0.02
 "Jan 13, 2022",Johor Bahru,Malaysia,0.03
 "Jan 13, 2022",Riga,Latvia,0.03
 "Jan 13, 2022",Toulouse,France,0.04
@@ -711,14 +848,14 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 13, 2022",Birmingham,United Kingdom,0.08
 "Jan 13, 2022",Krakow,Poland,0.09
 "Jan 13, 2022",Bucharest,Romania,0.09
-"Jan 13, 2022",Shah Alam,Malaysia,0.12
 "Jan 13, 2022",Petaling Jaya,Malaysia,0.12
 "Jan 13, 2022",Montevideo,Uruguay,0.12
+"Jan 13, 2022",Shah Alam,Malaysia,0.12
 "Jan 13, 2022",Marseille,France,0.23
 "Jan 13, 2022",Puchong,Malaysia,0.24
+"Jan 13, 2022",Santiago,Chile,0.25
 "Jan 13, 2022",Doha,Qatar,0.25
 "Jan 13, 2022",Medellin,Colombia,0.25
-"Jan 13, 2022",Santiago,Chile,0.25
 "Jan 13, 2022",Brno,Czechia,0.26
 "Jan 13, 2022",Warsaw,Poland,0.27
 "Jan 13, 2022",Liverpool,United Kingdom,0.36
@@ -739,13 +876,13 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 12, 2022",Portland,United States,-0.55
 "Jan 12, 2022",Monterrey,Mexico,-0.51
 "Jan 12, 2022",Amsterdam,Netherlands,-0.5
-"Jan 12, 2022",Austin,United States,-0.49
 "Jan 12, 2022",San Diego,United States,-0.49
 "Jan 12, 2022",San Francisco,United States,-0.49
+"Jan 12, 2022",Austin,United States,-0.49
 "Jan 12, 2022",Mississauga,Canada,-0.48
 "Jan 12, 2022",Brasilia,Brazil,-0.48
-"Jan 12, 2022",Denver,United States,-0.47
 "Jan 12, 2022",Los Angeles,United States,-0.47
+"Jan 12, 2022",Denver,United States,-0.47
 "Jan 12, 2022",San Jose,United States,-0.46
 "Jan 12, 2022",Manila,Philippines,-0.45
 "Jan 12, 2022",Seattle,United States,-0.44
@@ -757,13 +894,13 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 12, 2022",Miami,United States,-0.39
 "Jan 12, 2022",Baltimore,United States,-0.38
 "Jan 12, 2022",Mexico City,Mexico,-0.38
+"Jan 12, 2022",Jakarta,Indonesia,-0.37
 "Jan 12, 2022",Quebec City,Canada,-0.37
 "Jan 12, 2022",Stamford,United States,-0.37
-"Jan 12, 2022",Jakarta,Indonesia,-0.37
 "Jan 12, 2022",Dallas,United States,-0.36
 "Jan 12, 2022",Houston,United States,-0.36
-"Jan 12, 2022",Toronto,Canada,-0.35
 "Jan 12, 2022",Stockholm,Sweden,-0.35
+"Jan 12, 2022",Toronto,Canada,-0.35
 "Jan 12, 2022",Pittsburgh,United States,-0.35
 "Jan 12, 2022",Phoenix,United States,-0.34
 "Jan 12, 2022",Chicago,United States,-0.34
@@ -771,27 +908,27 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 12, 2022",Washington,United States,-0.33
 "Jan 12, 2022",Ottawa,Canada,-0.32
 "Jan 12, 2022",Montreal,Canada,-0.31
-"Jan 12, 2022",Atlanta,United States,-0.3
+"Jan 12, 2022",San Antonio,United States,-0.3
 "Jan 12, 2022",Charlotte,United States,-0.3
+"Jan 12, 2022",Atlanta,United States,-0.3
 "Jan 12, 2022",Tampa,United States,-0.3
 "Jan 12, 2022",New Orleans,United States,-0.3
-"Jan 12, 2022",San Antonio,United States,-0.3
 "Jan 12, 2022",Philadelphia,United States,-0.29
 "Jan 12, 2022",Orlando,United States,-0.29
-"Jan 12, 2022",Calgary,Canada,-0.28
 "Jan 12, 2022",Boston,United States,-0.28
+"Jan 12, 2022",Calgary,Canada,-0.28
+"Jan 12, 2022",Nashville,United States,-0.27
 "Jan 12, 2022",Santiago De Queretaro,Mexico,-0.27
 "Jan 12, 2022",Belo Horizonte,Brazil,-0.27
-"Jan 12, 2022",Nashville,United States,-0.27
 "Jan 12, 2022",Lima,Peru,-0.27
+"Jan 12, 2022",Manchester,United Kingdom,-0.26
 "Jan 12, 2022",Jersey City,United States,-0.26
 "Jan 12, 2022",Zapopan,Mexico,-0.26
-"Jan 12, 2022",Manchester,United Kingdom,-0.26
-"Jan 12, 2022",Rotterdam,Netherlands,-0.25
 "Jan 12, 2022",Cincinnati,United States,-0.25
+"Jan 12, 2022",Rotterdam,Netherlands,-0.25
 "Jan 12, 2022",Guadalajara,Mexico,-0.25
-"Jan 12, 2022",Puebla City,Mexico,-0.22
 "Jan 12, 2022",Sao Paulo,Brazil,-0.22
+"Jan 12, 2022",Puebla City,Mexico,-0.22
 "Jan 12, 2022",Rio De Janeiro,Brazil,-0.21
 "Jan 12, 2022",Buenos Aires,Argentina,-0.2
 "Jan 12, 2022",Fort Worth,United States,-0.19
@@ -800,53 +937,53 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 12, 2022",Miami Beach,United States,-0.18
 "Jan 12, 2022",Madrid,Spain,-0.17
 "Jan 12, 2022",Hamilton,Canada,-0.16
-"Jan 12, 2022",Fort Lauderdale,United States,-0.16
 "Jan 12, 2022",Hartford,United States,-0.16
+"Jan 12, 2022",Fort Lauderdale,United States,-0.16
+"Jan 12, 2022",Curitiba,Brazil,-0.15
 "Jan 12, 2022",Milan,Italy,-0.15
 "Jan 12, 2022",Brussels,Belgium,-0.15
-"Jan 12, 2022",Curitiba,Brazil,-0.15
 "Jan 12, 2022",Tel Aviv-Yafo,Israel,-0.14
 "Jan 12, 2022",Guarulhos,Brazil,-0.13
 "Jan 12, 2022",Melbourne,Australia,-0.12
-"Jan 12, 2022",Rome,Italy,-0.11
 "Jan 12, 2022",Salvador,Brazil,-0.11
-"Jan 12, 2022",Barcelona,Spain,-0.1
+"Jan 12, 2022",Rome,Italy,-0.11
 "Jan 12, 2022",Recife,Brazil,-0.1
 "Jan 12, 2022",Antwerp,Belgium,-0.1
+"Jan 12, 2022",Barcelona,Spain,-0.1
 "Jan 12, 2022",Petah Tikva,Israel,-0.09
-"Jan 12, 2022",Paris,France,-0.09
 "Jan 12, 2022",Lisbon,Portugal,-0.09
-"Jan 12, 2022",Luton,United Kingdom,-0.08
-"Jan 12, 2022",Fortaleza,Brazil,-0.08
+"Jan 12, 2022",Paris,France,-0.09
 "Jan 12, 2022",Riga,Latvia,-0.08
-"Jan 12, 2022",New York,United States,-0.07
+"Jan 12, 2022",Fortaleza,Brazil,-0.08
+"Jan 12, 2022",Luton,United Kingdom,-0.08
+"Jan 12, 2022",Ghent,Belgium,-0.07
 "Jan 12, 2022",Porto Alegre,Brazil,-0.07
 "Jan 12, 2022",Quito,Ecuador,-0.07
-"Jan 12, 2022",Ghent,Belgium,-0.07
+"Jan 12, 2022",New York,United States,-0.07
 "Jan 12, 2022",London,United Kingdom,-0.07
 "Jan 12, 2022",Jerusalem,Israel,-0.06
 "Jan 12, 2022",Bogota,Colombia,-0.04
-"Jan 12, 2022",Cape Town,South Africa,-0.04
 "Jan 12, 2022",Liverpool,United Kingdom,-0.04
+"Jan 12, 2022",Cape Town,South Africa,-0.04
 "Jan 12, 2022",Tangerang,Indonesia,-0.02
 "Jan 12, 2022",Budapest,Hungary,-0.02
 "Jan 12, 2022",Lyon,France,-0.01
 "Jan 12, 2022",Yonkers,United States,0.0
 "Jan 12, 2022",Ramat Gan,Israel,0.01
-"Jan 12, 2022",Lille,France,0.02
 "Jan 12, 2022",Bristol,United Kingdom,0.02
-"Jan 12, 2022",Kuala Lumpur,Malaysia,0.03
-"Jan 12, 2022",Prague,Czechia,0.03
+"Jan 12, 2022",Lille,France,0.02
 "Jan 12, 2022",Rishon Letsiyon,Israel,0.03
 "Jan 12, 2022",Singapore,Singapore,0.03
-"Jan 12, 2022",Bratislava,Slovakia,0.04
+"Jan 12, 2022",Prague,Czechia,0.03
+"Jan 12, 2022",Kuala Lumpur,Malaysia,0.03
 "Jan 12, 2022",Birmingham,United Kingdom,0.04
+"Jan 12, 2022",Bratislava,Slovakia,0.04
 "Jan 12, 2022",Bordeaux,France,0.06
 "Jan 12, 2022",Toulouse,France,0.06
 "Jan 12, 2022",Sydney,Australia,0.07
-"Jan 12, 2022",Petaling Jaya,Malaysia,0.07
-"Jan 12, 2022",Montevideo,Uruguay,0.07
 "Jan 12, 2022",Bekasi,Indonesia,0.07
+"Jan 12, 2022",Montevideo,Uruguay,0.07
+"Jan 12, 2022",Petaling Jaya,Malaysia,0.07
 "Jan 12, 2022",Haifa,Israel,0.08
 "Jan 12, 2022",Be'er Sheva,Israel,0.11
 "Jan 12, 2022",Bucharest,Romania,0.12
@@ -858,8 +995,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 12, 2022",Florianopolis,Brazil,0.25
 "Jan 12, 2022",Marseille,France,0.27
 "Jan 12, 2022",Doha,Qatar,0.28
-"Jan 12, 2022",Brno,Czechia,0.29
 "Jan 12, 2022",Santiago,Chile,0.29
+"Jan 12, 2022",Brno,Czechia,0.29
 "Jan 12, 2022",Brisbane,Australia,0.33
 "Jan 12, 2022",Krakow,Poland,0.38
 "Jan 12, 2022",Las Condes,Chile,0.41
@@ -872,8 +1009,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 12, 2022",Kyiv,Ukraine,1.03
 "Jan 12, 2022",Gold Coast,Australia,1.12
 "Jan 11, 2022",Makati,Philippines,-0.78
-"Jan 11, 2022",Portland,United States,-0.61
 "Jan 11, 2022",Irvine,United States,-0.61
+"Jan 11, 2022",Portland,United States,-0.61
 "Jan 11, 2022",San Jose,United States,-0.6
 "Jan 11, 2022",San Francisco,United States,-0.55
 "Jan 11, 2022",Minneapolis,United States,-0.54
@@ -881,9 +1018,9 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 11, 2022",Manila,Philippines,-0.53
 "Jan 11, 2022",San Diego,United States,-0.53
 "Jan 11, 2022",Quezon City,Philippines,-0.52
-"Jan 11, 2022",Detroit,United States,-0.5
-"Jan 11, 2022",Mississauga,Canada,-0.5
 "Jan 11, 2022",Hartford,United States,-0.5
+"Jan 11, 2022",Mississauga,Canada,-0.5
+"Jan 11, 2022",Detroit,United States,-0.5
 "Jan 11, 2022",Austin,United States,-0.49
 "Jan 11, 2022",Oakland,United States,-0.48
 "Jan 11, 2022",Ottawa,Canada,-0.48
@@ -892,25 +1029,25 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 11, 2022",Denver,United States,-0.45
 "Jan 11, 2022",Miami,United States,-0.44
 "Jan 11, 2022",Sacramento,United States,-0.43
-"Jan 11, 2022",Tangerang,Indonesia,-0.4
 "Jan 11, 2022",Boston,United States,-0.4
-"Jan 11, 2022",Dallas,United States,-0.39
+"Jan 11, 2022",Tangerang,Indonesia,-0.4
 "Jan 11, 2022",Toronto,Canada,-0.39
+"Jan 11, 2022",Dallas,United States,-0.39
 "Jan 11, 2022",Bekasi,Indonesia,-0.38
 "Jan 11, 2022",Washington,United States,-0.38
-"Jan 11, 2022",Miami Beach,United States,-0.37
 "Jan 11, 2022",Brasilia,Brazil,-0.37
+"Jan 11, 2022",Miami Beach,United States,-0.37
 "Jan 11, 2022",Quebec City,Canada,-0.37
-"Jan 11, 2022",Pittsburgh,United States,-0.36
-"Jan 11, 2022",Mexico City,Mexico,-0.36
-"Jan 11, 2022",Montreal,Canada,-0.36
 "Jan 11, 2022",Houston,United States,-0.36
+"Jan 11, 2022",Montreal,Canada,-0.36
+"Jan 11, 2022",Pittsburgh,United States,-0.36
 "Jan 11, 2022",Chicago,United States,-0.36
 "Jan 11, 2022",Baltimore,United States,-0.36
+"Jan 11, 2022",Mexico City,Mexico,-0.36
 "Jan 11, 2022",Phoenix,United States,-0.35
-"Jan 11, 2022",San Antonio,United States,-0.34
 "Jan 11, 2022",Puebla City,Mexico,-0.34
 "Jan 11, 2022",Jersey City,United States,-0.34
+"Jan 11, 2022",San Antonio,United States,-0.34
 "Jan 11, 2022",Atlanta,United States,-0.33
 "Jan 11, 2022",New Orleans,United States,-0.33
 "Jan 11, 2022",Santiago De Queretaro,Mexico,-0.32
@@ -928,64 +1065,64 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 11, 2022",Cambridge,United States,-0.24
 "Jan 11, 2022",Fort Lauderdale,United States,-0.24
 "Jan 11, 2022",Nashville,United States,-0.24
-"Jan 11, 2022",Amsterdam,Netherlands,-0.23
-"Jan 11, 2022",Jakarta,Indonesia,-0.23
-"Jan 11, 2022",Stockholm,Sweden,-0.23
 "Jan 11, 2022",Buenos Aires,Argentina,-0.23
+"Jan 11, 2022",Stockholm,Sweden,-0.23
+"Jan 11, 2022",Jakarta,Indonesia,-0.23
+"Jan 11, 2022",Amsterdam,Netherlands,-0.23
 "Jan 11, 2022",Lima,Peru,-0.22
-"Jan 11, 2022",Fort Worth,United States,-0.2
 "Jan 11, 2022",Guadalajara,Mexico,-0.2
+"Jan 11, 2022",Fort Worth,United States,-0.2
 "Jan 11, 2022",San Jose,Costa Rica,-0.19
 "Jan 11, 2022",Barcelona,Spain,-0.18
 "Jan 11, 2022",Hamilton,Canada,-0.17
 "Jan 11, 2022",Bordeaux,France,-0.16
 "Jan 11, 2022",Sao Paulo,Brazil,-0.14
-"Jan 11, 2022",Sydney,Australia,-0.14
 "Jan 11, 2022",Stamford,United States,-0.14
+"Jan 11, 2022",Sydney,Australia,-0.14
 "Jan 11, 2022",Madrid,Spain,-0.13
 "Jan 11, 2022",Rotterdam,Netherlands,-0.13
-"Jan 11, 2022",Milan,Italy,-0.12
 "Jan 11, 2022",New York,United States,-0.12
+"Jan 11, 2022",Milan,Italy,-0.12
 "Jan 11, 2022",Paris,France,-0.12
 "Jan 11, 2022",Rio De Janeiro,Brazil,-0.11
 "Jan 11, 2022",Antwerp,Belgium,-0.09
 "Jan 11, 2022",Bratislava,Slovakia,-0.09
-"Jan 11, 2022",London,United Kingdom,-0.08
-"Jan 11, 2022",Melbourne,Australia,-0.08
 "Jan 11, 2022",Tel Aviv-Yafo,Israel,-0.08
+"Jan 11, 2022",Melbourne,Australia,-0.08
 "Jan 11, 2022",South Tangerang,Indonesia,-0.08
-"Jan 11, 2022",Rome,Italy,-0.07
+"Jan 11, 2022",London,United Kingdom,-0.08
 "Jan 11, 2022",Petah Tikva,Israel,-0.07
+"Jan 11, 2022",Rome,Italy,-0.07
 "Jan 11, 2022",Rishon Letsiyon,Israel,-0.05
+"Jan 11, 2022",Guarulhos,Brazil,-0.04
 "Jan 11, 2022",Bogota,Colombia,-0.04
 "Jan 11, 2022",Montevideo,Uruguay,-0.04
 "Jan 11, 2022",Haifa,Israel,-0.04
 "Jan 11, 2022",Jerusalem,Israel,-0.04
-"Jan 11, 2022",Guarulhos,Brazil,-0.04
-"Jan 11, 2022",Salvador,Brazil,-0.03
-"Jan 11, 2022",Lisbon,Portugal,-0.03
 "Jan 11, 2022",Cape Town,South Africa,-0.03
 "Jan 11, 2022",Budapest,Hungary,-0.03
 "Jan 11, 2022",Vitoria,Brazil,-0.03
+"Jan 11, 2022",Salvador,Brazil,-0.03
+"Jan 11, 2022",Lisbon,Portugal,-0.03
 "Jan 11, 2022",Porto Alegre,Brazil,-0.02
 "Jan 11, 2022",Ghent,Belgium,-0.02
 "Jan 11, 2022",Ramat Gan,Israel,-0.01
 "Jan 11, 2022",Recife,Brazil,0.0
 "Jan 11, 2022",Bristol,United Kingdom,0.01
-"Jan 11, 2022",Birmingham,United Kingdom,0.02
 "Jan 11, 2022",Lyon,France,0.02
+"Jan 11, 2022",Birmingham,United Kingdom,0.02
 "Jan 11, 2022",Singapore,Singapore,0.02
 "Jan 11, 2022",Petaling Jaya,Malaysia,0.04
 "Jan 11, 2022",Toulouse,France,0.05
-"Jan 11, 2022",Johor Bahru,Malaysia,0.05
 "Jan 11, 2022",Kuala Lumpur,Malaysia,0.05
-"Jan 11, 2022",Fortaleza,Brazil,0.06
+"Jan 11, 2022",Johor Bahru,Malaysia,0.05
 "Jan 11, 2022",Be'er Sheva,Israel,0.06
+"Jan 11, 2022",Fortaleza,Brazil,0.06
 "Jan 11, 2022",Quito,Ecuador,0.07
 "Jan 11, 2022",Florianopolis,Brazil,0.08
 "Jan 11, 2022",Riga,Latvia,0.08
-"Jan 11, 2022",Cali,Colombia,0.09
 "Jan 11, 2022",Lille,France,0.09
+"Jan 11, 2022",Cali,Colombia,0.09
 "Jan 11, 2022",Prague,Czechia,0.1
 "Jan 11, 2022",Brussels,Belgium,0.12
 "Jan 11, 2022",Curitiba,Brazil,0.12
@@ -1020,47 +1157,47 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 10, 2022",Minneapolis,United States,-0.52
 "Jan 10, 2022",Quezon City,Philippines,-0.5
 "Jan 10, 2022",San Diego,United States,-0.48
-"Jan 10, 2022",Monterrey,Mexico,-0.47
 "Jan 10, 2022",Austin,United States,-0.47
-"Jan 10, 2022",Sacramento,United States,-0.45
+"Jan 10, 2022",Monterrey,Mexico,-0.47
 "Jan 10, 2022",Cincinnati,United States,-0.45
-"Jan 10, 2022",Pittsburgh,United States,-0.45
 "Jan 10, 2022",Liverpool,United Kingdom,-0.45
-"Jan 10, 2022",Amsterdam,Netherlands,-0.44
+"Jan 10, 2022",Pittsburgh,United States,-0.45
+"Jan 10, 2022",Sacramento,United States,-0.45
 "Jan 10, 2022",Ottawa,Canada,-0.44
+"Jan 10, 2022",Amsterdam,Netherlands,-0.44
 "Jan 10, 2022",Portland,United States,-0.43
 "Jan 10, 2022",Los Angeles,United States,-0.42
 "Jan 10, 2022",Jakarta,Indonesia,-0.41
+"Jan 10, 2022",San Jose,United States,-0.41
 "Jan 10, 2022",San Francisco,United States,-0.41
 "Jan 10, 2022",Detroit,United States,-0.41
 "Jan 10, 2022",Chicago,United States,-0.41
-"Jan 10, 2022",San Jose,United States,-0.41
 "Jan 10, 2022",Oakland,United States,-0.38
 "Jan 10, 2022",Houston,United States,-0.36
 "Jan 10, 2022",Baltimore,United States,-0.36
-"Jan 10, 2022",Rotterdam,Netherlands,-0.35
-"Jan 10, 2022",Santiago De Queretaro,Mexico,-0.35
 "Jan 10, 2022",Seattle,United States,-0.35
+"Jan 10, 2022",Santiago De Queretaro,Mexico,-0.35
 "Jan 10, 2022",Hartford,United States,-0.35
+"Jan 10, 2022",Rotterdam,Netherlands,-0.35
 "Jan 10, 2022",Dallas,United States,-0.34
-"Jan 10, 2022",Stockholm,Sweden,-0.34
 "Jan 10, 2022",Mexico City,Mexico,-0.34
+"Jan 10, 2022",Stockholm,Sweden,-0.34
 "Jan 10, 2022",Boston,United States,-0.33
 "Jan 10, 2022",Mississauga,Canada,-0.33
 "Jan 10, 2022",Orlando,United States,-0.32
-"Jan 10, 2022",Atlanta,United States,-0.31
 "Jan 10, 2022",Raleigh,United States,-0.31
+"Jan 10, 2022",Atlanta,United States,-0.31
 "Jan 10, 2022",Jersey City,United States,-0.31
-"Jan 10, 2022",New Orleans,United States,-0.3
-"Jan 10, 2022",Cali,Colombia,-0.3
-"Jan 10, 2022",Philadelphia,United States,-0.3
 "Jan 10, 2022",Charlotte,United States,-0.3
+"Jan 10, 2022",New Orleans,United States,-0.3
+"Jan 10, 2022",Philadelphia,United States,-0.3
+"Jan 10, 2022",Cali,Colombia,-0.3
 "Jan 10, 2022",Phoenix,United States,-0.29
 "Jan 10, 2022",Washington,United States,-0.28
 "Jan 10, 2022",Tampa,United States,-0.28
 "Jan 10, 2022",Fort Lauderdale,United States,-0.26
-"Jan 10, 2022",Toronto,Canada,-0.25
 "Jan 10, 2022",Montreal,Canada,-0.25
+"Jan 10, 2022",Toronto,Canada,-0.25
 "Jan 10, 2022",San Antonio,United States,-0.25
 "Jan 10, 2022",Nashville,United States,-0.25
 "Jan 10, 2022",Puebla City,Mexico,-0.24
@@ -1068,46 +1205,46 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 10, 2022",Vaughan,Canada,-0.24
 "Jan 10, 2022",Brussels,Belgium,-0.24
 "Jan 10, 2022",South Tangerang,Indonesia,-0.23
-"Jan 10, 2022",Denver,United States,-0.22
-"Jan 10, 2022",Tangerang,Indonesia,-0.22
-"Jan 10, 2022",Miami,United States,-0.22
 "Jan 10, 2022",Bogota,Colombia,-0.22
 "Jan 10, 2022",Quebec City,Canada,-0.22
+"Jan 10, 2022",Tangerang,Indonesia,-0.22
+"Jan 10, 2022",Miami,United States,-0.22
+"Jan 10, 2022",Denver,United States,-0.22
 "Jan 10, 2022",Stamford,United States,-0.21
 "Jan 10, 2022",Brasilia,Brazil,-0.19
 "Jan 10, 2022",Fort Worth,United States,-0.19
 "Jan 10, 2022",San Jose,Costa Rica,-0.18
 "Jan 10, 2022",Guadalajara,Mexico,-0.16
-"Jan 10, 2022",Ghent,Belgium,-0.15
 "Jan 10, 2022",Lima,Peru,-0.15
+"Jan 10, 2022",Ghent,Belgium,-0.15
 "Jan 10, 2022",Belo Horizonte,Brazil,-0.14
 "Jan 10, 2022",Melbourne,Australia,-0.13
 "Jan 10, 2022",Hamilton,Canada,-0.12
-"Jan 10, 2022",Luton,United Kingdom,-0.11
 "Jan 10, 2022",Antwerp,Belgium,-0.11
+"Jan 10, 2022",Luton,United Kingdom,-0.11
 "Jan 10, 2022",Zapopan,Mexico,-0.11
-"Jan 10, 2022",Ramat Gan,Israel,-0.1
-"Jan 10, 2022",Tel Aviv-Yafo,Israel,-0.1
-"Jan 10, 2022",Jerusalem,Israel,-0.1
-"Jan 10, 2022",Rome,Italy,-0.1
 "Jan 10, 2022",Madrid,Spain,-0.1
+"Jan 10, 2022",Jerusalem,Israel,-0.1
+"Jan 10, 2022",Tel Aviv-Yafo,Israel,-0.1
+"Jan 10, 2022",Ramat Gan,Israel,-0.1
+"Jan 10, 2022",Rome,Italy,-0.1
+"Jan 10, 2022",London,United Kingdom,-0.09
 "Jan 10, 2022",Paris,France,-0.09
 "Jan 10, 2022",New York,United States,-0.09
-"Jan 10, 2022",London,United Kingdom,-0.09
 "Jan 10, 2022",Barcelona,Spain,-0.07
-"Jan 10, 2022",Petah Tikva,Israel,-0.06
 "Jan 10, 2022",Medellin,Colombia,-0.06
-"Jan 10, 2022",Cape Town,South Africa,-0.05
+"Jan 10, 2022",Petah Tikva,Israel,-0.06
 "Jan 10, 2022",Bristol,United Kingdom,-0.05
+"Jan 10, 2022",Cape Town,South Africa,-0.05
 "Jan 10, 2022",Rio De Janeiro,Brazil,-0.04
 "Jan 10, 2022",Sao Paulo,Brazil,-0.03
 "Jan 10, 2022",Budapest,Hungary,-0.02
 "Jan 10, 2022",Lyon,France,-0.02
 "Jan 10, 2022",Manchester,United Kingdom,-0.02
-"Jan 10, 2022",Haifa,Israel,-0.01
+"Jan 10, 2022",Buenos Aires,Argentina,-0.01
 "Jan 10, 2022",Milan,Italy,-0.01
 "Jan 10, 2022",Bratislava,Slovakia,-0.01
-"Jan 10, 2022",Buenos Aires,Argentina,-0.01
+"Jan 10, 2022",Haifa,Israel,-0.01
 "Jan 10, 2022",Lisbon,Portugal,-0.01
 "Jan 10, 2022",Calgary,Canada,0.0
 "Jan 10, 2022",Birmingham,United Kingdom,0.02
@@ -1118,19 +1255,19 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 10, 2022",Riga,Latvia,0.07
 "Jan 10, 2022",Salvador,Brazil,0.07
 "Jan 10, 2022",Kuala Lumpur,Malaysia,0.07
-"Jan 10, 2022",Bordeaux,France,0.09
-"Jan 10, 2022",Bucharest,Romania,0.09
-"Jan 10, 2022",Berlin,Germany,0.09
 "Jan 10, 2022",Johor Bahru,Malaysia,0.09
+"Jan 10, 2022",Berlin,Germany,0.09
+"Jan 10, 2022",Bucharest,Romania,0.09
+"Jan 10, 2022",Bordeaux,France,0.09
 "Jan 10, 2022",Prague,Czechia,0.1
 "Jan 10, 2022",Lille,France,0.11
 "Jan 10, 2022",Yonkers,United States,0.11
 "Jan 10, 2022",Las Condes,Chile,0.13
-"Jan 10, 2022",Petaling Jaya,Malaysia,0.13
 "Jan 10, 2022",Guarulhos,Brazil,0.13
 "Jan 10, 2022",Be'er Sheva,Israel,0.13
-"Jan 10, 2022",Santiago,Chile,0.15
+"Jan 10, 2022",Petaling Jaya,Malaysia,0.13
 "Jan 10, 2022",Fortaleza,Brazil,0.15
+"Jan 10, 2022",Santiago,Chile,0.15
 "Jan 10, 2022",Recife,Brazil,0.16
 "Jan 10, 2022",Quito,Ecuador,0.17
 "Jan 10, 2022",Sydney,Australia,0.19
@@ -1146,8 +1283,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 10, 2022",Warsaw,Poland,0.39
 "Jan 10, 2022",Vitoria,Brazil,0.39
 "Jan 10, 2022",Montevideo,Uruguay,0.42
-"Jan 10, 2022",Ipoh,Malaysia,0.5
 "Jan 10, 2022",Krakow,Poland,0.5
+"Jan 10, 2022",Ipoh,Malaysia,0.5
 "Jan 10, 2022",Gold Coast,Australia,0.6
 "Jan 10, 2022",Perth,Australia,0.7
 "Jan 10, 2022",Vilnius,Lithuania,0.96
@@ -1161,36 +1298,36 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 9, 2022",Quezon City,Philippines,-0.55
 "Jan 9, 2022",Rotterdam,Netherlands,-0.52
 "Jan 9, 2022",Amsterdam,Netherlands,-0.47
-"Jan 9, 2022",Sacramento,United States,-0.46
 "Jan 9, 2022",San Francisco,United States,-0.46
+"Jan 9, 2022",Sacramento,United States,-0.46
 "Jan 9, 2022",New Orleans,United States,-0.45
 "Jan 9, 2022",Austin,United States,-0.44
 "Jan 9, 2022",Brasilia,Brazil,-0.43
 "Jan 9, 2022",Belo Horizonte,Brazil,-0.43
 "Jan 9, 2022",Cincinnati,United States,-0.43
-"Jan 9, 2022",San Jose,United States,-0.42
 "Jan 9, 2022",Seattle,United States,-0.42
+"Jan 9, 2022",San Jose,United States,-0.42
 "Jan 9, 2022",San Diego,United States,-0.41
 "Jan 9, 2022",Washington,United States,-0.4
 "Jan 9, 2022",Los Angeles,United States,-0.4
-"Jan 9, 2022",Mexico City,Mexico,-0.39
 "Jan 9, 2022",Monterrey,Mexico,-0.39
 "Jan 9, 2022",Chicago,United States,-0.39
+"Jan 9, 2022",Mexico City,Mexico,-0.39
 "Jan 9, 2022",Hartford,United States,-0.38
-"Jan 9, 2022",Miami,United States,-0.36
-"Jan 9, 2022",Irvine,United States,-0.36
 "Jan 9, 2022",Guadalajara,Mexico,-0.36
+"Jan 9, 2022",Irvine,United States,-0.36
+"Jan 9, 2022",Miami,United States,-0.36
 "Jan 9, 2022",Mississauga,Canada,-0.35
 "Jan 9, 2022",Portland,United States,-0.34
 "Jan 9, 2022",Ottawa,Canada,-0.33
-"Jan 9, 2022",Montreal,Canada,-0.33
 "Jan 9, 2022",Philadelphia,United States,-0.33
+"Jan 9, 2022",Montreal,Canada,-0.33
 "Jan 9, 2022",Boston,United States,-0.31
 "Jan 9, 2022",Minneapolis,United States,-0.31
 "Jan 9, 2022",Dallas,United States,-0.31
 "Jan 9, 2022",Toronto,Canada,-0.3
-"Jan 9, 2022",Raleigh,United States,-0.29
 "Jan 9, 2022",Houston,United States,-0.29
+"Jan 9, 2022",Raleigh,United States,-0.29
 "Jan 9, 2022",Denver,United States,-0.28
 "Jan 9, 2022",Jakarta,Indonesia,-0.28
 "Jan 9, 2022",San Antonio,United States,-0.26
@@ -1206,58 +1343,58 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 9, 2022",New York,United States,-0.2
 "Jan 9, 2022",Fort Lauderdale,United States,-0.2
 "Jan 9, 2022",Phoenix,United States,-0.2
-"Jan 9, 2022",Baltimore,United States,-0.19
-"Jan 9, 2022",Budapest,Hungary,-0.19
 "Jan 9, 2022",Bogota,Colombia,-0.19
-"Jan 9, 2022",Jersey City,United States,-0.19
 "Jan 9, 2022",Charlotte,United States,-0.19
+"Jan 9, 2022",Baltimore,United States,-0.19
+"Jan 9, 2022",Jersey City,United States,-0.19
+"Jan 9, 2022",Budapest,Hungary,-0.19
+"Jan 9, 2022",Fort Worth,United States,-0.18
 "Jan 9, 2022",Nashville,United States,-0.18
 "Jan 9, 2022",Tangerang,Indonesia,-0.18
-"Jan 9, 2022",Fort Worth,United States,-0.18
 "Jan 9, 2022",London,United Kingdom,-0.17
 "Jan 9, 2022",Atlanta,United States,-0.16
-"Jan 9, 2022",Cali,Colombia,-0.15
 "Jan 9, 2022",Cambridge,United States,-0.15
-"Jan 9, 2022",Puebla City,Mexico,-0.14
+"Jan 9, 2022",Cali,Colombia,-0.15
 "Jan 9, 2022",Zapopan,Mexico,-0.14
+"Jan 9, 2022",Puebla City,Mexico,-0.14
 "Jan 9, 2022",Vaughan,Canada,-0.14
-"Jan 9, 2022",Ramat Gan,Israel,-0.13
 "Jan 9, 2022",Buenos Aires,Argentina,-0.13
+"Jan 9, 2022",Ramat Gan,Israel,-0.13
 "Jan 9, 2022",Detroit,United States,-0.12
-"Jan 9, 2022",Vitoria,Brazil,-0.1
 "Jan 9, 2022",Sao Paulo,Brazil,-0.1
+"Jan 9, 2022",Vitoria,Brazil,-0.1
 "Jan 9, 2022",Florianopolis,Brazil,-0.08
 "Jan 9, 2022",Tel Aviv-Yafo,Israel,-0.08
 "Jan 9, 2022",Lyon,France,-0.07
-"Jan 9, 2022",Bucharest,Romania,-0.07
 "Jan 9, 2022",Bordeaux,France,-0.07
-"Jan 9, 2022",Yonkers,United States,-0.06
+"Jan 9, 2022",Bucharest,Romania,-0.07
 "Jan 9, 2022",Petah Tikva,Israel,-0.06
 "Jan 9, 2022",Toulouse,France,-0.06
-"Jan 9, 2022",Birmingham,United Kingdom,-0.05
+"Jan 9, 2022",Yonkers,United States,-0.06
 "Jan 9, 2022",Ghent,Belgium,-0.05
+"Jan 9, 2022",Birmingham,United Kingdom,-0.05
 "Jan 9, 2022",Rome,Italy,-0.04
-"Jan 9, 2022",Medellin,Colombia,-0.03
 "Jan 9, 2022",Tampa,United States,-0.03
-"Jan 9, 2022",Liverpool,United Kingdom,-0.02
-"Jan 9, 2022",Krakow,Poland,-0.02
+"Jan 9, 2022",Medellin,Colombia,-0.03
 "Jan 9, 2022",San Jose,Costa Rica,-0.02
-"Jan 9, 2022",Jerusalem,Israel,-0.01
-"Jan 9, 2022",Lisbon,Portugal,-0.01
+"Jan 9, 2022",Krakow,Poland,-0.02
+"Jan 9, 2022",Liverpool,United Kingdom,-0.02
 "Jan 9, 2022",Salvador,Brazil,-0.01
-"Jan 9, 2022",Curitiba,Brazil,-0.01
 "Jan 9, 2022",Stamford,United States,-0.01
-"Jan 9, 2022",Johor Bahru,Malaysia,0.0
+"Jan 9, 2022",Lisbon,Portugal,-0.01
+"Jan 9, 2022",Jerusalem,Israel,-0.01
+"Jan 9, 2022",Curitiba,Brazil,-0.01
 "Jan 9, 2022",Riga,Latvia,0.0
 "Jan 9, 2022",Bekasi,Indonesia,0.0
-"Jan 9, 2022",Santiago,Chile,0.01
-"Jan 9, 2022",South Tangerang,Indonesia,0.01
+"Jan 9, 2022",Johor Bahru,Malaysia,0.0
 "Jan 9, 2022",Prague,Czechia,0.01
-"Jan 9, 2022",Brno,Czechia,0.02
+"Jan 9, 2022",South Tangerang,Indonesia,0.01
+"Jan 9, 2022",Santiago,Chile,0.01
 "Jan 9, 2022",Recife,Brazil,0.02
+"Jan 9, 2022",Brno,Czechia,0.02
 "Jan 9, 2022",Haifa,Israel,0.03
-"Jan 9, 2022",Madrid,Spain,0.05
 "Jan 9, 2022",Maipu,Chile,0.05
+"Jan 9, 2022",Madrid,Spain,0.05
 "Jan 9, 2022",Warsaw,Poland,0.07
 "Jan 9, 2022",Fortaleza,Brazil,0.08
 "Jan 9, 2022",Rishon Letsiyon,Israel,0.08
@@ -1265,9 +1402,9 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 9, 2022",Sydney,Australia,0.09
 "Jan 9, 2022",Singapore,Singapore,0.1
 "Jan 9, 2022",Las Condes,Chile,0.1
+"Jan 9, 2022",Petaling Jaya,Malaysia,0.11
 "Jan 9, 2022",Lille,France,0.11
 "Jan 9, 2022",Brussels,Belgium,0.11
-"Jan 9, 2022",Petaling Jaya,Malaysia,0.11
 "Jan 9, 2022",Guarulhos,Brazil,0.12
 "Jan 9, 2022",Berlin,Germany,0.13
 "Jan 9, 2022",Stockholm,Sweden,0.14
@@ -1275,8 +1412,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 9, 2022",Shah Alam,Malaysia,0.15
 "Jan 9, 2022",Barcelona,Spain,0.15
 "Jan 9, 2022",Quito,Ecuador,0.17
-"Jan 9, 2022",Milan,Italy,0.17
 "Jan 9, 2022",Calgary,Canada,0.17
+"Jan 9, 2022",Milan,Italy,0.17
 "Jan 9, 2022",Bratislava,Slovakia,0.22
 "Jan 9, 2022",Cape Town,South Africa,0.23
 "Jan 9, 2022",Puchong,Malaysia,0.23
@@ -1299,20 +1436,20 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 8, 2022",Makati,Philippines,-0.62
 "Jan 8, 2022",New Orleans,United States,-0.6
 "Jan 8, 2022",Ottawa,Canada,-0.58
-"Jan 8, 2022",Quezon City,Philippines,-0.53
 "Jan 8, 2022",Cambridge,United States,-0.53
+"Jan 8, 2022",Quezon City,Philippines,-0.53
 "Jan 8, 2022",San Francisco,United States,-0.52
 "Jan 8, 2022",Sacramento,United States,-0.52
-"Jan 8, 2022",Seattle,United States,-0.49
 "Jan 8, 2022",Portland,United States,-0.49
+"Jan 8, 2022",Seattle,United States,-0.49
 "Jan 8, 2022",Austin,United States,-0.47
 "Jan 8, 2022",Los Angeles,United States,-0.43
 "Jan 8, 2022",Monterrey,Mexico,-0.43
 "Jan 8, 2022",Brasilia,Brazil,-0.42
 "Jan 8, 2022",Mexico City,Mexico,-0.42
-"Jan 8, 2022",Amsterdam,Netherlands,-0.42
-"Jan 8, 2022",Nashville,United States,-0.42
 "Jan 8, 2022",San Diego,United States,-0.42
+"Jan 8, 2022",Nashville,United States,-0.42
+"Jan 8, 2022",Amsterdam,Netherlands,-0.42
 "Jan 8, 2022",Belo Horizonte,Brazil,-0.41
 "Jan 8, 2022",Washington,United States,-0.4
 "Jan 8, 2022",Guadalajara,Mexico,-0.39
@@ -1321,85 +1458,85 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 8, 2022",Oakland,United States,-0.38
 "Jan 8, 2022",Miami,United States,-0.37
 "Jan 8, 2022",Baltimore,United States,-0.37
-"Jan 8, 2022",San Jose,United States,-0.36
 "Jan 8, 2022",Montreal,Canada,-0.36
+"Jan 8, 2022",San Jose,United States,-0.36
+"Jan 8, 2022",San Antonio,United States,-0.35
+"Jan 8, 2022",Puebla City,Mexico,-0.35
 "Jan 8, 2022",Houston,United States,-0.35
 "Jan 8, 2022",Yonkers,United States,-0.35
-"Jan 8, 2022",Puebla City,Mexico,-0.35
-"Jan 8, 2022",San Antonio,United States,-0.35
-"Jan 8, 2022",Jersey City,United States,-0.34
 "Jan 8, 2022",Bekasi,Indonesia,-0.34
-"Jan 8, 2022",Toronto,Canada,-0.32
+"Jan 8, 2022",Jersey City,United States,-0.34
 "Jan 8, 2022",Jakarta,Indonesia,-0.32
 "Jan 8, 2022",Dallas,United States,-0.32
+"Jan 8, 2022",Toronto,Canada,-0.32
 "Jan 8, 2022",Hartford,United States,-0.31
 "Jan 8, 2022",Stamford,United States,-0.31
 "Jan 8, 2022",Atlanta,United States,-0.3
-"Jan 8, 2022",Tampa,United States,-0.29
-"Jan 8, 2022",Irvine,United States,-0.29
-"Jan 8, 2022",Philadelphia,United States,-0.29
 "Jan 8, 2022",Mississauga,Canada,-0.29
+"Jan 8, 2022",Irvine,United States,-0.29
+"Jan 8, 2022",Tampa,United States,-0.29
+"Jan 8, 2022",Philadelphia,United States,-0.29
 "Jan 8, 2022",South Tangerang,Indonesia,-0.28
-"Jan 8, 2022",Melbourne,Australia,-0.27
 "Jan 8, 2022",Miami Beach,United States,-0.27
-"Jan 8, 2022",Phoenix,United States,-0.26
+"Jan 8, 2022",Melbourne,Australia,-0.27
 "Jan 8, 2022",Santiago De Queretaro,Mexico,-0.26
-"Jan 8, 2022",Zapopan,Mexico,-0.25
+"Jan 8, 2022",Phoenix,United States,-0.26
 "Jan 8, 2022",Buenos Aires,Argentina,-0.25
+"Jan 8, 2022",Zapopan,Mexico,-0.25
 "Jan 8, 2022",Orlando,United States,-0.25
+"Jan 8, 2022",Denver,United States,-0.24
 "Jan 8, 2022",Bogota,Colombia,-0.24
 "Jan 8, 2022",New York,United States,-0.24
-"Jan 8, 2022",Denver,United States,-0.24
 "Jan 8, 2022",Rotterdam,Netherlands,-0.24
 "Jan 8, 2022",Vaughan,Canada,-0.23
 "Jan 8, 2022",San Jose,Costa Rica,-0.22
-"Jan 8, 2022",Rio De Janeiro,Brazil,-0.22
 "Jan 8, 2022",Lima,Peru,-0.22
+"Jan 8, 2022",Rio De Janeiro,Brazil,-0.22
 "Jan 8, 2022",Paris,France,-0.21
 "Jan 8, 2022",Fort Worth,United States,-0.2
 "Jan 8, 2022",Montevideo,Uruguay,-0.18
 "Jan 8, 2022",Recife,Brazil,-0.17
 "Jan 8, 2022",Sao Paulo,Brazil,-0.17
-"Jan 8, 2022",Quebec City,Canada,-0.16
 "Jan 8, 2022",Pittsburgh,United States,-0.16
+"Jan 8, 2022",Quebec City,Canada,-0.16
 "Jan 8, 2022",Hamilton,Canada,-0.15
-"Jan 8, 2022",Minneapolis,United States,-0.14
 "Jan 8, 2022",Charlotte,United States,-0.14
 "Jan 8, 2022",Cincinnati,United States,-0.14
+"Jan 8, 2022",Minneapolis,United States,-0.14
 "Jan 8, 2022",London,United Kingdom,-0.13
-"Jan 8, 2022",Lyon,France,-0.12
-"Jan 8, 2022",Cali,Colombia,-0.12
 "Jan 8, 2022",Fort Lauderdale,United States,-0.12
+"Jan 8, 2022",Cali,Colombia,-0.12
+"Jan 8, 2022",Lyon,France,-0.12
 "Jan 8, 2022",Curitiba,Brazil,-0.11
 "Jan 8, 2022",Quito,Ecuador,-0.1
 "Jan 8, 2022",Riga,Latvia,-0.09
 "Jan 8, 2022",Prague,Czechia,-0.07
 "Jan 8, 2022",Budapest,Hungary,-0.05
-"Jan 8, 2022",Raleigh,United States,-0.05
 "Jan 8, 2022",Salvador,Brazil,-0.05
-"Jan 8, 2022",Toulouse,France,-0.04
-"Jan 8, 2022",Johor Bahru,Malaysia,-0.04
-"Jan 8, 2022",Lisbon,Portugal,-0.04
-"Jan 8, 2022",Sydney,Australia,-0.04
+"Jan 8, 2022",Raleigh,United States,-0.05
 "Jan 8, 2022",Bordeaux,France,-0.04
+"Jan 8, 2022",Toulouse,France,-0.04
+"Jan 8, 2022",Sydney,Australia,-0.04
+"Jan 8, 2022",Lisbon,Portugal,-0.04
+"Jan 8, 2022",Johor Bahru,Malaysia,-0.04
+"Jan 8, 2022",Fortaleza,Brazil,-0.02
 "Jan 8, 2022",Manchester,United Kingdom,-0.02
 "Jan 8, 2022",Brussels,Belgium,-0.02
-"Jan 8, 2022",Fortaleza,Brazil,-0.02
-"Jan 8, 2022",Florianopolis,Brazil,-0.01
 "Jan 8, 2022",Guarulhos,Brazil,-0.01
+"Jan 8, 2022",Florianopolis,Brazil,-0.01
 "Jan 8, 2022",Luton,United Kingdom,0.01
-"Jan 8, 2022",Tangerang,Indonesia,0.02
 "Jan 8, 2022",Berlin,Germany,0.02
+"Jan 8, 2022",Tangerang,Indonesia,0.02
 "Jan 8, 2022",Rishon Letsiyon,Israel,0.03
 "Jan 8, 2022",Lille,France,0.04
-"Jan 8, 2022",Kuala Lumpur,Malaysia,0.05
 "Jan 8, 2022",Birmingham,United Kingdom,0.05
+"Jan 8, 2022",Kuala Lumpur,Malaysia,0.05
 "Jan 8, 2022",Brno,Czechia,0.05
 "Jan 8, 2022",Calgary,Canada,0.06
-"Jan 8, 2022",Marseille,France,0.07
 "Jan 8, 2022",Rome,Italy,0.07
-"Jan 8, 2022",Bucharest,Romania,0.08
+"Jan 8, 2022",Marseille,France,0.07
 "Jan 8, 2022",Antwerp,Belgium,0.08
+"Jan 8, 2022",Bucharest,Romania,0.08
 "Jan 8, 2022",Singapore,Singapore,0.09
 "Jan 8, 2022",Petaling Jaya,Malaysia,0.09
 "Jan 8, 2022",Stockholm,Sweden,0.1
@@ -1407,14 +1544,14 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 8, 2022",Ghent,Belgium,0.12
 "Jan 8, 2022",Medellin,Colombia,0.13
 "Jan 8, 2022",Bristol,United Kingdom,0.13
+"Jan 8, 2022",Warsaw,Poland,0.14
 "Jan 8, 2022",Porto Alegre,Brazil,0.14
 "Jan 8, 2022",Ramat Gan,Israel,0.14
-"Jan 8, 2022",Warsaw,Poland,0.14
 "Jan 8, 2022",Shah Alam,Malaysia,0.15
 "Jan 8, 2022",Santiago,Chile,0.15
 "Jan 8, 2022",Petah Tikva,Israel,0.17
-"Jan 8, 2022",Jerusalem,Israel,0.2
 "Jan 8, 2022",Madrid,Spain,0.2
+"Jan 8, 2022",Jerusalem,Israel,0.2
 "Jan 8, 2022",Puchong,Malaysia,0.21
 "Jan 8, 2022",Barcelona,Spain,0.22
 "Jan 8, 2022",Haifa,Israel,0.24
@@ -1439,8 +1576,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 7, 2022",Miami Beach,United States,-0.68
 "Jan 7, 2022",Hartford,United States,-0.63
 "Jan 7, 2022",Oakland,United States,-0.6
-"Jan 7, 2022",Boston,United States,-0.58
 "Jan 7, 2022",San Francisco,United States,-0.58
+"Jan 7, 2022",Boston,United States,-0.58
 "Jan 7, 2022",Makati,Philippines,-0.57
 "Jan 7, 2022",Washington,United States,-0.54
 "Jan 7, 2022",New Orleans,United States,-0.54
@@ -1454,126 +1591,126 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 7, 2022",Los Angeles,United States,-0.48
 "Jan 7, 2022",Manila,Philippines,-0.47
 "Jan 7, 2022",Seattle,United States,-0.46
+"Jan 7, 2022",Jersey City,United States,-0.46
 "Jan 7, 2022",Brasilia,Brazil,-0.46
 "Jan 7, 2022",Sacramento,United States,-0.46
-"Jan 7, 2022",Jersey City,United States,-0.46
 "Jan 7, 2022",Minneapolis,United States,-0.45
 "Jan 7, 2022",San Jose,United States,-0.45
-"Jan 7, 2022",Irvine,United States,-0.44
 "Jan 7, 2022",Amsterdam,Netherlands,-0.44
+"Jan 7, 2022",Irvine,United States,-0.44
 "Jan 7, 2022",Philadelphia,United States,-0.44
 "Jan 7, 2022",Ottawa,Canada,-0.43
 "Jan 7, 2022",Chicago,United States,-0.42
-"Jan 7, 2022",Mexico City,Mexico,-0.41
 "Jan 7, 2022",Mississauga,Canada,-0.41
-"Jan 7, 2022",Stamford,United States,-0.4
+"Jan 7, 2022",Mexico City,Mexico,-0.41
 "Jan 7, 2022",Bristol,United Kingdom,-0.4
+"Jan 7, 2022",Stamford,United States,-0.4
 "Jan 7, 2022",Atlanta,United States,-0.39
 "Jan 7, 2022",Pittsburgh,United States,-0.39
 "Jan 7, 2022",Detroit,United States,-0.38
 "Jan 7, 2022",Liverpool,United Kingdom,-0.38
 "Jan 7, 2022",Montreal,Canada,-0.38
-"Jan 7, 2022",Jakarta,Indonesia,-0.37
-"Jan 7, 2022",Houston,United States,-0.37
 "Jan 7, 2022",Dallas,United States,-0.37
+"Jan 7, 2022",Houston,United States,-0.37
+"Jan 7, 2022",Jakarta,Indonesia,-0.37
 "Jan 7, 2022",Toronto,Canada,-0.37
-"Jan 7, 2022",Rotterdam,Netherlands,-0.36
 "Jan 7, 2022",Miami,United States,-0.36
+"Jan 7, 2022",Rotterdam,Netherlands,-0.36
 "Jan 7, 2022",Cincinnati,United States,-0.36
 "Jan 7, 2022",Puebla City,Mexico,-0.35
 "Jan 7, 2022",Guadalajara,Mexico,-0.33
 "Jan 7, 2022",Vaughan,Canada,-0.33
+"Jan 7, 2022",Santiago De Queretaro,Mexico,-0.32
 "Jan 7, 2022",Zapopan,Mexico,-0.32
 "Jan 7, 2022",Belo Horizonte,Brazil,-0.32
-"Jan 7, 2022",Santiago De Queretaro,Mexico,-0.32
 "Jan 7, 2022",San Antonio,United States,-0.3
-"Jan 7, 2022",Phoenix,United States,-0.3
 "Jan 7, 2022",New York,United States,-0.3
+"Jan 7, 2022",Phoenix,United States,-0.3
 "Jan 7, 2022",Orlando,United States,-0.29
-"Jan 7, 2022",Milan,Italy,-0.29
 "Jan 7, 2022",Calgary,Canada,-0.29
+"Jan 7, 2022",Milan,Italy,-0.29
 "Jan 7, 2022",Quebec City,Canada,-0.28
-"Jan 7, 2022",Tampa,United States,-0.28
 "Jan 7, 2022",Hamilton,Canada,-0.28
+"Jan 7, 2022",Tampa,United States,-0.28
 "Jan 7, 2022",Lisbon,Portugal,-0.27
 "Jan 7, 2022",Buenos Aires,Argentina,-0.26
 "Jan 7, 2022",Stockholm,Sweden,-0.26
 "Jan 7, 2022",Lima,Peru,-0.25
-"Jan 7, 2022",Curitiba,Brazil,-0.24
-"Jan 7, 2022",Charlotte,United States,-0.24
 "Jan 7, 2022",Sao Paulo,Brazil,-0.24
 "Jan 7, 2022",Fort Lauderdale,United States,-0.24
+"Jan 7, 2022",Curitiba,Brazil,-0.24
+"Jan 7, 2022",Charlotte,United States,-0.24
 "Jan 7, 2022",Bratislava,Slovakia,-0.23
 "Jan 7, 2022",Cambridge,United States,-0.23
-"Jan 7, 2022",Brussels,Belgium,-0.22
 "Jan 7, 2022",Quito,Ecuador,-0.22
 "Jan 7, 2022",Lyon,France,-0.22
+"Jan 7, 2022",Brussels,Belgium,-0.22
 "Jan 7, 2022",Melbourne,Australia,-0.22
 "Jan 7, 2022",Fort Worth,United States,-0.21
 "Jan 7, 2022",Lille,France,-0.2
 "Jan 7, 2022",Manchester,United Kingdom,-0.19
 "Jan 7, 2022",Rio De Janeiro,Brazil,-0.19
+"Jan 7, 2022",Yonkers,United States,-0.18
 "Jan 7, 2022",Madrid,Spain,-0.18
 "Jan 7, 2022",Rome,Italy,-0.18
 "Jan 7, 2022",San Jose,Costa Rica,-0.18
-"Jan 7, 2022",Yonkers,United States,-0.18
 "Jan 7, 2022",Paris,France,-0.17
 "Jan 7, 2022",Bekasi,Indonesia,-0.17
-"Jan 7, 2022",London,United Kingdom,-0.16
-"Jan 7, 2022",South Tangerang,Indonesia,-0.16
-"Jan 7, 2022",Ghent,Belgium,-0.16
 "Jan 7, 2022",Barcelona,Spain,-0.16
+"Jan 7, 2022",South Tangerang,Indonesia,-0.16
+"Jan 7, 2022",London,United Kingdom,-0.16
 "Jan 7, 2022",Bordeaux,France,-0.16
-"Jan 7, 2022",Bogota,Colombia,-0.15
+"Jan 7, 2022",Ghent,Belgium,-0.16
 "Jan 7, 2022",Recife,Brazil,-0.15
+"Jan 7, 2022",Bogota,Colombia,-0.15
 "Jan 7, 2022",Tangerang,Indonesia,-0.13
 "Jan 7, 2022",Raleigh,United States,-0.12
-"Jan 7, 2022",Porto Alegre,Brazil,-0.11
 "Jan 7, 2022",Fortaleza,Brazil,-0.11
+"Jan 7, 2022",Porto Alegre,Brazil,-0.11
 "Jan 7, 2022",Montevideo,Uruguay,-0.1
-"Jan 7, 2022",Antwerp,Belgium,-0.07
 "Jan 7, 2022",Guarulhos,Brazil,-0.07
-"Jan 7, 2022",Budapest,Hungary,-0.06
+"Jan 7, 2022",Antwerp,Belgium,-0.07
 "Jan 7, 2022",Salvador,Brazil,-0.06
+"Jan 7, 2022",Budapest,Hungary,-0.06
+"Jan 7, 2022",Luton,United Kingdom,-0.05
 "Jan 7, 2022",Birmingham,United Kingdom,-0.05
 "Jan 7, 2022",Sydney,Australia,-0.05
-"Jan 7, 2022",Luton,United Kingdom,-0.05
-"Jan 7, 2022",Toulouse,France,-0.04
 "Jan 7, 2022",Johor Bahru,Malaysia,-0.04
-"Jan 7, 2022",Cali,Colombia,-0.03
+"Jan 7, 2022",Toulouse,France,-0.04
 "Jan 7, 2022",Bucharest,Romania,-0.03
+"Jan 7, 2022",Cali,Colombia,-0.03
 "Jan 7, 2022",Prague,Czechia,-0.03
 "Jan 7, 2022",Kuala Lumpur,Malaysia,-0.03
 "Jan 7, 2022",Tel Aviv-Yafo,Israel,-0.02
-"Jan 7, 2022",Gold Coast,Australia,-0.02
 "Jan 7, 2022",Cape Town,South Africa,-0.02
-"Jan 7, 2022",Petaling Jaya,Malaysia,0.0
-"Jan 7, 2022",Riga,Latvia,0.0
+"Jan 7, 2022",Gold Coast,Australia,-0.02
 "Jan 7, 2022",Singapore,Singapore,0.0
+"Jan 7, 2022",Riga,Latvia,0.0
+"Jan 7, 2022",Petaling Jaya,Malaysia,0.0
 "Jan 7, 2022",Petah Tikva,Israel,0.01
 "Jan 7, 2022",Rishon Letsiyon,Israel,0.02
 "Jan 7, 2022",Ramat Gan,Israel,0.06
 "Jan 7, 2022",Medellin,Colombia,0.06
 "Jan 7, 2022",Haifa,Israel,0.08
-"Jan 7, 2022",Shah Alam,Malaysia,0.09
 "Jan 7, 2022",Brno,Czechia,0.09
+"Jan 7, 2022",Shah Alam,Malaysia,0.09
 "Jan 7, 2022",Marseille,France,0.09
-"Jan 7, 2022",Be'er Sheva,Israel,0.11
 "Jan 7, 2022",Jerusalem,Israel,0.11
+"Jan 7, 2022",Be'er Sheva,Israel,0.11
 "Jan 7, 2022",Warsaw,Poland,0.15
 "Jan 7, 2022",Berlin,Germany,0.17
 "Jan 7, 2022",Brisbane,Australia,0.18
 "Jan 7, 2022",Santiago,Chile,0.19
-"Jan 7, 2022",Florianopolis,Brazil,0.21
 "Jan 7, 2022",Puchong,Malaysia,0.21
+"Jan 7, 2022",Florianopolis,Brazil,0.21
 "Jan 7, 2022",Ipoh,Malaysia,0.23
 "Jan 7, 2022",Perth,Australia,0.27
 "Jan 7, 2022",Doha,Qatar,0.28
-"Jan 7, 2022",Krakow,Poland,0.29
 "Jan 7, 2022",Las Condes,Chile,0.29
+"Jan 7, 2022",Krakow,Poland,0.29
 "Jan 7, 2022",Vitoria,Brazil,0.32
-"Jan 7, 2022",Kyiv,Ukraine,0.38
 "Jan 7, 2022",Maipu,Chile,0.38
+"Jan 7, 2022",Kyiv,Ukraine,0.38
 "Jan 7, 2022",Vilnius,Lithuania,0.77
 "Jan 7, 2022",Kaunas,Lithuania,0.91
 "Jan 6, 2022",Minneapolis,United States,-0.81
@@ -1589,8 +1726,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 6, 2022",Hamilton,Canada,-0.5
 "Jan 6, 2022",Los Angeles,United States,-0.48
 "Jan 6, 2022",Pittsburgh,United States,-0.48
-"Jan 6, 2022",Quezon City,Philippines,-0.47
 "Jan 6, 2022",Bratislava,Slovakia,-0.47
+"Jan 6, 2022",Quezon City,Philippines,-0.47
 "Jan 6, 2022",Austin,United States,-0.47
 "Jan 6, 2022",Seattle,United States,-0.46
 "Jan 6, 2022",Rome,Italy,-0.45
@@ -1598,94 +1735,94 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 6, 2022",Brasilia,Brazil,-0.44
 "Jan 6, 2022",San Jose,United States,-0.44
 "Jan 6, 2022",Monterrey,Mexico,-0.44
-"Jan 6, 2022",Cincinnati,United States,-0.42
-"Jan 6, 2022",Toronto,Canada,-0.42
 "Jan 6, 2022",Jakarta,Indonesia,-0.42
+"Jan 6, 2022",Toronto,Canada,-0.42
+"Jan 6, 2022",Cincinnati,United States,-0.42
 "Jan 6, 2022",Mississauga,Canada,-0.4
-"Jan 6, 2022",Detroit,United States,-0.38
 "Jan 6, 2022",Chicago,United States,-0.38
+"Jan 6, 2022",Detroit,United States,-0.38
 "Jan 6, 2022",Rotterdam,Netherlands,-0.38
-"Jan 6, 2022",Mexico City,Mexico,-0.37
 "Jan 6, 2022",Hartford,United States,-0.37
 "Jan 6, 2022",Madrid,Spain,-0.37
+"Jan 6, 2022",Mexico City,Mexico,-0.37
 "Jan 6, 2022",Atlanta,United States,-0.37
 "Jan 6, 2022",Washington,United States,-0.36
 "Jan 6, 2022",Oakland,United States,-0.36
 "Jan 6, 2022",Houston,United States,-0.36
 "Jan 6, 2022",Miami,United States,-0.35
-"Jan 6, 2022",Phoenix,United States,-0.34
 "Jan 6, 2022",Boston,United States,-0.34
+"Jan 6, 2022",Phoenix,United States,-0.34
 "Jan 6, 2022",Tampa,United States,-0.34
-"Jan 6, 2022",Melbourne,Australia,-0.33
 "Jan 6, 2022",Vitoria,Brazil,-0.33
-"Jan 6, 2022",Stockholm,Sweden,-0.33
 "Jan 6, 2022",Dallas,United States,-0.33
-"Jan 6, 2022",Ottawa,Canada,-0.32
+"Jan 6, 2022",Stockholm,Sweden,-0.33
+"Jan 6, 2022",Melbourne,Australia,-0.33
 "Jan 6, 2022",Montreal,Canada,-0.32
+"Jan 6, 2022",Ottawa,Canada,-0.32
 "Jan 6, 2022",Milan,Italy,-0.31
-"Jan 6, 2022",Sacramento,United States,-0.31
-"Jan 6, 2022",Baltimore,United States,-0.31
 "Jan 6, 2022",Vaughan,Canada,-0.31
+"Jan 6, 2022",Baltimore,United States,-0.31
+"Jan 6, 2022",Sacramento,United States,-0.31
 "Jan 6, 2022",San Antonio,United States,-0.3
-"Jan 6, 2022",Krakow,Poland,-0.3
 "Jan 6, 2022",San Jose,Costa Rica,-0.3
 "Jan 6, 2022",New Orleans,United States,-0.3
+"Jan 6, 2022",Krakow,Poland,-0.3
 "Jan 6, 2022",Belo Horizonte,Brazil,-0.29
-"Jan 6, 2022",Jersey City,United States,-0.28
 "Jan 6, 2022",Calgary,Canada,-0.28
 "Jan 6, 2022",Cambridge,United States,-0.28
-"Jan 6, 2022",Montevideo,Uruguay,-0.27
+"Jan 6, 2022",Jersey City,United States,-0.28
 "Jan 6, 2022",Santiago De Queretaro,Mexico,-0.27
+"Jan 6, 2022",Montevideo,Uruguay,-0.27
+"Jan 6, 2022",Philadelphia,United States,-0.26
+"Jan 6, 2022",Brussels,Belgium,-0.26
 "Jan 6, 2022",Orlando,United States,-0.26
 "Jan 6, 2022",Sao Paulo,Brazil,-0.26
-"Jan 6, 2022",Brussels,Belgium,-0.26
-"Jan 6, 2022",Philadelphia,United States,-0.26
-"Jan 6, 2022",Fort Lauderdale,United States,-0.23
-"Jan 6, 2022",Stamford,United States,-0.23
-"Jan 6, 2022",Charlotte,United States,-0.23
 "Jan 6, 2022",Lisbon,Portugal,-0.23
+"Jan 6, 2022",Charlotte,United States,-0.23
+"Jan 6, 2022",Stamford,United States,-0.23
+"Jan 6, 2022",Fort Lauderdale,United States,-0.23
 "Jan 6, 2022",Miami Beach,United States,-0.22
 "Jan 6, 2022",Buenos Aires,Argentina,-0.22
-"Jan 6, 2022",Lima,Peru,-0.21
 "Jan 6, 2022",Puebla City,Mexico,-0.21
+"Jan 6, 2022",Lima,Peru,-0.21
 "Jan 6, 2022",Fort Worth,United States,-0.21
-"Jan 6, 2022",Curitiba,Brazil,-0.2
 "Jan 6, 2022",Liverpool,United Kingdom,-0.2
+"Jan 6, 2022",Curitiba,Brazil,-0.2
 "Jan 6, 2022",Ghent,Belgium,-0.19
 "Jan 6, 2022",Barcelona,Spain,-0.17
 "Jan 6, 2022",Fortaleza,Brazil,-0.16
-"Jan 6, 2022",Recife,Brazil,-0.16
 "Jan 6, 2022",Zapopan,Mexico,-0.16
+"Jan 6, 2022",Recife,Brazil,-0.16
 "Jan 6, 2022",London,United Kingdom,-0.15
 "Jan 6, 2022",Sydney,Australia,-0.15
 "Jan 6, 2022",Rio De Janeiro,Brazil,-0.15
-"Jan 6, 2022",Porto Alegre,Brazil,-0.14
 "Jan 6, 2022",Bogota,Colombia,-0.14
+"Jan 6, 2022",Porto Alegre,Brazil,-0.14
 "Jan 6, 2022",Tangerang,Indonesia,-0.14
 "Jan 6, 2022",Antwerp,Belgium,-0.13
 "Jan 6, 2022",New York,United States,-0.12
 "Jan 6, 2022",Paris,France,-0.12
-"Jan 6, 2022",Salvador,Brazil,-0.09
-"Jan 6, 2022",Bordeaux,France,-0.09
 "Jan 6, 2022",Lille,France,-0.09
-"Jan 6, 2022",Quebec City,Canada,-0.09
-"Jan 6, 2022",Tel Aviv-Yafo,Israel,-0.09
+"Jan 6, 2022",Bordeaux,France,-0.09
 "Jan 6, 2022",Budapest,Hungary,-0.09
+"Jan 6, 2022",Quebec City,Canada,-0.09
+"Jan 6, 2022",Salvador,Brazil,-0.09
+"Jan 6, 2022",Tel Aviv-Yafo,Israel,-0.09
 "Jan 6, 2022",Lyon,France,-0.08
 "Jan 6, 2022",Guadalajara,Mexico,-0.07
 "Jan 6, 2022",Guarulhos,Brazil,-0.06
-"Jan 6, 2022",Quito,Ecuador,-0.05
 "Jan 6, 2022",Raleigh,United States,-0.05
+"Jan 6, 2022",Quito,Ecuador,-0.05
 "Jan 6, 2022",Bekasi,Indonesia,-0.04
 "Jan 6, 2022",Manchester,United Kingdom,-0.03
-"Jan 6, 2022",Cali,Colombia,-0.02
 "Jan 6, 2022",Kuala Lumpur,Malaysia,-0.02
+"Jan 6, 2022",Cali,Colombia,-0.02
 "Jan 6, 2022",Ramat Gan,Israel,-0.02
 "Jan 6, 2022",Brno,Czechia,-0.01
-"Jan 6, 2022",Prague,Czechia,0.0
 "Jan 6, 2022",Bristol,United Kingdom,0.0
 "Jan 6, 2022",Bucharest,Romania,0.0
 "Jan 6, 2022",Johor Bahru,Malaysia,0.0
+"Jan 6, 2022",Prague,Czechia,0.0
 "Jan 6, 2022",Warsaw,Poland,0.01
 "Jan 6, 2022",Luton,United Kingdom,0.02
 "Jan 6, 2022",Singapore,Singapore,0.02
@@ -1694,13 +1831,13 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 6, 2022",Toulouse,France,0.06
 "Jan 6, 2022",Riga,Latvia,0.06
 "Jan 6, 2022",Rishon Letsiyon,Israel,0.06
-"Jan 6, 2022",Yonkers,United States,0.07
 "Jan 6, 2022",Petah Tikva,Israel,0.07
+"Jan 6, 2022",Yonkers,United States,0.07
 "Jan 6, 2022",Haifa,Israel,0.08
 "Jan 6, 2022",Marseille,France,0.09
 "Jan 6, 2022",Cape Town,South Africa,0.16
-"Jan 6, 2022",Be'er Sheva,Israel,0.17
 "Jan 6, 2022",Shah Alam,Malaysia,0.17
+"Jan 6, 2022",Be'er Sheva,Israel,0.17
 "Jan 6, 2022",Birmingham,United Kingdom,0.18
 "Jan 6, 2022",Ipoh,Malaysia,0.19
 "Jan 6, 2022",Doha,Qatar,0.22
@@ -1722,66 +1859,66 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 5, 2022",Miami Beach,United States,-0.57
 "Jan 5, 2022",Manila,Philippines,-0.55
 "Jan 5, 2022",Irvine,United States,-0.52
-"Jan 5, 2022",Minneapolis,United States,-0.48
-"Jan 5, 2022",Seattle,United States,-0.48
 "Jan 5, 2022",Los Angeles,United States,-0.48
+"Jan 5, 2022",Seattle,United States,-0.48
 "Jan 5, 2022",Denver,United States,-0.48
-"Jan 5, 2022",San Diego,United States,-0.47
+"Jan 5, 2022",Minneapolis,United States,-0.48
 "Jan 5, 2022",Makati,Philippines,-0.47
-"Jan 5, 2022",Portland,United States,-0.46
-"Jan 5, 2022",Brasilia,Brazil,-0.46
+"Jan 5, 2022",San Diego,United States,-0.47
 "Jan 5, 2022",Detroit,United States,-0.46
+"Jan 5, 2022",Brasilia,Brazil,-0.46
+"Jan 5, 2022",Portland,United States,-0.46
 "Jan 5, 2022",Monterrey,Mexico,-0.45
 "Jan 5, 2022",Vaughan,Canada,-0.45
 "Jan 5, 2022",Austin,United States,-0.44
 "Jan 5, 2022",Amsterdam,Netherlands,-0.44
-"Jan 5, 2022",Washington,United States,-0.43
 "Jan 5, 2022",New Orleans,United States,-0.43
+"Jan 5, 2022",Washington,United States,-0.43
 "Jan 5, 2022",Jersey City,United States,-0.43
 "Jan 5, 2022",San Jose,United States,-0.41
-"Jan 5, 2022",Manchester,United Kingdom,-0.39
 "Jan 5, 2022",Tampa,United States,-0.39
 "Jan 5, 2022",Phoenix,United States,-0.39
+"Jan 5, 2022",Manchester,United Kingdom,-0.39
 "Jan 5, 2022",Stamford,United States,-0.38
 "Jan 5, 2022",Chicago,United States,-0.38
 "Jan 5, 2022",Dallas,United States,-0.37
 "Jan 5, 2022",Ottawa,Canada,-0.36
 "Jan 5, 2022",Houston,United States,-0.35
-"Jan 5, 2022",Toronto,Canada,-0.35
 "Jan 5, 2022",Jakarta,Indonesia,-0.35
-"Jan 5, 2022",Atlanta,United States,-0.34
-"Jan 5, 2022",Pittsburgh,United States,-0.34
-"Jan 5, 2022",Montreal,Canada,-0.34
+"Jan 5, 2022",Toronto,Canada,-0.35
 "Jan 5, 2022",Quezon City,Philippines,-0.34
-"Jan 5, 2022",Mexico City,Mexico,-0.33
+"Jan 5, 2022",Pittsburgh,United States,-0.34
+"Jan 5, 2022",Atlanta,United States,-0.34
+"Jan 5, 2022",Montreal,Canada,-0.34
 "Jan 5, 2022",Cambridge,United States,-0.33
 "Jan 5, 2022",Fort Lauderdale,United States,-0.33
+"Jan 5, 2022",Mexico City,Mexico,-0.33
 "Jan 5, 2022",Miami,United States,-0.32
 "Jan 5, 2022",Milan,Italy,-0.31
 "Jan 5, 2022",Quebec City,Canada,-0.31
 "Jan 5, 2022",Bekasi,Indonesia,-0.3
-"Jan 5, 2022",Hartford,United States,-0.3
 "Jan 5, 2022",Boston,United States,-0.3
-"Jan 5, 2022",Baltimore,United States,-0.29
-"Jan 5, 2022",San Antonio,United States,-0.29
+"Jan 5, 2022",Hartford,United States,-0.3
 "Jan 5, 2022",Oakland,United States,-0.29
 "Jan 5, 2022",Philadelphia,United States,-0.29
+"Jan 5, 2022",San Antonio,United States,-0.29
+"Jan 5, 2022",Baltimore,United States,-0.29
+"Jan 5, 2022",Charlotte,United States,-0.28
 "Jan 5, 2022",Cincinnati,United States,-0.28
 "Jan 5, 2022",Melbourne,Australia,-0.28
 "Jan 5, 2022",Belo Horizonte,Brazil,-0.28
-"Jan 5, 2022",Charlotte,United States,-0.28
 "Jan 5, 2022",Bratislava,Slovakia,-0.26
 "Jan 5, 2022",Nashville,United States,-0.26
 "Jan 5, 2022",Sacramento,United States,-0.25
 "Jan 5, 2022",Sao Paulo,Brazil,-0.24
 "Jan 5, 2022",Guadalajara,Mexico,-0.23
 "Jan 5, 2022",Buenos Aires,Argentina,-0.22
-"Jan 5, 2022",Mississauga,Canada,-0.22
 "Jan 5, 2022",Santiago De Queretaro,Mexico,-0.22
+"Jan 5, 2022",Mississauga,Canada,-0.22
 "Jan 5, 2022",Raleigh,United States,-0.21
 "Jan 5, 2022",Curitiba,Brazil,-0.19
-"Jan 5, 2022",Lima,Peru,-0.18
 "Jan 5, 2022",Lisbon,Portugal,-0.18
+"Jan 5, 2022",Lima,Peru,-0.18
 "Jan 5, 2022",Ghent,Belgium,-0.17
 "Jan 5, 2022",Zapopan,Mexico,-0.17
 "Jan 5, 2022",Bristol,United Kingdom,-0.17
@@ -1790,42 +1927,42 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 5, 2022",London,United Kingdom,-0.15
 "Jan 5, 2022",San Jose,Costa Rica,-0.14
 "Jan 5, 2022",Rio De Janeiro,Brazil,-0.13
-"Jan 5, 2022",Brussels,Belgium,-0.13
 "Jan 5, 2022",Fortaleza,Brazil,-0.13
 "Jan 5, 2022",Bogota,Colombia,-0.13
-"Jan 5, 2022",Fort Worth,United States,-0.12
-"Jan 5, 2022",Puebla City,Mexico,-0.12
-"Jan 5, 2022",Madrid,Spain,-0.12
+"Jan 5, 2022",Brussels,Belgium,-0.13
 "Jan 5, 2022",Salvador,Brazil,-0.12
-"Jan 5, 2022",New York,United States,-0.11
+"Jan 5, 2022",Madrid,Spain,-0.12
+"Jan 5, 2022",Puebla City,Mexico,-0.12
+"Jan 5, 2022",Fort Worth,United States,-0.12
 "Jan 5, 2022",Paris,France,-0.11
 "Jan 5, 2022",Rome,Italy,-0.11
+"Jan 5, 2022",New York,United States,-0.11
 "Jan 5, 2022",Budapest,Hungary,-0.1
 "Jan 5, 2022",Tangerang,Indonesia,-0.1
 "Jan 5, 2022",Tel Aviv-Yafo,Israel,-0.09
 "Jan 5, 2022",Porto Alegre,Brazil,-0.08
 "Jan 5, 2022",Stockholm,Sweden,-0.08
-"Jan 5, 2022",Guarulhos,Brazil,-0.07
 "Jan 5, 2022",Antwerp,Belgium,-0.07
+"Jan 5, 2022",Guarulhos,Brazil,-0.07
 "Jan 5, 2022",Hamilton,Canada,-0.06
 "Jan 5, 2022",Liverpool,United Kingdom,-0.04
 "Jan 5, 2022",Lyon,France,-0.04
-"Jan 5, 2022",Quito,Ecuador,-0.03
 "Jan 5, 2022",Prague,Czechia,-0.03
+"Jan 5, 2022",Quito,Ecuador,-0.03
 "Jan 5, 2022",Johor Bahru,Malaysia,-0.02
 "Jan 5, 2022",Ramat Gan,Israel,-0.02
-"Jan 5, 2022",Sydney,Australia,-0.01
 "Jan 5, 2022",Jerusalem,Israel,-0.01
-"Jan 5, 2022",Bucharest,Romania,0.0
+"Jan 5, 2022",Sydney,Australia,-0.01
 "Jan 5, 2022",Cape Town,South Africa,0.0
+"Jan 5, 2022",Bucharest,Romania,0.0
 "Jan 5, 2022",Rishon Letsiyon,Israel,0.01
-"Jan 5, 2022",Singapore,Singapore,0.02
-"Jan 5, 2022",Kuala Lumpur,Malaysia,0.02
 "Jan 5, 2022",Bordeaux,France,0.02
-"Jan 5, 2022",Lille,France,0.03
-"Jan 5, 2022",Haifa,Israel,0.03
+"Jan 5, 2022",Kuala Lumpur,Malaysia,0.02
+"Jan 5, 2022",Singapore,Singapore,0.02
 "Jan 5, 2022",Petah Tikva,Israel,0.03
+"Jan 5, 2022",Haifa,Israel,0.03
 "Jan 5, 2022",Yonkers,United States,0.03
+"Jan 5, 2022",Lille,France,0.03
 "Jan 5, 2022",Toulouse,France,0.04
 "Jan 5, 2022",Riga,Latvia,0.05
 "Jan 5, 2022",Petaling Jaya,Malaysia,0.07
@@ -1833,14 +1970,14 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 5, 2022",Montevideo,Uruguay,0.08
 "Jan 5, 2022",Calgary,Canada,0.08
 "Jan 5, 2022",Barcelona,Spain,0.11
-"Jan 5, 2022",Luton,United Kingdom,0.12
 "Jan 5, 2022",Be'er Sheva,Israel,0.12
+"Jan 5, 2022",Luton,United Kingdom,0.12
 "Jan 5, 2022",Perth,Australia,0.14
 "Jan 5, 2022",Birmingham,United Kingdom,0.14
 "Jan 5, 2022",Marseille,France,0.16
 "Jan 5, 2022",Gold Coast,Australia,0.16
-"Jan 5, 2022",Cali,Colombia,0.19
 "Jan 5, 2022",Brno,Czechia,0.19
+"Jan 5, 2022",Cali,Colombia,0.19
 "Jan 5, 2022",Medellin,Colombia,0.2
 "Jan 5, 2022",Shah Alam,Malaysia,0.21
 "Jan 5, 2022",Vitoria,Brazil,0.24
@@ -1862,26 +1999,26 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 4, 2022",Irvine,United States,-0.67
 "Jan 4, 2022",Washington,United States,-0.58
 "Jan 4, 2022",Stockholm,Sweden,-0.55
-"Jan 4, 2022",Jersey City,United States,-0.53
 "Jan 4, 2022",Seattle,United States,-0.53
-"Jan 4, 2022",Monterrey,Mexico,-0.51
+"Jan 4, 2022",Jersey City,United States,-0.53
 "Jan 4, 2022",Makati,Philippines,-0.51
+"Jan 4, 2022",Monterrey,Mexico,-0.51
 "Jan 4, 2022",San Jose,United States,-0.49
 "Jan 4, 2022",San Diego,United States,-0.48
 "Jan 4, 2022",Los Angeles,United States,-0.47
-"Jan 4, 2022",Sacramento,United States,-0.45
 "Jan 4, 2022",Manila,Philippines,-0.45
+"Jan 4, 2022",Sacramento,United States,-0.45
 "Jan 4, 2022",Cambridge,United States,-0.44
 "Jan 4, 2022",Amsterdam,Netherlands,-0.43
 "Jan 4, 2022",Baltimore,United States,-0.43
 "Jan 4, 2022",Mississauga,Canada,-0.43
 "Jan 4, 2022",San Francisco,United States,-0.42
 "Jan 4, 2022",Portland,United States,-0.4
-"Jan 4, 2022",Quezon City,Philippines,-0.4
 "Jan 4, 2022",Austin,United States,-0.4
 "Jan 4, 2022",Denver,United States,-0.4
-"Jan 4, 2022",Oakland,United States,-0.39
+"Jan 4, 2022",Quezon City,Philippines,-0.4
 "Jan 4, 2022",Detroit,United States,-0.39
+"Jan 4, 2022",Oakland,United States,-0.39
 "Jan 4, 2022",Hartford,United States,-0.37
 "Jan 4, 2022",Fort Lauderdale,United States,-0.37
 "Jan 4, 2022",Philadelphia,United States,-0.36
@@ -1889,104 +2026,104 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 4, 2022",Boston,United States,-0.35
 "Jan 4, 2022",Brasilia,Brazil,-0.34
 "Jan 4, 2022",Houston,United States,-0.34
-"Jan 4, 2022",Chicago,United States,-0.33
 "Jan 4, 2022",Toronto,Canada,-0.33
+"Jan 4, 2022",Chicago,United States,-0.33
+"Jan 4, 2022",Tangerang,Indonesia,-0.32
 "Jan 4, 2022",Pittsburgh,United States,-0.32
 "Jan 4, 2022",Dallas,United States,-0.32
-"Jan 4, 2022",Tangerang,Indonesia,-0.32
 "Jan 4, 2022",Montreal,Canada,-0.32
 "Jan 4, 2022",Berlin,Germany,-0.31
 "Jan 4, 2022",Mexico City,Mexico,-0.31
 "Jan 4, 2022",Liverpool,United Kingdom,-0.31
 "Jan 4, 2022",Miami,United States,-0.3
 "Jan 4, 2022",Quebec City,Canada,-0.28
-"Jan 4, 2022",Phoenix,United States,-0.27
 "Jan 4, 2022",Cincinnati,United States,-0.27
+"Jan 4, 2022",Phoenix,United States,-0.27
 "Jan 4, 2022",Nashville,United States,-0.27
-"Jan 4, 2022",Ottawa,Canada,-0.26
-"Jan 4, 2022",San Antonio,United States,-0.26
 "Jan 4, 2022",Jakarta,Indonesia,-0.26
+"Jan 4, 2022",San Antonio,United States,-0.26
+"Jan 4, 2022",Ottawa,Canada,-0.26
 "Jan 4, 2022",Tampa,United States,-0.25
-"Jan 4, 2022",Charlotte,United States,-0.24
 "Jan 4, 2022",New Orleans,United States,-0.24
+"Jan 4, 2022",Charlotte,United States,-0.24
 "Jan 4, 2022",San Jose,Costa Rica,-0.23
 "Jan 4, 2022",Melbourne,Australia,-0.22
-"Jan 4, 2022",Santiago De Queretaro,Mexico,-0.21
 "Jan 4, 2022",Belo Horizonte,Brazil,-0.21
 "Jan 4, 2022",Stamford,United States,-0.21
+"Jan 4, 2022",Santiago De Queretaro,Mexico,-0.21
 "Jan 4, 2022",Raleigh,United States,-0.2
-"Jan 4, 2022",Puebla City,Mexico,-0.19
 "Jan 4, 2022",Zapopan,Mexico,-0.19
+"Jan 4, 2022",Puebla City,Mexico,-0.19
 "Jan 4, 2022",Hamilton,Canada,-0.18
-"Jan 4, 2022",Lima,Peru,-0.18
 "Jan 4, 2022",Orlando,United States,-0.18
+"Jan 4, 2022",Lima,Peru,-0.18
 "Jan 4, 2022",Guadalajara,Mexico,-0.17
 "Jan 4, 2022",Calgary,Canada,-0.17
 "Jan 4, 2022",Lisbon,Portugal,-0.16
-"Jan 4, 2022",Bratislava,Slovakia,-0.15
+"Jan 4, 2022",Buenos Aires,Argentina,-0.15
 "Jan 4, 2022",London,United Kingdom,-0.15
+"Jan 4, 2022",Antwerp,Belgium,-0.15
 "Jan 4, 2022",Fort Worth,United States,-0.15
 "Jan 4, 2022",Rome,Italy,-0.15
-"Jan 4, 2022",Antwerp,Belgium,-0.15
-"Jan 4, 2022",Buenos Aires,Argentina,-0.15
+"Jan 4, 2022",Bratislava,Slovakia,-0.15
 "Jan 4, 2022",Yonkers,United States,-0.13
 "Jan 4, 2022",Budapest,Hungary,-0.13
 "Jan 4, 2022",New York,United States,-0.13
+"Jan 4, 2022",Ghent,Belgium,-0.12
 "Jan 4, 2022",Milan,Italy,-0.12
 "Jan 4, 2022",Sydney,Australia,-0.12
-"Jan 4, 2022",Ghent,Belgium,-0.12
 "Jan 4, 2022",Paris,France,-0.12
 "Jan 4, 2022",Tel Aviv-Yafo,Israel,-0.11
 "Jan 4, 2022",Madrid,Spain,-0.1
-"Jan 4, 2022",Bogota,Colombia,-0.09
 "Jan 4, 2022",Ramat Gan,Israel,-0.09
-"Jan 4, 2022",Montevideo,Uruguay,-0.08
+"Jan 4, 2022",Bogota,Colombia,-0.09
 "Jan 4, 2022",Sao Paulo,Brazil,-0.08
+"Jan 4, 2022",Montevideo,Uruguay,-0.08
 "Jan 4, 2022",Manchester,United Kingdom,-0.07
-"Jan 4, 2022",Luton,United Kingdom,-0.06
 "Jan 4, 2022",Rotterdam,Netherlands,-0.06
 "Jan 4, 2022",South Tangerang,Indonesia,-0.06
+"Jan 4, 2022",Luton,United Kingdom,-0.06
 "Jan 4, 2022",Recife,Brazil,-0.05
 "Jan 4, 2022",Prague,Czechia,-0.04
 "Jan 4, 2022",Birmingham,United Kingdom,-0.04
-"Jan 4, 2022",Lille,France,-0.03
 "Jan 4, 2022",Bucharest,Romania,-0.03
 "Jan 4, 2022",Singapore,Singapore,-0.03
-"Jan 4, 2022",Rio De Janeiro,Brazil,-0.02
+"Jan 4, 2022",Lille,France,-0.03
 "Jan 4, 2022",Salvador,Brazil,-0.02
+"Jan 4, 2022",Rio De Janeiro,Brazil,-0.02
 "Jan 4, 2022",Johor Bahru,Malaysia,0.0
 "Jan 4, 2022",Petah Tikva,Israel,0.0
-"Jan 4, 2022",Kuala Lumpur,Malaysia,0.01
 "Jan 4, 2022",Petaling Jaya,Malaysia,0.01
+"Jan 4, 2022",Kuala Lumpur,Malaysia,0.01
 "Jan 4, 2022",Riga,Latvia,0.02
 "Jan 4, 2022",Lyon,France,0.02
 "Jan 4, 2022",Curitiba,Brazil,0.03
-"Jan 4, 2022",Rishon Letsiyon,Israel,0.03
 "Jan 4, 2022",Jerusalem,Israel,0.03
+"Jan 4, 2022",Rishon Letsiyon,Israel,0.03
 "Jan 4, 2022",Bordeaux,France,0.04
 "Jan 4, 2022",Bristol,United Kingdom,0.05
 "Jan 4, 2022",Perth,Australia,0.06
+"Jan 4, 2022",Brussels,Belgium,0.06
 "Jan 4, 2022",Miami Beach,United States,0.06
 "Jan 4, 2022",Barcelona,Spain,0.06
-"Jan 4, 2022",Brussels,Belgium,0.06
 "Jan 4, 2022",Fortaleza,Brazil,0.07
 "Jan 4, 2022",Toulouse,France,0.08
 "Jan 4, 2022",Cali,Colombia,0.08
 "Jan 4, 2022",Guarulhos,Brazil,0.09
 "Jan 4, 2022",Haifa,Israel,0.09
-"Jan 4, 2022",Porto Alegre,Brazil,0.13
 "Jan 4, 2022",Vaughan,Canada,0.13
+"Jan 4, 2022",Porto Alegre,Brazil,0.13
 "Jan 4, 2022",Brno,Czechia,0.14
 "Jan 4, 2022",Puchong,Malaysia,0.16
 "Jan 4, 2022",Cape Town,South Africa,0.18
 "Jan 4, 2022",Shah Alam,Malaysia,0.18
 "Jan 4, 2022",Quito,Ecuador,0.18
 "Jan 4, 2022",Medellin,Colombia,0.2
-"Jan 4, 2022",Warsaw,Poland,0.23
 "Jan 4, 2022",Marseille,France,0.23
-"Jan 4, 2022",Santiago,Chile,0.29
+"Jan 4, 2022",Warsaw,Poland,0.23
 "Jan 4, 2022",Brisbane,Australia,0.29
 "Jan 4, 2022",Gold Coast,Australia,0.29
+"Jan 4, 2022",Santiago,Chile,0.29
 "Jan 4, 2022",Be'er Sheva,Israel,0.34
 "Jan 4, 2022",Krakow,Poland,0.36
 "Jan 4, 2022",Ipoh,Malaysia,0.39
@@ -2008,116 +2145,116 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 3, 2022",Austin,United States,-0.42
 "Jan 3, 2022",Detroit,United States,-0.41
 "Jan 3, 2022",Stockholm,Sweden,-0.41
-"Jan 3, 2022",Los Angeles,United States,-0.4
-"Jan 3, 2022",Cambridge,United States,-0.4
 "Jan 3, 2022",Brussels,Belgium,-0.4
+"Jan 3, 2022",Cambridge,United States,-0.4
+"Jan 3, 2022",Los Angeles,United States,-0.4
 "Jan 3, 2022",Mississauga,Canada,-0.4
 "Jan 3, 2022",Jakarta,Indonesia,-0.38
 "Jan 3, 2022",Portland,United States,-0.37
 "Jan 3, 2022",San Francisco,United States,-0.37
-"Jan 3, 2022",Manila,Philippines,-0.36
 "Jan 3, 2022",Montreal,Canada,-0.36
 "Jan 3, 2022",New Orleans,United States,-0.36
+"Jan 3, 2022",Manila,Philippines,-0.36
 "Jan 3, 2022",Nashville,United States,-0.35
 "Jan 3, 2022",Houston,United States,-0.34
 "Jan 3, 2022",Oakland,United States,-0.34
-"Jan 3, 2022",San Diego,United States,-0.33
-"Jan 3, 2022",Irvine,United States,-0.33
 "Jan 3, 2022",Sacramento,United States,-0.33
+"Jan 3, 2022",Irvine,United States,-0.33
+"Jan 3, 2022",San Diego,United States,-0.33
 "Jan 3, 2022",Denver,United States,-0.33
 "Jan 3, 2022",Toronto,Canada,-0.32
 "Jan 3, 2022",Raleigh,United States,-0.31
-"Jan 3, 2022",Quezon City,Philippines,-0.31
 "Jan 3, 2022",Philadelphia,United States,-0.31
+"Jan 3, 2022",Quezon City,Philippines,-0.31
 "Jan 3, 2022",Monterrey,Mexico,-0.3
 "Jan 3, 2022",Atlanta,United States,-0.3
 "Jan 3, 2022",Mexico City,Mexico,-0.29
 "Jan 3, 2022",Dallas,United States,-0.27
-"Jan 3, 2022",Chicago,United States,-0.27
 "Jan 3, 2022",Quebec City,Canada,-0.27
+"Jan 3, 2022",Chicago,United States,-0.27
 "Jan 3, 2022",Tangerang,Indonesia,-0.27
-"Jan 3, 2022",Boston,United States,-0.26
+"Jan 3, 2022",Phoenix,United States,-0.26
 "Jan 3, 2022",Ottawa,Canada,-0.26
 "Jan 3, 2022",Vaughan,Canada,-0.26
-"Jan 3, 2022",Phoenix,United States,-0.26
+"Jan 3, 2022",Boston,United States,-0.26
 "Jan 3, 2022",Miami Beach,United States,-0.25
 "Jan 3, 2022",Cincinnati,United States,-0.23
 "Jan 3, 2022",San Jose,United States,-0.22
-"Jan 3, 2022",Charlotte,United States,-0.22
 "Jan 3, 2022",Tampa,United States,-0.22
-"Jan 3, 2022",Brasilia,Brazil,-0.21
+"Jan 3, 2022",Charlotte,United States,-0.22
 "Jan 3, 2022",Milan,Italy,-0.21
+"Jan 3, 2022",Brasilia,Brazil,-0.21
 "Jan 3, 2022",Guadalajara,Mexico,-0.2
 "Jan 3, 2022",San Jose,Costa Rica,-0.2
 "Jan 3, 2022",Miami,United States,-0.2
-"Jan 3, 2022",Jersey City,United States,-0.19
 "Jan 3, 2022",San Antonio,United States,-0.19
+"Jan 3, 2022",Jersey City,United States,-0.19
 "Jan 3, 2022",Fort Lauderdale,United States,-0.19
 "Jan 3, 2022",Lima,Peru,-0.18
-"Jan 3, 2022",Budapest,Hungary,-0.18
 "Jan 3, 2022",Santiago De Queretaro,Mexico,-0.18
+"Jan 3, 2022",Budapest,Hungary,-0.18
 "Jan 3, 2022",Liverpool,United Kingdom,-0.17
 "Jan 3, 2022",Antwerp,Belgium,-0.16
-"Jan 3, 2022",London,United Kingdom,-0.16
 "Jan 3, 2022",Rotterdam,Netherlands,-0.16
+"Jan 3, 2022",London,United Kingdom,-0.16
 "Jan 3, 2022",Fort Worth,United States,-0.15
 "Jan 3, 2022",Zapopan,Mexico,-0.15
 "Jan 3, 2022",South Tangerang,Indonesia,-0.13
 "Jan 3, 2022",Melbourne,Australia,-0.13
+"Jan 3, 2022",Belo Horizonte,Brazil,-0.12
+"Jan 3, 2022",Yonkers,United States,-0.12
+"Jan 3, 2022",Bekasi,Indonesia,-0.12
 "Jan 3, 2022",Rome,Italy,-0.12
 "Jan 3, 2022",Hartford,United States,-0.12
-"Jan 3, 2022",Yonkers,United States,-0.12
-"Jan 3, 2022",Belo Horizonte,Brazil,-0.12
-"Jan 3, 2022",Bekasi,Indonesia,-0.12
-"Jan 3, 2022",Luton,United Kingdom,-0.11
-"Jan 3, 2022",Lisbon,Portugal,-0.11
 "Jan 3, 2022",Bogota,Colombia,-0.11
+"Jan 3, 2022",Lisbon,Portugal,-0.11
+"Jan 3, 2022",Luton,United Kingdom,-0.11
 "Jan 3, 2022",Madrid,Spain,-0.1
 "Jan 3, 2022",New York,United States,-0.09
 "Jan 3, 2022",Orlando,United States,-0.08
 "Jan 3, 2022",Tel Aviv-Yafo,Israel,-0.07
-"Jan 3, 2022",Bratislava,Slovakia,-0.06
-"Jan 3, 2022",Riga,Latvia,-0.06
-"Jan 3, 2022",Bristol,United Kingdom,-0.06
-"Jan 3, 2022",Puebla City,Mexico,-0.06
 "Jan 3, 2022",Manchester,United Kingdom,-0.06
+"Jan 3, 2022",Bristol,United Kingdom,-0.06
+"Jan 3, 2022",Bratislava,Slovakia,-0.06
+"Jan 3, 2022",Puebla City,Mexico,-0.06
+"Jan 3, 2022",Riga,Latvia,-0.06
 "Jan 3, 2022",Jerusalem,Israel,-0.05
 "Jan 3, 2022",Stamford,United States,-0.05
-"Jan 3, 2022",Paris,France,-0.04
 "Jan 3, 2022",Singapore,Singapore,-0.04
 "Jan 3, 2022",Ghent,Belgium,-0.04
+"Jan 3, 2022",Paris,France,-0.04
 "Jan 3, 2022",Birmingham,United Kingdom,-0.03
 "Jan 3, 2022",Prague,Czechia,-0.02
-"Jan 3, 2022",Petah Tikva,Israel,-0.01
-"Jan 3, 2022",Cali,Colombia,-0.01
 "Jan 3, 2022",Kuala Lumpur,Malaysia,-0.01
+"Jan 3, 2022",Cali,Colombia,-0.01
+"Jan 3, 2022",Petah Tikva,Israel,-0.01
 "Jan 3, 2022",Bucharest,Romania,0.01
 "Jan 3, 2022",Brno,Czechia,0.01
 "Jan 3, 2022",Johor Bahru,Malaysia,0.02
 "Jan 3, 2022",Salvador,Brazil,0.02
 "Jan 3, 2022",Barcelona,Spain,0.03
 "Jan 3, 2022",Buenos Aires,Argentina,0.04
-"Jan 3, 2022",Recife,Brazil,0.04
 "Jan 3, 2022",Sao Paulo,Brazil,0.04
+"Jan 3, 2022",Recife,Brazil,0.04
 "Jan 3, 2022",Hamilton,Canada,0.04
 "Jan 3, 2022",Calgary,Canada,0.05
 "Jan 3, 2022",Rio De Janeiro,Brazil,0.06
 "Jan 3, 2022",Petaling Jaya,Malaysia,0.07
-"Jan 3, 2022",Pittsburgh,United States,0.08
 "Jan 3, 2022",Toulouse,France,0.08
+"Jan 3, 2022",Pittsburgh,United States,0.08
 "Jan 3, 2022",Rishon Letsiyon,Israel,0.08
 "Jan 3, 2022",Bordeaux,France,0.09
 "Jan 3, 2022",Lyon,France,0.11
-"Jan 3, 2022",Ipoh,Malaysia,0.12
 "Jan 3, 2022",Ramat Gan,Israel,0.12
+"Jan 3, 2022",Ipoh,Malaysia,0.12
 "Jan 3, 2022",Fortaleza,Brazil,0.15
 "Jan 3, 2022",Krakow,Poland,0.16
 "Jan 3, 2022",Cape Town,South Africa,0.17
 "Jan 3, 2022",Medellin,Colombia,0.18
 "Jan 3, 2022",Haifa,Israel,0.19
 "Jan 3, 2022",Shah Alam,Malaysia,0.22
-"Jan 3, 2022",Curitiba,Brazil,0.25
 "Jan 3, 2022",Las Condes,Chile,0.25
+"Jan 3, 2022",Curitiba,Brazil,0.25
 "Jan 3, 2022",Perth,Australia,0.26
 "Jan 3, 2022",Sydney,Australia,0.27
 "Jan 3, 2022",Santiago,Chile,0.27
@@ -2143,122 +2280,122 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 2, 2022",Quebec City,Canada,-0.76
 "Jan 2, 2022",Minneapolis,United States,-0.73
 "Jan 2, 2022",Oakland,United States,-0.61
-"Jan 2, 2022",Portland,United States,-0.58
 "Jan 2, 2022",Miami Beach,United States,-0.58
+"Jan 2, 2022",Portland,United States,-0.58
 "Jan 2, 2022",Luton,United Kingdom,-0.53
 "Jan 2, 2022",Monterrey,Mexico,-0.51
 "Jan 2, 2022",Mississauga,Canada,-0.49
 "Jan 2, 2022",Montreal,Canada,-0.47
 "Jan 2, 2022",Hartford,United States,-0.46
-"Jan 2, 2022",Mexico City,Mexico,-0.46
 "Jan 2, 2022",Los Angeles,United States,-0.46
+"Jan 2, 2022",Mexico City,Mexico,-0.46
 "Jan 2, 2022",Cambridge,United States,-0.45
 "Jan 2, 2022",Makati,Philippines,-0.44
-"Jan 2, 2022",Sacramento,United States,-0.43
 "Jan 2, 2022",San Francisco,United States,-0.43
-"Jan 2, 2022",Santiago De Queretaro,Mexico,-0.43
 "Jan 2, 2022",Brasilia,Brazil,-0.43
-"Jan 2, 2022",Austin,United States,-0.42
-"Jan 2, 2022",Chicago,United States,-0.42
+"Jan 2, 2022",Santiago De Queretaro,Mexico,-0.43
+"Jan 2, 2022",Sacramento,United States,-0.43
 "Jan 2, 2022",Seattle,United States,-0.42
+"Jan 2, 2022",Chicago,United States,-0.42
+"Jan 2, 2022",Austin,United States,-0.42
 "Jan 2, 2022",Puebla City,Mexico,-0.4
 "Jan 2, 2022",Irvine,United States,-0.39
 "Jan 2, 2022",San Diego,United States,-0.39
 "Jan 2, 2022",Fort Lauderdale,United States,-0.38
 "Jan 2, 2022",Belo Horizonte,Brazil,-0.37
-"Jan 2, 2022",Lima,Peru,-0.36
 "Jan 2, 2022",Bogota,Colombia,-0.36
+"Jan 2, 2022",Lima,Peru,-0.36
 "Jan 2, 2022",Guadalajara,Mexico,-0.36
 "Jan 2, 2022",Toronto,Canada,-0.32
 "Jan 2, 2022",Dallas,United States,-0.32
 "Jan 2, 2022",New Orleans,United States,-0.31
 "Jan 2, 2022",Amsterdam,Netherlands,-0.31
-"Jan 2, 2022",Philadelphia,United States,-0.3
-"Jan 2, 2022",San Jose,United States,-0.3
 "Jan 2, 2022",Houston,United States,-0.3
+"Jan 2, 2022",San Jose,United States,-0.3
+"Jan 2, 2022",Philadelphia,United States,-0.3
 "Jan 2, 2022",Boston,United States,-0.29
-"Jan 2, 2022",Quezon City,Philippines,-0.28
 "Jan 2, 2022",Detroit,United States,-0.28
-"Jan 2, 2022",Miami,United States,-0.27
+"Jan 2, 2022",Quezon City,Philippines,-0.28
 "Jan 2, 2022",Buenos Aires,Argentina,-0.27
-"Jan 2, 2022",Manila,Philippines,-0.27
+"Jan 2, 2022",Miami,United States,-0.27
 "Jan 2, 2022",Washington,United States,-0.27
+"Jan 2, 2022",Manila,Philippines,-0.27
 "Jan 2, 2022",Jersey City,United States,-0.26
 "Jan 2, 2022",Jakarta,Indonesia,-0.26
-"Jan 2, 2022",Yonkers,United States,-0.25
 "Jan 2, 2022",Zapopan,Mexico,-0.25
 "Jan 2, 2022",San Antonio,United States,-0.25
+"Jan 2, 2022",Yonkers,United States,-0.25
 "Jan 2, 2022",Phoenix,United States,-0.24
 "Jan 2, 2022",London,United Kingdom,-0.24
 "Jan 2, 2022",Denver,United States,-0.23
 "Jan 2, 2022",Ottawa,Canada,-0.22
 "Jan 2, 2022",Fort Worth,United States,-0.21
 "Jan 2, 2022",Quito,Ecuador,-0.21
+"Jan 2, 2022",Bekasi,Indonesia,-0.2
 "Jan 2, 2022",Vaughan,Canada,-0.2
 "Jan 2, 2022",New York,United States,-0.2
-"Jan 2, 2022",Bekasi,Indonesia,-0.2
 "Jan 2, 2022",Rotterdam,Netherlands,-0.19
 "Jan 2, 2022",Hamilton,Canada,-0.19
 "Jan 2, 2022",Baltimore,United States,-0.18
 "Jan 2, 2022",Liverpool,United Kingdom,-0.18
 "Jan 2, 2022",Fortaleza,Brazil,-0.16
 "Jan 2, 2022",Cali,Colombia,-0.15
-"Jan 2, 2022",Rio De Janeiro,Brazil,-0.14
 "Jan 2, 2022",Tampa,United States,-0.14
 "Jan 2, 2022",Atlanta,United States,-0.14
-"Jan 2, 2022",Johor Bahru,Malaysia,-0.12
-"Jan 2, 2022",Tangerang,Indonesia,-0.12
+"Jan 2, 2022",Rio De Janeiro,Brazil,-0.14
 "Jan 2, 2022",Melbourne,Australia,-0.12
 "Jan 2, 2022",Recife,Brazil,-0.12
-"Jan 2, 2022",Curitiba,Brazil,-0.11
-"Jan 2, 2022",Orlando,United States,-0.11
+"Jan 2, 2022",Johor Bahru,Malaysia,-0.12
+"Jan 2, 2022",Tangerang,Indonesia,-0.12
 "Jan 2, 2022",Salvador,Brazil,-0.11
+"Jan 2, 2022",Orlando,United States,-0.11
+"Jan 2, 2022",Curitiba,Brazil,-0.11
 "Jan 2, 2022",Sydney,Australia,-0.11
 "Jan 2, 2022",Pittsburgh,United States,-0.1
 "Jan 2, 2022",San Jose,Costa Rica,-0.09
 "Jan 2, 2022",Sao Paulo,Brazil,-0.07
-"Jan 2, 2022",Montevideo,Uruguay,-0.06
 "Jan 2, 2022",Manchester,United Kingdom,-0.06
 "Jan 2, 2022",Riga,Latvia,-0.06
+"Jan 2, 2022",Montevideo,Uruguay,-0.06
 "Jan 2, 2022",Nashville,United States,-0.05
-"Jan 2, 2022",Tel Aviv-Yafo,Israel,-0.04
 "Jan 2, 2022",Budapest,Hungary,-0.04
 "Jan 2, 2022",Raleigh,United States,-0.04
+"Jan 2, 2022",Tel Aviv-Yafo,Israel,-0.04
 "Jan 2, 2022",Singapore,Singapore,-0.03
 "Jan 2, 2022",Madrid,Spain,-0.01
 "Jan 2, 2022",Ghent,Belgium,0.01
 "Jan 2, 2022",Warsaw,Poland,0.02
-"Jan 2, 2022",Birmingham,United Kingdom,0.03
 "Jan 2, 2022",Kuala Lumpur,Malaysia,0.03
-"Jan 2, 2022",Charlotte,United States,0.04
+"Jan 2, 2022",Birmingham,United Kingdom,0.03
 "Jan 2, 2022",Petaling Jaya,Malaysia,0.04
-"Jan 2, 2022",Milan,Italy,0.05
+"Jan 2, 2022",Charlotte,United States,0.04
 "Jan 2, 2022",Stamford,United States,0.05
-"Jan 2, 2022",Santiago,Chile,0.06
+"Jan 2, 2022",Milan,Italy,0.05
 "Jan 2, 2022",Medellin,Colombia,0.06
+"Jan 2, 2022",Santiago,Chile,0.06
 "Jan 2, 2022",Lisbon,Portugal,0.07
+"Jan 2, 2022",Petah Tikva,Israel,0.08
 "Jan 2, 2022",Rishon Letsiyon,Israel,0.08
 "Jan 2, 2022",Barcelona,Spain,0.08
-"Jan 2, 2022",Petah Tikva,Israel,0.08
+"Jan 2, 2022",Bratislava,Slovakia,0.09
 "Jan 2, 2022",Jerusalem,Israel,0.09
 "Jan 2, 2022",Brussels,Belgium,0.09
-"Jan 2, 2022",Bratislava,Slovakia,0.09
 "Jan 2, 2022",Perth,Australia,0.1
 "Jan 2, 2022",Shah Alam,Malaysia,0.11
 "Jan 2, 2022",South Tangerang,Indonesia,0.12
-"Jan 2, 2022",Rome,Italy,0.13
 "Jan 2, 2022",Haifa,Israel,0.13
 "Jan 2, 2022",Ramat Gan,Israel,0.13
+"Jan 2, 2022",Rome,Italy,0.13
 "Jan 2, 2022",Stockholm,Sweden,0.14
 "Jan 2, 2022",Bristol,United Kingdom,0.14
-"Jan 2, 2022",Bucharest,Romania,0.15
 "Jan 2, 2022",Krakow,Poland,0.15
+"Jan 2, 2022",Bucharest,Romania,0.15
 "Jan 2, 2022",Paris,France,0.16
 "Jan 2, 2022",Antwerp,Belgium,0.18
-"Jan 2, 2022",Las Condes,Chile,0.19
 "Jan 2, 2022",Porto Alegre,Brazil,0.19
-"Jan 2, 2022",Guarulhos,Brazil,0.2
+"Jan 2, 2022",Las Condes,Chile,0.19
 "Jan 2, 2022",Puchong,Malaysia,0.2
+"Jan 2, 2022",Guarulhos,Brazil,0.2
 "Jan 2, 2022",Calgary,Canada,0.24
 "Jan 2, 2022",Prague,Czechia,0.26
 "Jan 2, 2022",Vitoria,Brazil,0.27
@@ -2287,65 +2424,65 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 1, 2022",Monterrey,Mexico,-0.65
 "Jan 1, 2022",Mexico City,Mexico,-0.64
 "Jan 1, 2022",Seattle,United States,-0.61
-"Jan 1, 2022",Irvine,United States,-0.6
 "Jan 1, 2022",Makati,Philippines,-0.6
-"Jan 1, 2022",Puebla City,Mexico,-0.59
-"Jan 1, 2022",Zapopan,Mexico,-0.59
-"Jan 1, 2022",Jakarta,Indonesia,-0.59
+"Jan 1, 2022",Irvine,United States,-0.6
 "Jan 1, 2022",Quezon City,Philippines,-0.59
-"Jan 1, 2022",Bogota,Colombia,-0.57
+"Jan 1, 2022",Puebla City,Mexico,-0.59
+"Jan 1, 2022",Jakarta,Indonesia,-0.59
+"Jan 1, 2022",Zapopan,Mexico,-0.59
 "Jan 1, 2022",Santiago De Queretaro,Mexico,-0.57
+"Jan 1, 2022",Bogota,Colombia,-0.57
 "Jan 1, 2022",Quebec City,Canada,-0.56
-"Jan 1, 2022",Vitoria,Brazil,-0.56
-"Jan 1, 2022",Portland,United States,-0.56
-"Jan 1, 2022",Belo Horizonte,Brazil,-0.56
-"Jan 1, 2022",Los Angeles,United States,-0.56
 "Jan 1, 2022",Guadalajara,Mexico,-0.56
+"Jan 1, 2022",Portland,United States,-0.56
+"Jan 1, 2022",Vitoria,Brazil,-0.56
+"Jan 1, 2022",Los Angeles,United States,-0.56
+"Jan 1, 2022",Belo Horizonte,Brazil,-0.56
 "Jan 1, 2022",New Orleans,United States,-0.55
-"Jan 1, 2022",Atlanta,United States,-0.54
 "Jan 1, 2022",Sao Paulo,Brazil,-0.54
+"Jan 1, 2022",Atlanta,United States,-0.54
 "Jan 1, 2022",Austin,United States,-0.54
 "Jan 1, 2022",Brasilia,Brazil,-0.53
-"Jan 1, 2022",Quito,Ecuador,-0.52
 "Jan 1, 2022",San Jose,United States,-0.52
+"Jan 1, 2022",Quito,Ecuador,-0.52
 "Jan 1, 2022",Lima,Peru,-0.51
-"Jan 1, 2022",Ottawa,Canada,-0.5
-"Jan 1, 2022",San Diego,United States,-0.5
-"Jan 1, 2022",San Jose,Costa Rica,-0.5
 "Jan 1, 2022",Denver,United States,-0.5
+"Jan 1, 2022",Ottawa,Canada,-0.5
+"Jan 1, 2022",San Jose,Costa Rica,-0.5
+"Jan 1, 2022",San Diego,United States,-0.5
 "Jan 1, 2022",Baltimore,United States,-0.49
 "Jan 1, 2022",Curitiba,Brazil,-0.49
 "Jan 1, 2022",Cambridge,United States,-0.49
-"Jan 1, 2022",San Francisco,United States,-0.47
 "Jan 1, 2022",Chicago,United States,-0.47
+"Jan 1, 2022",San Francisco,United States,-0.47
 "Jan 1, 2022",Houston,United States,-0.47
 "Jan 1, 2022",Pittsburgh,United States,-0.46
-"Jan 1, 2022",Rotterdam,Netherlands,-0.45
 "Jan 1, 2022",Hartford,United States,-0.45
 "Jan 1, 2022",Oakland,United States,-0.45
+"Jan 1, 2022",Rotterdam,Netherlands,-0.45
 "Jan 1, 2022",San Antonio,United States,-0.44
+"Jan 1, 2022",Amsterdam,Netherlands,-0.42
+"Jan 1, 2022",Phoenix,United States,-0.42
+"Jan 1, 2022",Philadelphia,United States,-0.42
 "Jan 1, 2022",Boston,United States,-0.42
 "Jan 1, 2022",Washington,United States,-0.42
-"Jan 1, 2022",Amsterdam,Netherlands,-0.42
-"Jan 1, 2022",Philadelphia,United States,-0.42
-"Jan 1, 2022",Phoenix,United States,-0.42
-"Jan 1, 2022",Calgary,Canada,-0.41
 "Jan 1, 2022",Sacramento,United States,-0.41
-"Jan 1, 2022",Jersey City,United States,-0.41
 "Jan 1, 2022",Miami,United States,-0.41
-"Jan 1, 2022",Cincinnati,United States,-0.4
+"Jan 1, 2022",Calgary,Canada,-0.41
+"Jan 1, 2022",Jersey City,United States,-0.41
 "Jan 1, 2022",Dallas,United States,-0.4
+"Jan 1, 2022",Cincinnati,United States,-0.4
 "Jan 1, 2022",Buenos Aires,Argentina,-0.39
 "Jan 1, 2022",Detroit,United States,-0.38
 "Jan 1, 2022",Bekasi,Indonesia,-0.38
 "Jan 1, 2022",Montreal,Canada,-0.38
-"Jan 1, 2022",Cali,Colombia,-0.37
 "Jan 1, 2022",Stamford,United States,-0.37
-"Jan 1, 2022",Mississauga,Canada,-0.36
-"Jan 1, 2022",Rio De Janeiro,Brazil,-0.36
+"Jan 1, 2022",Cali,Colombia,-0.37
 "Jan 1, 2022",Nashville,United States,-0.36
-"Jan 1, 2022",Porto Alegre,Brazil,-0.35
+"Jan 1, 2022",Rio De Janeiro,Brazil,-0.36
+"Jan 1, 2022",Mississauga,Canada,-0.36
 "Jan 1, 2022",Sydney,Australia,-0.35
+"Jan 1, 2022",Porto Alegre,Brazil,-0.35
 "Jan 1, 2022",Fort Worth,United States,-0.34
 "Jan 1, 2022",Montevideo,Uruguay,-0.34
 "Jan 1, 2022",Tampa,United States,-0.33
@@ -2358,147 +2495,10 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jan 1, 2022",Santiago,Chile,-0.29
 "Jan 1, 2022",Hamilton,Canada,-0.29
 "Jan 1, 2022",Salvador,Brazil,-0.27
-"Jan 1, 2022",Brussels,Belgium,-0.27
 "Jan 1, 2022",New York,United States,-0.27
+"Jan 1, 2022",Brussels,Belgium,-0.27
 "Jan 1, 2022",Yonkers,United States,-0.26
 "Jan 1, 2022",Charlotte,United States,-0.26
-"Jan 1, 2022",Bucharest,Romania,-0.25
-"Jan 1, 2022",Medellin,Colombia,-0.23
-"Jan 1, 2022",Milan,Italy,-0.23
-"Jan 1, 2022",Budapest,Hungary,-0.23
-"Jan 1, 2022",Ghent,Belgium,-0.23
-"Jan 1, 2022",Maipu,Chile,-0.22
-"Jan 1, 2022",Orlando,United States,-0.22
-"Jan 1, 2022",Fortaleza,Brazil,-0.22
-"Jan 1, 2022",Antwerp,Belgium,-0.22
-"Jan 1, 2022",Lisbon,Portugal,-0.18
-"Jan 1, 2022",Rome,Italy,-0.18
-"Jan 1, 2022",London,United Kingdom,-0.17
-"Jan 1, 2022",Fort Lauderdale,United States,-0.17
-"Jan 1, 2022",Las Condes,Chile,-0.16
-"Jan 1, 2022",Madrid,Spain,-0.16
-"Jan 1, 2022",South Tangerang,Indonesia,-0.16
-"Jan 1, 2022",Luton,United Kingdom,-0.14
-"Jan 1, 2022",Miami Beach,United States,-0.13
-"Jan 1, 2022",Singapore,Singapore,-0.12
-"Jan 1, 2022",Johor Bahru,Malaysia,-0.12
-"Jan 1, 2022",Melbourne,Australia,-0.11
-"Jan 1, 2022",Barcelona,Spain,-0.11
-"Jan 1, 2022",Kuala Lumpur,Malaysia,-0.11
-"Jan 1, 2022",Petaling Jaya,Malaysia,-0.08
-"Jan 1, 2022",Paris,France,-0.05
-"Jan 1, 2022",Shah Alam,Malaysia,-0.05
-"Jan 1, 2022",Perth,Australia,-0.04
-"Jan 1, 2022",Cape Town,South Africa,-0.02
-"Jan 1, 2022",Ramat Gan,Israel,-0.02
-"Jan 1, 2022",Bratislava,Slovakia,-0.01
-"Jan 1, 2022",Prague,Czechia,-0.01
-"Jan 1, 2022",Lille,France,0.0
-"Jan 1, 2022",Birmingham,United Kingdom,0.01
-"Jan 1, 2022",Puchong,Malaysia,0.02
-"Jan 1, 2022",Brisbane,Australia,0.03
-"Jan 1, 2022",Stockholm,Sweden,0.04
-"Jan 1, 2022",Rishon Letsiyon,Israel,0.05
-"Jan 1, 2022",Liverpool,United Kingdom,0.05
-"Jan 1, 2022",Tel Aviv-Yafo,Israel,0.06
-"Jan 1, 2022",Manchester,United Kingdom,0.06
-"Jan 1, 2022",Brno,Czechia,0.11
-"Jan 1, 2022",Gold Coast,Australia,0.13
-"Jan 1, 2022",Bristol,United Kingdom,0.13
-"Jan 1, 2022",Lyon,France,0.16
-"Jan 1, 2022",Warsaw,Poland,0.17
-"Jan 1, 2022",Florianopolis,Brazil,0.18
-"Jan 1, 2022",Bordeaux,France,0.22
-"Jan 1, 2022",Marseille,France,0.23
-"Jan 1, 2022",Haifa,Israel,0.24
-"Jan 1, 2022",Petah Tikva,Israel,0.25
-"Jan 1, 2022",Toulouse,France,0.27
-"Jan 1, 2022",Jerusalem,Israel,0.28
-"Jan 1, 2022",Be'er Sheva,Israel,0.28
-"Jan 1, 2022",Kyiv,Ukraine,0.33
-"Jan 1, 2022",Krakow,Poland,0.35
-"Jan 1, 2022",Vilnius,Lithuania,0.41
-"Jan 1, 2022",Doha,Qatar,0.42
-"Jan 1, 2022",Ipoh,Malaysia,0.47
-"Jan 1, 2022",Berlin,Germany,0.54
-"Jan 1, 2022",Kaunas,Lithuania,0.8
-"Jan 1, 2022",Lviv,Ukraine,1.93
-"Dec 31, 2021",Brasilia,Brazil,-0.74
-"Dec 31, 2021",Seattle,United States,-0.63
-"Dec 31, 2021",Makati,Philippines,-0.63
-"Dec 31, 2021",Bratislava,Slovakia,-0.57
-"Dec 31, 2021",Sao Paulo,Brazil,-0.56
-"Dec 31, 2021",Curitiba,Brazil,-0.55
-"Dec 31, 2021",Los Angeles,United States,-0.51
-"Dec 31, 2021",Irvine,United States,-0.51
-"Dec 31, 2021",Belo Horizonte,Brazil,-0.51
-"Dec 31, 2021",Manila,Philippines,-0.5
-"Dec 31, 2021",Porto Alegre,Brazil,-0.49
-"Dec 31, 2021",Milan,Italy,-0.48
-"Dec 31, 2021",Monterrey,Mexico,-0.47
-"Dec 31, 2021",Brno,Czechia,-0.47
-"Dec 31, 2021",Quezon City,Philippines,-0.46
-"Dec 31, 2021",Riga,Latvia,-0.45
-"Dec 31, 2021",Mexico City,Mexico,-0.45
-"Dec 31, 2021",Amsterdam,Netherlands,-0.44
-"Dec 31, 2021",Buenos Aires,Argentina,-0.44
-"Dec 31, 2021",Portland,United States,-0.43
-"Dec 31, 2021",Sacramento,United States,-0.43
-"Dec 31, 2021",San Jose,United States,-0.43
-"Dec 31, 2021",San Diego,United States,-0.42
-"Dec 31, 2021",Prague,Czechia,-0.42
-"Dec 31, 2021",Zapopan,Mexico,-0.42
-"Dec 31, 2021",Detroit,United States,-0.41
-"Dec 31, 2021",San Francisco,United States,-0.41
-"Dec 31, 2021",Austin,United States,-0.41
-"Dec 31, 2021",Houston,United States,-0.4
-"Dec 31, 2021",Jakarta,Indonesia,-0.4
-"Dec 31, 2021",Rome,Italy,-0.4
-"Dec 31, 2021",Miami,United States,-0.39
-"Dec 31, 2021",Quebec City,Canada,-0.39
-"Dec 31, 2021",Rotterdam,Netherlands,-0.38
-"Dec 31, 2021",Montreal,Canada,-0.38
-"Dec 31, 2021",Atlanta,United States,-0.38
-"Dec 31, 2021",Budapest,Hungary,-0.37
-"Dec 31, 2021",Baltimore,United States,-0.37
-"Dec 31, 2021",Lisbon,Portugal,-0.36
-"Dec 31, 2021",Denver,United States,-0.36
-"Dec 31, 2021",Tangerang,Indonesia,-0.35
-"Dec 31, 2021",Guadalajara,Mexico,-0.35
-"Dec 31, 2021",Boston,United States,-0.35
-"Dec 31, 2021",Bucharest,Romania,-0.35
-"Dec 31, 2021",Vitoria,Brazil,-0.35
-"Dec 31, 2021",San Jose,Costa Rica,-0.35
-"Dec 31, 2021",Guarulhos,Brazil,-0.34
-"Dec 31, 2021",Dallas,United States,-0.34
-"Dec 31, 2021",Mississauga,Canada,-0.33
-"Dec 31, 2021",Madrid,Spain,-0.33
-"Dec 31, 2021",Vaughan,Canada,-0.32
-"Dec 31, 2021",Toronto,Canada,-0.32
-"Dec 31, 2021",Oakland,United States,-0.32
-"Dec 31, 2021",Recife,Brazil,-0.32
-"Dec 31, 2021",Berlin,Germany,-0.32
-"Dec 31, 2021",Washington,United States,-0.31
-"Dec 31, 2021",Stockholm,Sweden,-0.3
-"Dec 31, 2021",Chicago,United States,-0.3
-"Dec 31, 2021",Cincinnati,United States,-0.28
-"Dec 31, 2021",Fort Lauderdale,United States,-0.28
-"Dec 31, 2021",San Antonio,United States,-0.28
-"Dec 31, 2021",Lima,Peru,-0.27
-"Dec 31, 2021",Pittsburgh,United States,-0.27
-"Dec 31, 2021",Puebla City,Mexico,-0.26
-"Dec 31, 2021",Phoenix,United States,-0.26
-"Dec 31, 2021",Antwerp,Belgium,-0.26
-"Dec 31, 2021",Rio De Janeiro,Brazil,-0.26
-"Dec 31, 2021",Santiago De Queretaro,Mexico,-0.25
-"Dec 31, 2021",Hamilton,Canada,-0.24
-"Dec 31, 2021",Philadelphia,United States,-0.24
-"Dec 31, 2021",Ottawa,Canada,-0.24
-"Dec 31, 2021",Minneapolis,United States,-0.22
-"Dec 31, 2021",Fort Worth,United States,-0.22
-"Dec 31, 2021",Fortaleza,Brazil,-0.22
-"Dec 31, 2021",Quito,Ecuador,-0.2
-"Dec 31, 2021",Lyon,France,-0.2
 "Jan 1, 2022",Bucharest,Romania,-0.25
 "Jan 1, 2022",Budapest,Hungary,-0.23
 "Jan 1, 2022",Milan,Italy,-0.23
