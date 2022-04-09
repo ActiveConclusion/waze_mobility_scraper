@@ -11,18 +11,27 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 import pandas as pd
 
-# from pyvirtualdisplay import Display
+
+from pyvirtualdisplay import Display
 
 
-# def start_display():
-#     display = Display(visible=0, size=(1200, 1200))
-#     display.start()
-#     return display
+def start_display():
+    display = Display(visible=0, size=(1200, 1200))
+    display.start()
+    return display
+
+
+COUNTRY_LEVEL_URL = "https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/bhuOB"
+CITY_LEVEL_URL = "https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/epuOB"
+COUNTRY_LEVEL_FILE_NAME = "Waze_Country-Level_Data.csv"
+CITY_LEVEL_FILE_NAME = "Waze_City-Level_Data.csv"
 
 
 def start_driver():
     options = webdriver.ChromeOptions()
     options.add_argument("--lang=en")
+    prefs = {"download.default_directory": os.getcwd()}
+    options.add_experimental_option("prefs", prefs)
     driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
     return driver
 
@@ -47,72 +56,44 @@ def scrape_data(level, url, driver):
         driver.find_element_by_tag_name("body").send_keys(Keys.ARROW_DOWN)
 
     df = pd.DataFrame()
-    menu_button = driver.find_elements_by_xpath(
-        "//div[@class='chart-menu-button header-menu-button']"
-    )[1]
-    print(menu_button)
+    menu_button = driver.find_elements_by_xpath("//button[@gmat-button]//mat-icon")[-1]
     menu_button.click()
-    time.sleep(10)  # for test
+    time.sleep(1)  # for test
+    data_button = driver.find_elements_by_xpath(
+        '//div[contains(@class, "mat-menu-content")]//button'
+    )[2]
+    data_button.click()
+    time.sleep(1)  # for test
+    export_button = driver.find_elements_by_xpath('//button[@color="primary"]')[0]
+    export_button.click()
+    time.sleep(10)
     return df
 
 
 try:
-    # display = start_display()
+    display = start_display()
     driver = start_driver()
 
     # scrape country-level data
-    status = False
-    tries = 0
-    while not status and tries < 3:
-        tries += 1
-        country_level_df = scrape_data(
-            "country",
-            "https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/bhuOB",
-            driver,
-        )
-        country_level_df["Index"] = (
-            country_level_df["Index"].str.rstrip(".").astype(int)
-        )
-        if (
-            (country_level_df.Index - country_level_df.index) == 1
-        ).all() and not country_level_df.duplicated().any():
-            status = True
-            country_level_df = country_level_df.drop(columns=["Index"])
-            country_level_df["% Change In Waze Driven Miles/KMs"] = (
-                pd.to_numeric(
-                    country_level_df["% Change In Waze Driven Miles/KMs"].str.rstrip(
-                        "%"
-                    )
-                )
-                / 100
-            )
-            country_level_df.to_csv("Waze_Country-Level_Data.csv", index=False)
+    scrape_data(
+        "country",
+        COUNTRY_LEVEL_URL,
+        driver,
+    )
 
     # scrape city-level data
-    status = False
-    tries = 0
-    while not status and tries < 3:
-        tries += 1
-        city_level_df = scrape_data(
-            "city",
-            "https://datastudio.google.com/embed/reporting/fe8a3c7d-9303-4e70-8acb-4e042714fa76/page/epuOB",
-            driver,
-        )
-        city_level_df["Index"] = city_level_df["Index"].str.rstrip(".").astype(int)
-        if (
-            (city_level_df.Index - city_level_df.index) == 1
-        ).all() and not city_level_df.duplicated().any():
-            status = True
-            city_level_df = city_level_df.drop(columns=["Index"])
-            city_level_df["% Change In Waze Driven Miles/KMs"] = (
-                pd.to_numeric(
-                    city_level_df["% Change In Waze Driven Miles/KMs"].str.rstrip("%")
-                )
-                / 100
-            )
-            city_level_df.to_csv("Waze_City-Level_Data.csv", index=False)
+    scrape_data(
+        "city",
+        CITY_LEVEL_URL,
+        driver,
+    )
 
     driver.quit()
-    # display.stop()
+    display.stop()
+    for fname in os.listdir(os.getcwd()):
+        if "Dashboard_Country" in fname:
+            os.replace(fname, COUNTRY_LEVEL_FILE_NAME)
+        if "Dashboard_City" in fname:
+            os.replace(fname, CITY_LEVEL_FILE_NAME)
 except Exception as e:
     print(e)
